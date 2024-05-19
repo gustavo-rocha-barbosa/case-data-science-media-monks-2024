@@ -1,0 +1,4537 @@
+,ano,uf,genero,mes,numero
+0,2019,Rondônia,Masculino,Janeiro,0
+1,2019,Rondônia,Masculino,Fevereiro,4
+2,2019,Rondônia,Masculino,Março,1
+3,2019,Rondônia,Masculino,Abril,0
+4,2019,Rondônia,Masculino,Maio,0
+5,2019,Rondônia,Masculino,Junho,2
+6,2019,Rondônia,Masculino,Julho,3
+7,2019,Rondônia,Masculino,Agosto,1
+8,2019,Rondônia,Masculino,Setembro,2
+9,2019,Rondônia,Masculino,Outubro,0
+10,2019,Rondônia,Masculino,Novembro,2
+11,2019,Rondônia,Masculino,Dezembro,2
+12,2019,Acre,Masculino,Janeiro,0
+13,2019,Acre,Masculino,Fevereiro,0
+14,2019,Acre,Masculino,Março,0
+15,2019,Acre,Masculino,Abril,0
+16,2019,Acre,Masculino,Maio,0
+17,2019,Acre,Masculino,Junho,1
+18,2019,Acre,Masculino,Julho,2
+19,2019,Acre,Masculino,Agosto,2
+20,2019,Acre,Masculino,Setembro,0
+21,2019,Acre,Masculino,Outubro,0
+22,2019,Acre,Masculino,Novembro,0
+23,2019,Acre,Masculino,Dezembro,1
+24,2019,Amazonas,Masculino,Janeiro,8
+25,2019,Amazonas,Masculino,Fevereiro,1
+26,2019,Amazonas,Masculino,Março,1
+27,2019,Amazonas,Masculino,Abril,0
+28,2019,Amazonas,Masculino,Maio,3
+29,2019,Amazonas,Masculino,Junho,2
+30,2019,Amazonas,Masculino,Julho,2
+31,2019,Amazonas,Masculino,Agosto,2
+32,2019,Amazonas,Masculino,Setembro,1
+33,2019,Amazonas,Masculino,Outubro,1
+34,2019,Amazonas,Masculino,Novembro,0
+35,2019,Amazonas,Masculino,Dezembro,1
+36,2019,Roraima,Masculino,Janeiro,0
+37,2019,Roraima,Masculino,Fevereiro,1
+38,2019,Roraima,Masculino,Março,0
+39,2019,Roraima,Masculino,Abril,2
+40,2019,Roraima,Masculino,Maio,1
+41,2019,Roraima,Masculino,Junho,0
+42,2019,Roraima,Masculino,Julho,1
+43,2019,Roraima,Masculino,Agosto,1
+44,2019,Roraima,Masculino,Setembro,1
+45,2019,Roraima,Masculino,Outubro,0
+46,2019,Roraima,Masculino,Novembro,0
+47,2019,Roraima,Masculino,Dezembro,0
+48,2019,Pará,Masculino,Janeiro,9
+49,2019,Pará,Masculino,Fevereiro,7
+50,2019,Pará,Masculino,Março,3
+51,2019,Pará,Masculino,Abril,1
+52,2019,Pará,Masculino,Maio,7
+53,2019,Pará,Masculino,Junho,5
+54,2019,Pará,Masculino,Julho,6
+55,2019,Pará,Masculino,Agosto,2
+56,2019,Pará,Masculino,Setembro,2
+57,2019,Pará,Masculino,Outubro,5
+58,2019,Pará,Masculino,Novembro,5
+59,2019,Pará,Masculino,Dezembro,11
+60,2019,Amapá,Masculino,Janeiro,0
+61,2019,Amapá,Masculino,Fevereiro,5
+62,2019,Amapá,Masculino,Março,0
+63,2019,Amapá,Masculino,Abril,0
+64,2019,Amapá,Masculino,Maio,0
+65,2019,Amapá,Masculino,Junho,0
+66,2019,Amapá,Masculino,Julho,0
+67,2019,Amapá,Masculino,Agosto,0
+68,2019,Amapá,Masculino,Setembro,0
+69,2019,Amapá,Masculino,Outubro,0
+70,2019,Amapá,Masculino,Novembro,0
+71,2019,Amapá,Masculino,Dezembro,0
+72,2019,Tocantins,Masculino,Janeiro,1
+73,2019,Tocantins,Masculino,Fevereiro,1
+74,2019,Tocantins,Masculino,Março,0
+75,2019,Tocantins,Masculino,Abril,0
+76,2019,Tocantins,Masculino,Maio,0
+77,2019,Tocantins,Masculino,Junho,1
+78,2019,Tocantins,Masculino,Julho,0
+79,2019,Tocantins,Masculino,Agosto,1
+80,2019,Tocantins,Masculino,Setembro,2
+81,2019,Tocantins,Masculino,Outubro,0
+82,2019,Tocantins,Masculino,Novembro,1
+83,2019,Tocantins,Masculino,Dezembro,1
+84,2019,Maranhão,Masculino,Janeiro,2
+85,2019,Maranhão,Masculino,Fevereiro,1
+86,2019,Maranhão,Masculino,Março,2
+87,2019,Maranhão,Masculino,Abril,1
+88,2019,Maranhão,Masculino,Maio,0
+89,2019,Maranhão,Masculino,Junho,2
+90,2019,Maranhão,Masculino,Julho,1
+91,2019,Maranhão,Masculino,Agosto,0
+92,2019,Maranhão,Masculino,Setembro,1
+93,2019,Maranhão,Masculino,Outubro,0
+94,2019,Maranhão,Masculino,Novembro,3
+95,2019,Maranhão,Masculino,Dezembro,2
+96,2019,Piauí,Masculino,Janeiro,1
+97,2019,Piauí,Masculino,Fevereiro,4
+98,2019,Piauí,Masculino,Março,0
+99,2019,Piauí,Masculino,Abril,1
+100,2019,Piauí,Masculino,Maio,0
+101,2019,Piauí,Masculino,Junho,0
+102,2019,Piauí,Masculino,Julho,1
+103,2019,Piauí,Masculino,Agosto,2
+104,2019,Piauí,Masculino,Setembro,3
+105,2019,Piauí,Masculino,Outubro,1
+106,2019,Piauí,Masculino,Novembro,2
+107,2019,Piauí,Masculino,Dezembro,0
+108,2019,Ceará,Masculino,Janeiro,21
+109,2019,Ceará,Masculino,Fevereiro,10
+110,2019,Ceará,Masculino,Março,8
+111,2019,Ceará,Masculino,Abril,8
+112,2019,Ceará,Masculino,Maio,8
+113,2019,Ceará,Masculino,Junho,9
+114,2019,Ceará,Masculino,Julho,10
+115,2019,Ceará,Masculino,Agosto,4
+116,2019,Ceará,Masculino,Setembro,4
+117,2019,Ceará,Masculino,Outubro,7
+118,2019,Ceará,Masculino,Novembro,10
+119,2019,Ceará,Masculino,Dezembro,8
+120,2019,Rio Grande do Norte,Masculino,Janeiro,6
+121,2019,Rio Grande do Norte,Masculino,Fevereiro,9
+122,2019,Rio Grande do Norte,Masculino,Março,4
+123,2019,Rio Grande do Norte,Masculino,Abril,2
+124,2019,Rio Grande do Norte,Masculino,Maio,4
+125,2019,Rio Grande do Norte,Masculino,Junho,7
+126,2019,Rio Grande do Norte,Masculino,Julho,2
+127,2019,Rio Grande do Norte,Masculino,Agosto,5
+128,2019,Rio Grande do Norte,Masculino,Setembro,3
+129,2019,Rio Grande do Norte,Masculino,Outubro,2
+130,2019,Rio Grande do Norte,Masculino,Novembro,6
+131,2019,Rio Grande do Norte,Masculino,Dezembro,3
+132,2019,Paraíba,Masculino,Janeiro,9
+133,2019,Paraíba,Masculino,Fevereiro,3
+134,2019,Paraíba,Masculino,Março,3
+135,2019,Paraíba,Masculino,Abril,0
+136,2019,Paraíba,Masculino,Maio,5
+137,2019,Paraíba,Masculino,Junho,2
+138,2019,Paraíba,Masculino,Julho,1
+139,2019,Paraíba,Masculino,Agosto,2
+140,2019,Paraíba,Masculino,Setembro,1
+141,2019,Paraíba,Masculino,Outubro,0
+142,2019,Paraíba,Masculino,Novembro,2
+143,2019,Paraíba,Masculino,Dezembro,1
+144,2019,Pernambuco,Masculino,Janeiro,11
+145,2019,Pernambuco,Masculino,Fevereiro,23
+146,2019,Pernambuco,Masculino,Março,14
+147,2019,Pernambuco,Masculino,Abril,8
+148,2019,Pernambuco,Masculino,Maio,6
+149,2019,Pernambuco,Masculino,Junho,6
+150,2019,Pernambuco,Masculino,Julho,9
+151,2019,Pernambuco,Masculino,Agosto,9
+152,2019,Pernambuco,Masculino,Setembro,9
+153,2019,Pernambuco,Masculino,Outubro,11
+154,2019,Pernambuco,Masculino,Novembro,5
+155,2019,Pernambuco,Masculino,Dezembro,13
+156,2019,Alagoas,Masculino,Janeiro,0
+157,2019,Alagoas,Masculino,Fevereiro,4
+158,2019,Alagoas,Masculino,Março,1
+159,2019,Alagoas,Masculino,Abril,2
+160,2019,Alagoas,Masculino,Maio,3
+161,2019,Alagoas,Masculino,Junho,0
+162,2019,Alagoas,Masculino,Julho,0
+163,2019,Alagoas,Masculino,Agosto,1
+164,2019,Alagoas,Masculino,Setembro,4
+165,2019,Alagoas,Masculino,Outubro,5
+166,2019,Alagoas,Masculino,Novembro,3
+167,2019,Alagoas,Masculino,Dezembro,2
+168,2019,Sergipe,Masculino,Janeiro,1
+169,2019,Sergipe,Masculino,Fevereiro,1
+170,2019,Sergipe,Masculino,Março,2
+171,2019,Sergipe,Masculino,Abril,1
+172,2019,Sergipe,Masculino,Maio,2
+173,2019,Sergipe,Masculino,Junho,1
+174,2019,Sergipe,Masculino,Julho,1
+175,2019,Sergipe,Masculino,Agosto,0
+176,2019,Sergipe,Masculino,Setembro,4
+177,2019,Sergipe,Masculino,Outubro,0
+178,2019,Sergipe,Masculino,Novembro,1
+179,2019,Sergipe,Masculino,Dezembro,0
+180,2019,Bahia,Masculino,Janeiro,9
+181,2019,Bahia,Masculino,Fevereiro,12
+182,2019,Bahia,Masculino,Março,12
+183,2019,Bahia,Masculino,Abril,11
+184,2019,Bahia,Masculino,Maio,8
+185,2019,Bahia,Masculino,Junho,7
+186,2019,Bahia,Masculino,Julho,10
+187,2019,Bahia,Masculino,Agosto,12
+188,2019,Bahia,Masculino,Setembro,6
+189,2019,Bahia,Masculino,Outubro,16
+190,2019,Bahia,Masculino,Novembro,7
+191,2019,Bahia,Masculino,Dezembro,16
+192,2019,Minas Gerais,Masculino,Janeiro,48
+193,2019,Minas Gerais,Masculino,Fevereiro,32
+194,2019,Minas Gerais,Masculino,Março,23
+195,2019,Minas Gerais,Masculino,Abril,30
+196,2019,Minas Gerais,Masculino,Maio,26
+197,2019,Minas Gerais,Masculino,Junho,16
+198,2019,Minas Gerais,Masculino,Julho,24
+199,2019,Minas Gerais,Masculino,Agosto,30
+200,2019,Minas Gerais,Masculino,Setembro,32
+201,2019,Minas Gerais,Masculino,Outubro,29
+202,2019,Minas Gerais,Masculino,Novembro,34
+203,2019,Minas Gerais,Masculino,Dezembro,27
+204,2019,Espírito Santo,Masculino,Janeiro,3
+205,2019,Espírito Santo,Masculino,Fevereiro,8
+206,2019,Espírito Santo,Masculino,Março,2
+207,2019,Espírito Santo,Masculino,Abril,3
+208,2019,Espírito Santo,Masculino,Maio,5
+209,2019,Espírito Santo,Masculino,Junho,5
+210,2019,Espírito Santo,Masculino,Julho,7
+211,2019,Espírito Santo,Masculino,Agosto,3
+212,2019,Espírito Santo,Masculino,Setembro,6
+213,2019,Espírito Santo,Masculino,Outubro,5
+214,2019,Espírito Santo,Masculino,Novembro,5
+215,2019,Espírito Santo,Masculino,Dezembro,4
+216,2019,Rio de Janeiro,Masculino,Janeiro,59
+217,2019,Rio de Janeiro,Masculino,Fevereiro,52
+218,2019,Rio de Janeiro,Masculino,Março,44
+219,2019,Rio de Janeiro,Masculino,Abril,30
+220,2019,Rio de Janeiro,Masculino,Maio,35
+221,2019,Rio de Janeiro,Masculino,Junho,28
+222,2019,Rio de Janeiro,Masculino,Julho,24
+223,2019,Rio de Janeiro,Masculino,Agosto,29
+224,2019,Rio de Janeiro,Masculino,Setembro,30
+225,2019,Rio de Janeiro,Masculino,Outubro,27
+226,2019,Rio de Janeiro,Masculino,Novembro,25
+227,2019,Rio de Janeiro,Masculino,Dezembro,27
+228,2019,São Paulo,Masculino,Janeiro,201
+229,2019,São Paulo,Masculino,Fevereiro,126
+230,2019,São Paulo,Masculino,Março,119
+231,2019,São Paulo,Masculino,Abril,86
+232,2019,São Paulo,Masculino,Maio,90
+233,2019,São Paulo,Masculino,Junho,122
+234,2019,São Paulo,Masculino,Julho,122
+235,2019,São Paulo,Masculino,Agosto,112
+236,2019,São Paulo,Masculino,Setembro,113
+237,2019,São Paulo,Masculino,Outubro,99
+238,2019,São Paulo,Masculino,Novembro,132
+239,2019,São Paulo,Masculino,Dezembro,131
+240,2019,Paraná,Masculino,Janeiro,24
+241,2019,Paraná,Masculino,Fevereiro,26
+242,2019,Paraná,Masculino,Março,16
+243,2019,Paraná,Masculino,Abril,12
+244,2019,Paraná,Masculino,Maio,16
+245,2019,Paraná,Masculino,Junho,12
+246,2019,Paraná,Masculino,Julho,10
+247,2019,Paraná,Masculino,Agosto,13
+248,2019,Paraná,Masculino,Setembro,7
+249,2019,Paraná,Masculino,Outubro,20
+250,2019,Paraná,Masculino,Novembro,15
+251,2019,Paraná,Masculino,Dezembro,14
+252,2019,Santa Catarina,Masculino,Janeiro,24
+253,2019,Santa Catarina,Masculino,Fevereiro,21
+254,2019,Santa Catarina,Masculino,Março,14
+255,2019,Santa Catarina,Masculino,Abril,12
+256,2019,Santa Catarina,Masculino,Maio,11
+257,2019,Santa Catarina,Masculino,Junho,11
+258,2019,Santa Catarina,Masculino,Julho,20
+259,2019,Santa Catarina,Masculino,Agosto,17
+260,2019,Santa Catarina,Masculino,Setembro,13
+261,2019,Santa Catarina,Masculino,Outubro,11
+262,2019,Santa Catarina,Masculino,Novembro,11
+263,2019,Santa Catarina,Masculino,Dezembro,15
+264,2019,Rio Grande do Sul,Masculino,Janeiro,33
+265,2019,Rio Grande do Sul,Masculino,Fevereiro,33
+266,2019,Rio Grande do Sul,Masculino,Março,16
+267,2019,Rio Grande do Sul,Masculino,Abril,11
+268,2019,Rio Grande do Sul,Masculino,Maio,7
+269,2019,Rio Grande do Sul,Masculino,Junho,8
+270,2019,Rio Grande do Sul,Masculino,Julho,7
+271,2019,Rio Grande do Sul,Masculino,Agosto,5
+272,2019,Rio Grande do Sul,Masculino,Setembro,11
+273,2019,Rio Grande do Sul,Masculino,Outubro,11
+274,2019,Rio Grande do Sul,Masculino,Novembro,18
+275,2019,Rio Grande do Sul,Masculino,Dezembro,20
+276,2019,Mato Grosso do Sul,Masculino,Janeiro,5
+277,2019,Mato Grosso do Sul,Masculino,Fevereiro,3
+278,2019,Mato Grosso do Sul,Masculino,Março,5
+279,2019,Mato Grosso do Sul,Masculino,Abril,2
+280,2019,Mato Grosso do Sul,Masculino,Maio,1
+281,2019,Mato Grosso do Sul,Masculino,Junho,1
+282,2019,Mato Grosso do Sul,Masculino,Julho,1
+283,2019,Mato Grosso do Sul,Masculino,Agosto,1
+284,2019,Mato Grosso do Sul,Masculino,Setembro,5
+285,2019,Mato Grosso do Sul,Masculino,Outubro,4
+286,2019,Mato Grosso do Sul,Masculino,Novembro,4
+287,2019,Mato Grosso do Sul,Masculino,Dezembro,3
+288,2019,Mato Grosso,Masculino,Janeiro,2
+289,2019,Mato Grosso,Masculino,Fevereiro,3
+290,2019,Mato Grosso,Masculino,Março,7
+291,2019,Mato Grosso,Masculino,Abril,6
+292,2019,Mato Grosso,Masculino,Maio,5
+293,2019,Mato Grosso,Masculino,Junho,6
+294,2019,Mato Grosso,Masculino,Julho,1
+295,2019,Mato Grosso,Masculino,Agosto,0
+296,2019,Mato Grosso,Masculino,Setembro,0
+297,2019,Mato Grosso,Masculino,Outubro,0
+298,2019,Mato Grosso,Masculino,Novembro,0
+299,2019,Mato Grosso,Masculino,Dezembro,1
+300,2019,Goiás,Masculino,Janeiro,2
+301,2019,Goiás,Masculino,Fevereiro,3
+302,2019,Goiás,Masculino,Março,2
+303,2019,Goiás,Masculino,Abril,0
+304,2019,Goiás,Masculino,Maio,0
+305,2019,Goiás,Masculino,Junho,6
+306,2019,Goiás,Masculino,Julho,3
+307,2019,Goiás,Masculino,Agosto,4
+308,2019,Goiás,Masculino,Setembro,8
+309,2019,Goiás,Masculino,Outubro,12
+310,2019,Goiás,Masculino,Novembro,9
+311,2019,Goiás,Masculino,Dezembro,9
+312,2019,Distrito Federal,Masculino,Janeiro,25
+313,2019,Distrito Federal,Masculino,Fevereiro,14
+314,2019,Distrito Federal,Masculino,Março,10
+315,2019,Distrito Federal,Masculino,Abril,14
+316,2019,Distrito Federal,Masculino,Maio,7
+317,2019,Distrito Federal,Masculino,Junho,9
+318,2019,Distrito Federal,Masculino,Julho,2
+319,2019,Distrito Federal,Masculino,Agosto,10
+320,2019,Distrito Federal,Masculino,Setembro,13
+321,2019,Distrito Federal,Masculino,Outubro,9
+322,2019,Distrito Federal,Masculino,Novembro,9
+323,2019,Distrito Federal,Masculino,Dezembro,10
+324,2015,Rondônia,Masculino,Janeiro,1
+325,2015,Rondônia,Masculino,Fevereiro,0
+326,2015,Rondônia,Masculino,Março,1
+327,2015,Rondônia,Masculino,Abril,0
+328,2015,Rondônia,Masculino,Maio,0
+329,2015,Rondônia,Masculino,Junho,0
+330,2015,Rondônia,Masculino,Julho,3
+331,2015,Rondônia,Masculino,Agosto,1
+332,2015,Rondônia,Masculino,Setembro,0
+333,2015,Rondônia,Masculino,Outubro,0
+334,2015,Rondônia,Masculino,Novembro,0
+335,2015,Rondônia,Masculino,Dezembro,1
+336,2015,Acre,Masculino,Janeiro,0
+337,2015,Acre,Masculino,Fevereiro,0
+338,2015,Acre,Masculino,Março,0
+339,2015,Acre,Masculino,Abril,0
+340,2015,Acre,Masculino,Maio,0
+341,2015,Acre,Masculino,Junho,0
+342,2015,Acre,Masculino,Julho,0
+343,2015,Acre,Masculino,Agosto,0
+344,2015,Acre,Masculino,Setembro,0
+345,2015,Acre,Masculino,Outubro,0
+346,2015,Acre,Masculino,Novembro,0
+347,2015,Acre,Masculino,Dezembro,0
+348,2015,Amazonas,Masculino,Janeiro,0
+349,2015,Amazonas,Masculino,Fevereiro,6
+350,2015,Amazonas,Masculino,Março,3
+351,2015,Amazonas,Masculino,Abril,2
+352,2015,Amazonas,Masculino,Maio,4
+353,2015,Amazonas,Masculino,Junho,4
+354,2015,Amazonas,Masculino,Julho,7
+355,2015,Amazonas,Masculino,Agosto,6
+356,2015,Amazonas,Masculino,Setembro,0
+357,2015,Amazonas,Masculino,Outubro,4
+358,2015,Amazonas,Masculino,Novembro,3
+359,2015,Amazonas,Masculino,Dezembro,5
+360,2015,Roraima,Masculino,Janeiro,0
+361,2015,Roraima,Masculino,Fevereiro,0
+362,2015,Roraima,Masculino,Março,0
+363,2015,Roraima,Masculino,Abril,0
+364,2015,Roraima,Masculino,Maio,0
+365,2015,Roraima,Masculino,Junho,0
+366,2015,Roraima,Masculino,Julho,0
+367,2015,Roraima,Masculino,Agosto,0
+368,2015,Roraima,Masculino,Setembro,0
+369,2015,Roraima,Masculino,Outubro,1
+370,2015,Roraima,Masculino,Novembro,0
+371,2015,Roraima,Masculino,Dezembro,0
+372,2015,Pará,Masculino,Janeiro,3
+373,2015,Pará,Masculino,Fevereiro,1
+374,2015,Pará,Masculino,Março,2
+375,2015,Pará,Masculino,Abril,3
+376,2015,Pará,Masculino,Maio,11
+377,2015,Pará,Masculino,Junho,11
+378,2015,Pará,Masculino,Julho,1
+379,2015,Pará,Masculino,Agosto,3
+380,2015,Pará,Masculino,Setembro,0
+381,2015,Pará,Masculino,Outubro,2
+382,2015,Pará,Masculino,Novembro,3
+383,2015,Pará,Masculino,Dezembro,15
+384,2015,Amapá,Masculino,Janeiro,0
+385,2015,Amapá,Masculino,Fevereiro,1
+386,2015,Amapá,Masculino,Março,1
+387,2015,Amapá,Masculino,Abril,0
+388,2015,Amapá,Masculino,Maio,0
+389,2015,Amapá,Masculino,Junho,0
+390,2015,Amapá,Masculino,Julho,1
+391,2015,Amapá,Masculino,Agosto,0
+392,2015,Amapá,Masculino,Setembro,0
+393,2015,Amapá,Masculino,Outubro,0
+394,2015,Amapá,Masculino,Novembro,0
+395,2015,Amapá,Masculino,Dezembro,0
+396,2015,Tocantins,Masculino,Janeiro,1
+397,2015,Tocantins,Masculino,Fevereiro,1
+398,2015,Tocantins,Masculino,Março,0
+399,2015,Tocantins,Masculino,Abril,1
+400,2015,Tocantins,Masculino,Maio,0
+401,2015,Tocantins,Masculino,Junho,1
+402,2015,Tocantins,Masculino,Julho,0
+403,2015,Tocantins,Masculino,Agosto,1
+404,2015,Tocantins,Masculino,Setembro,0
+405,2015,Tocantins,Masculino,Outubro,0
+406,2015,Tocantins,Masculino,Novembro,1
+407,2015,Tocantins,Masculino,Dezembro,0
+408,2015,Maranhão,Masculino,Janeiro,8
+409,2015,Maranhão,Masculino,Fevereiro,4
+410,2015,Maranhão,Masculino,Março,1
+411,2015,Maranhão,Masculino,Abril,5
+412,2015,Maranhão,Masculino,Maio,1
+413,2015,Maranhão,Masculino,Junho,2
+414,2015,Maranhão,Masculino,Julho,6
+415,2015,Maranhão,Masculino,Agosto,1
+416,2015,Maranhão,Masculino,Setembro,2
+417,2015,Maranhão,Masculino,Outubro,6
+418,2015,Maranhão,Masculino,Novembro,4
+419,2015,Maranhão,Masculino,Dezembro,10
+420,2015,Piauí,Masculino,Janeiro,0
+421,2015,Piauí,Masculino,Fevereiro,0
+422,2015,Piauí,Masculino,Março,0
+423,2015,Piauí,Masculino,Abril,1
+424,2015,Piauí,Masculino,Maio,2
+425,2015,Piauí,Masculino,Junho,0
+426,2015,Piauí,Masculino,Julho,2
+427,2015,Piauí,Masculino,Agosto,1
+428,2015,Piauí,Masculino,Setembro,1
+429,2015,Piauí,Masculino,Outubro,0
+430,2015,Piauí,Masculino,Novembro,0
+431,2015,Piauí,Masculino,Dezembro,0
+432,2015,Ceará,Masculino,Janeiro,17
+433,2015,Ceará,Masculino,Fevereiro,25
+434,2015,Ceará,Masculino,Março,11
+435,2015,Ceará,Masculino,Abril,16
+436,2015,Ceará,Masculino,Maio,18
+437,2015,Ceará,Masculino,Junho,29
+438,2015,Ceará,Masculino,Julho,26
+439,2015,Ceará,Masculino,Agosto,17
+440,2015,Ceará,Masculino,Setembro,25
+441,2015,Ceará,Masculino,Outubro,16
+442,2015,Ceará,Masculino,Novembro,21
+443,2015,Ceará,Masculino,Dezembro,25
+444,2015,Rio Grande do Norte,Masculino,Janeiro,0
+445,2015,Rio Grande do Norte,Masculino,Fevereiro,1
+446,2015,Rio Grande do Norte,Masculino,Março,3
+447,2015,Rio Grande do Norte,Masculino,Abril,0
+448,2015,Rio Grande do Norte,Masculino,Maio,0
+449,2015,Rio Grande do Norte,Masculino,Junho,0
+450,2015,Rio Grande do Norte,Masculino,Julho,1
+451,2015,Rio Grande do Norte,Masculino,Agosto,1
+452,2015,Rio Grande do Norte,Masculino,Setembro,3
+453,2015,Rio Grande do Norte,Masculino,Outubro,2
+454,2015,Rio Grande do Norte,Masculino,Novembro,2
+455,2015,Rio Grande do Norte,Masculino,Dezembro,4
+456,2015,Paraíba,Masculino,Janeiro,1
+457,2015,Paraíba,Masculino,Fevereiro,0
+458,2015,Paraíba,Masculino,Março,2
+459,2015,Paraíba,Masculino,Abril,0
+460,2015,Paraíba,Masculino,Maio,1
+461,2015,Paraíba,Masculino,Junho,2
+462,2015,Paraíba,Masculino,Julho,1
+463,2015,Paraíba,Masculino,Agosto,0
+464,2015,Paraíba,Masculino,Setembro,2
+465,2015,Paraíba,Masculino,Outubro,2
+466,2015,Paraíba,Masculino,Novembro,3
+467,2015,Paraíba,Masculino,Dezembro,4
+468,2015,Pernambuco,Masculino,Janeiro,8
+469,2015,Pernambuco,Masculino,Fevereiro,6
+470,2015,Pernambuco,Masculino,Março,4
+471,2015,Pernambuco,Masculino,Abril,8
+472,2015,Pernambuco,Masculino,Maio,10
+473,2015,Pernambuco,Masculino,Junho,4
+474,2015,Pernambuco,Masculino,Julho,3
+475,2015,Pernambuco,Masculino,Agosto,3
+476,2015,Pernambuco,Masculino,Setembro,5
+477,2015,Pernambuco,Masculino,Outubro,5
+478,2015,Pernambuco,Masculino,Novembro,7
+479,2015,Pernambuco,Masculino,Dezembro,11
+480,2015,Alagoas,Masculino,Janeiro,4
+481,2015,Alagoas,Masculino,Fevereiro,0
+482,2015,Alagoas,Masculino,Março,1
+483,2015,Alagoas,Masculino,Abril,0
+484,2015,Alagoas,Masculino,Maio,1
+485,2015,Alagoas,Masculino,Junho,1
+486,2015,Alagoas,Masculino,Julho,1
+487,2015,Alagoas,Masculino,Agosto,0
+488,2015,Alagoas,Masculino,Setembro,3
+489,2015,Alagoas,Masculino,Outubro,1
+490,2015,Alagoas,Masculino,Novembro,3
+491,2015,Alagoas,Masculino,Dezembro,4
+492,2015,Sergipe,Masculino,Janeiro,1
+493,2015,Sergipe,Masculino,Fevereiro,1
+494,2015,Sergipe,Masculino,Março,1
+495,2015,Sergipe,Masculino,Abril,0
+496,2015,Sergipe,Masculino,Maio,1
+497,2015,Sergipe,Masculino,Junho,1
+498,2015,Sergipe,Masculino,Julho,0
+499,2015,Sergipe,Masculino,Agosto,0
+500,2015,Sergipe,Masculino,Setembro,1
+501,2015,Sergipe,Masculino,Outubro,0
+502,2015,Sergipe,Masculino,Novembro,0
+503,2015,Sergipe,Masculino,Dezembro,1
+504,2015,Bahia,Masculino,Janeiro,2
+505,2015,Bahia,Masculino,Fevereiro,2
+506,2015,Bahia,Masculino,Março,5
+507,2015,Bahia,Masculino,Abril,5
+508,2015,Bahia,Masculino,Maio,7
+509,2015,Bahia,Masculino,Junho,6
+510,2015,Bahia,Masculino,Julho,4
+511,2015,Bahia,Masculino,Agosto,8
+512,2015,Bahia,Masculino,Setembro,4
+513,2015,Bahia,Masculino,Outubro,4
+514,2015,Bahia,Masculino,Novembro,6
+515,2015,Bahia,Masculino,Dezembro,3
+516,2015,Minas Gerais,Masculino,Janeiro,10
+517,2015,Minas Gerais,Masculino,Fevereiro,6
+518,2015,Minas Gerais,Masculino,Março,13
+519,2015,Minas Gerais,Masculino,Abril,11
+520,2015,Minas Gerais,Masculino,Maio,11
+521,2015,Minas Gerais,Masculino,Junho,12
+522,2015,Minas Gerais,Masculino,Julho,17
+523,2015,Minas Gerais,Masculino,Agosto,14
+524,2015,Minas Gerais,Masculino,Setembro,14
+525,2015,Minas Gerais,Masculino,Outubro,31
+526,2015,Minas Gerais,Masculino,Novembro,25
+527,2015,Minas Gerais,Masculino,Dezembro,13
+528,2015,Espírito Santo,Masculino,Janeiro,1
+529,2015,Espírito Santo,Masculino,Fevereiro,1
+530,2015,Espírito Santo,Masculino,Março,3
+531,2015,Espírito Santo,Masculino,Abril,3
+532,2015,Espírito Santo,Masculino,Maio,2
+533,2015,Espírito Santo,Masculino,Junho,1
+534,2015,Espírito Santo,Masculino,Julho,6
+535,2015,Espírito Santo,Masculino,Agosto,3
+536,2015,Espírito Santo,Masculino,Setembro,4
+537,2015,Espírito Santo,Masculino,Outubro,5
+538,2015,Espírito Santo,Masculino,Novembro,6
+539,2015,Espírito Santo,Masculino,Dezembro,7
+540,2015,Rio de Janeiro,Masculino,Janeiro,11
+541,2015,Rio de Janeiro,Masculino,Fevereiro,14
+542,2015,Rio de Janeiro,Masculino,Março,18
+543,2015,Rio de Janeiro,Masculino,Abril,23
+544,2015,Rio de Janeiro,Masculino,Maio,16
+545,2015,Rio de Janeiro,Masculino,Junho,23
+546,2015,Rio de Janeiro,Masculino,Julho,20
+547,2015,Rio de Janeiro,Masculino,Agosto,17
+548,2015,Rio de Janeiro,Masculino,Setembro,26
+549,2015,Rio de Janeiro,Masculino,Outubro,23
+550,2015,Rio de Janeiro,Masculino,Novembro,32
+551,2015,Rio de Janeiro,Masculino,Dezembro,52
+552,2015,São Paulo,Masculino,Janeiro,69
+553,2015,São Paulo,Masculino,Fevereiro,57
+554,2015,São Paulo,Masculino,Março,68
+555,2015,São Paulo,Masculino,Abril,64
+556,2015,São Paulo,Masculino,Maio,62
+557,2015,São Paulo,Masculino,Junho,69
+558,2015,São Paulo,Masculino,Julho,72
+559,2015,São Paulo,Masculino,Agosto,72
+560,2015,São Paulo,Masculino,Setembro,76
+561,2015,São Paulo,Masculino,Outubro,85
+562,2015,São Paulo,Masculino,Novembro,86
+563,2015,São Paulo,Masculino,Dezembro,78
+564,2015,Paraná,Masculino,Janeiro,14
+565,2015,Paraná,Masculino,Fevereiro,9
+566,2015,Paraná,Masculino,Março,7
+567,2015,Paraná,Masculino,Abril,17
+568,2015,Paraná,Masculino,Maio,16
+569,2015,Paraná,Masculino,Junho,10
+570,2015,Paraná,Masculino,Julho,13
+571,2015,Paraná,Masculino,Agosto,7
+572,2015,Paraná,Masculino,Setembro,17
+573,2015,Paraná,Masculino,Outubro,27
+574,2015,Paraná,Masculino,Novembro,12
+575,2015,Paraná,Masculino,Dezembro,11
+576,2015,Santa Catarina,Masculino,Janeiro,8
+577,2015,Santa Catarina,Masculino,Fevereiro,9
+578,2015,Santa Catarina,Masculino,Março,16
+579,2015,Santa Catarina,Masculino,Abril,18
+580,2015,Santa Catarina,Masculino,Maio,16
+581,2015,Santa Catarina,Masculino,Junho,16
+582,2015,Santa Catarina,Masculino,Julho,15
+583,2015,Santa Catarina,Masculino,Agosto,14
+584,2015,Santa Catarina,Masculino,Setembro,36
+585,2015,Santa Catarina,Masculino,Outubro,24
+586,2015,Santa Catarina,Masculino,Novembro,22
+587,2015,Santa Catarina,Masculino,Dezembro,16
+588,2015,Rio Grande do Sul,Masculino,Janeiro,6
+589,2015,Rio Grande do Sul,Masculino,Fevereiro,5
+590,2015,Rio Grande do Sul,Masculino,Março,12
+591,2015,Rio Grande do Sul,Masculino,Abril,7
+592,2015,Rio Grande do Sul,Masculino,Maio,15
+593,2015,Rio Grande do Sul,Masculino,Junho,11
+594,2015,Rio Grande do Sul,Masculino,Julho,11
+595,2015,Rio Grande do Sul,Masculino,Agosto,11
+596,2015,Rio Grande do Sul,Masculino,Setembro,6
+597,2015,Rio Grande do Sul,Masculino,Outubro,11
+598,2015,Rio Grande do Sul,Masculino,Novembro,8
+599,2015,Rio Grande do Sul,Masculino,Dezembro,5
+600,2015,Mato Grosso do Sul,Masculino,Janeiro,1
+601,2015,Mato Grosso do Sul,Masculino,Fevereiro,1
+602,2015,Mato Grosso do Sul,Masculino,Março,0
+603,2015,Mato Grosso do Sul,Masculino,Abril,3
+604,2015,Mato Grosso do Sul,Masculino,Maio,1
+605,2015,Mato Grosso do Sul,Masculino,Junho,3
+606,2015,Mato Grosso do Sul,Masculino,Julho,3
+607,2015,Mato Grosso do Sul,Masculino,Agosto,5
+608,2015,Mato Grosso do Sul,Masculino,Setembro,0
+609,2015,Mato Grosso do Sul,Masculino,Outubro,2
+610,2015,Mato Grosso do Sul,Masculino,Novembro,1
+611,2015,Mato Grosso do Sul,Masculino,Dezembro,3
+612,2015,Mato Grosso,Masculino,Janeiro,2
+613,2015,Mato Grosso,Masculino,Fevereiro,1
+614,2015,Mato Grosso,Masculino,Março,1
+615,2015,Mato Grosso,Masculino,Abril,0
+616,2015,Mato Grosso,Masculino,Maio,1
+617,2015,Mato Grosso,Masculino,Junho,2
+618,2015,Mato Grosso,Masculino,Julho,1
+619,2015,Mato Grosso,Masculino,Agosto,0
+620,2015,Mato Grosso,Masculino,Setembro,5
+621,2015,Mato Grosso,Masculino,Outubro,1
+622,2015,Mato Grosso,Masculino,Novembro,0
+623,2015,Mato Grosso,Masculino,Dezembro,0
+624,2015,Goiás,Masculino,Janeiro,6
+625,2015,Goiás,Masculino,Fevereiro,8
+626,2015,Goiás,Masculino,Março,8
+627,2015,Goiás,Masculino,Abril,11
+628,2015,Goiás,Masculino,Maio,9
+629,2015,Goiás,Masculino,Junho,8
+630,2015,Goiás,Masculino,Julho,10
+631,2015,Goiás,Masculino,Agosto,2
+632,2015,Goiás,Masculino,Setembro,8
+633,2015,Goiás,Masculino,Outubro,8
+634,2015,Goiás,Masculino,Novembro,5
+635,2015,Goiás,Masculino,Dezembro,12
+636,2015,Distrito Federal,Masculino,Janeiro,3
+637,2015,Distrito Federal,Masculino,Fevereiro,4
+638,2015,Distrito Federal,Masculino,Março,5
+639,2015,Distrito Federal,Masculino,Abril,6
+640,2015,Distrito Federal,Masculino,Maio,6
+641,2015,Distrito Federal,Masculino,Junho,4
+642,2015,Distrito Federal,Masculino,Julho,5
+643,2015,Distrito Federal,Masculino,Agosto,2
+644,2015,Distrito Federal,Masculino,Setembro,5
+645,2015,Distrito Federal,Masculino,Outubro,4
+646,2015,Distrito Federal,Masculino,Novembro,7
+647,2015,Distrito Federal,Masculino,Dezembro,5
+648,2016,Rondônia,Masculino,Janeiro,0
+649,2016,Rondônia,Masculino,Fevereiro,1
+650,2016,Rondônia,Masculino,Março,0
+651,2016,Rondônia,Masculino,Abril,1
+652,2016,Rondônia,Masculino,Maio,0
+653,2016,Rondônia,Masculino,Junho,2
+654,2016,Rondônia,Masculino,Julho,0
+655,2016,Rondônia,Masculino,Agosto,1
+656,2016,Rondônia,Masculino,Setembro,0
+657,2016,Rondônia,Masculino,Outubro,1
+658,2016,Rondônia,Masculino,Novembro,2
+659,2016,Rondônia,Masculino,Dezembro,0
+660,2016,Acre,Masculino,Janeiro,0
+661,2016,Acre,Masculino,Fevereiro,0
+662,2016,Acre,Masculino,Março,0
+663,2016,Acre,Masculino,Abril,0
+664,2016,Acre,Masculino,Maio,0
+665,2016,Acre,Masculino,Junho,0
+666,2016,Acre,Masculino,Julho,0
+667,2016,Acre,Masculino,Agosto,0
+668,2016,Acre,Masculino,Setembro,0
+669,2016,Acre,Masculino,Outubro,0
+670,2016,Acre,Masculino,Novembro,0
+671,2016,Acre,Masculino,Dezembro,0
+672,2016,Amazonas,Masculino,Janeiro,7
+673,2016,Amazonas,Masculino,Fevereiro,1
+674,2016,Amazonas,Masculino,Março,5
+675,2016,Amazonas,Masculino,Abril,2
+676,2016,Amazonas,Masculino,Maio,1
+677,2016,Amazonas,Masculino,Junho,3
+678,2016,Amazonas,Masculino,Julho,2
+679,2016,Amazonas,Masculino,Agosto,2
+680,2016,Amazonas,Masculino,Setembro,0
+681,2016,Amazonas,Masculino,Outubro,2
+682,2016,Amazonas,Masculino,Novembro,3
+683,2016,Amazonas,Masculino,Dezembro,3
+684,2016,Roraima,Masculino,Janeiro,0
+685,2016,Roraima,Masculino,Fevereiro,0
+686,2016,Roraima,Masculino,Março,0
+687,2016,Roraima,Masculino,Abril,1
+688,2016,Roraima,Masculino,Maio,0
+689,2016,Roraima,Masculino,Junho,0
+690,2016,Roraima,Masculino,Julho,0
+691,2016,Roraima,Masculino,Agosto,0
+692,2016,Roraima,Masculino,Setembro,0
+693,2016,Roraima,Masculino,Outubro,0
+694,2016,Roraima,Masculino,Novembro,0
+695,2016,Roraima,Masculino,Dezembro,1
+696,2016,Pará,Masculino,Janeiro,4
+697,2016,Pará,Masculino,Fevereiro,3
+698,2016,Pará,Masculino,Março,2
+699,2016,Pará,Masculino,Abril,2
+700,2016,Pará,Masculino,Maio,2
+701,2016,Pará,Masculino,Junho,2
+702,2016,Pará,Masculino,Julho,0
+703,2016,Pará,Masculino,Agosto,2
+704,2016,Pará,Masculino,Setembro,6
+705,2016,Pará,Masculino,Outubro,3
+706,2016,Pará,Masculino,Novembro,3
+707,2016,Pará,Masculino,Dezembro,6
+708,2016,Amapá,Masculino,Janeiro,0
+709,2016,Amapá,Masculino,Fevereiro,0
+710,2016,Amapá,Masculino,Março,0
+711,2016,Amapá,Masculino,Abril,0
+712,2016,Amapá,Masculino,Maio,1
+713,2016,Amapá,Masculino,Junho,0
+714,2016,Amapá,Masculino,Julho,0
+715,2016,Amapá,Masculino,Agosto,0
+716,2016,Amapá,Masculino,Setembro,0
+717,2016,Amapá,Masculino,Outubro,0
+718,2016,Amapá,Masculino,Novembro,0
+719,2016,Amapá,Masculino,Dezembro,0
+720,2016,Tocantins,Masculino,Janeiro,0
+721,2016,Tocantins,Masculino,Fevereiro,0
+722,2016,Tocantins,Masculino,Março,0
+723,2016,Tocantins,Masculino,Abril,1
+724,2016,Tocantins,Masculino,Maio,0
+725,2016,Tocantins,Masculino,Junho,0
+726,2016,Tocantins,Masculino,Julho,0
+727,2016,Tocantins,Masculino,Agosto,0
+728,2016,Tocantins,Masculino,Setembro,0
+729,2016,Tocantins,Masculino,Outubro,1
+730,2016,Tocantins,Masculino,Novembro,1
+731,2016,Tocantins,Masculino,Dezembro,1
+732,2016,Maranhão,Masculino,Janeiro,0
+733,2016,Maranhão,Masculino,Fevereiro,1
+734,2016,Maranhão,Masculino,Março,0
+735,2016,Maranhão,Masculino,Abril,1
+736,2016,Maranhão,Masculino,Maio,0
+737,2016,Maranhão,Masculino,Junho,1
+738,2016,Maranhão,Masculino,Julho,0
+739,2016,Maranhão,Masculino,Agosto,1
+740,2016,Maranhão,Masculino,Setembro,1
+741,2016,Maranhão,Masculino,Outubro,0
+742,2016,Maranhão,Masculino,Novembro,0
+743,2016,Maranhão,Masculino,Dezembro,0
+744,2016,Piauí,Masculino,Janeiro,2
+745,2016,Piauí,Masculino,Fevereiro,0
+746,2016,Piauí,Masculino,Março,0
+747,2016,Piauí,Masculino,Abril,1
+748,2016,Piauí,Masculino,Maio,0
+749,2016,Piauí,Masculino,Junho,1
+750,2016,Piauí,Masculino,Julho,0
+751,2016,Piauí,Masculino,Agosto,0
+752,2016,Piauí,Masculino,Setembro,1
+753,2016,Piauí,Masculino,Outubro,0
+754,2016,Piauí,Masculino,Novembro,1
+755,2016,Piauí,Masculino,Dezembro,1
+756,2016,Ceará,Masculino,Janeiro,6
+757,2016,Ceará,Masculino,Fevereiro,7
+758,2016,Ceará,Masculino,Março,4
+759,2016,Ceará,Masculino,Abril,2
+760,2016,Ceará,Masculino,Maio,5
+761,2016,Ceará,Masculino,Junho,8
+762,2016,Ceará,Masculino,Julho,8
+763,2016,Ceará,Masculino,Agosto,9
+764,2016,Ceará,Masculino,Setembro,8
+765,2016,Ceará,Masculino,Outubro,6
+766,2016,Ceará,Masculino,Novembro,8
+767,2016,Ceará,Masculino,Dezembro,12
+768,2016,Rio Grande do Norte,Masculino,Janeiro,1
+769,2016,Rio Grande do Norte,Masculino,Fevereiro,1
+770,2016,Rio Grande do Norte,Masculino,Março,2
+771,2016,Rio Grande do Norte,Masculino,Abril,4
+772,2016,Rio Grande do Norte,Masculino,Maio,1
+773,2016,Rio Grande do Norte,Masculino,Junho,4
+774,2016,Rio Grande do Norte,Masculino,Julho,1
+775,2016,Rio Grande do Norte,Masculino,Agosto,3
+776,2016,Rio Grande do Norte,Masculino,Setembro,0
+777,2016,Rio Grande do Norte,Masculino,Outubro,5
+778,2016,Rio Grande do Norte,Masculino,Novembro,4
+779,2016,Rio Grande do Norte,Masculino,Dezembro,2
+780,2016,Paraíba,Masculino,Janeiro,3
+781,2016,Paraíba,Masculino,Fevereiro,0
+782,2016,Paraíba,Masculino,Março,9
+783,2016,Paraíba,Masculino,Abril,1
+784,2016,Paraíba,Masculino,Maio,1
+785,2016,Paraíba,Masculino,Junho,1
+786,2016,Paraíba,Masculino,Julho,6
+787,2016,Paraíba,Masculino,Agosto,1
+788,2016,Paraíba,Masculino,Setembro,2
+789,2016,Paraíba,Masculino,Outubro,2
+790,2016,Paraíba,Masculino,Novembro,1
+791,2016,Paraíba,Masculino,Dezembro,1
+792,2016,Pernambuco,Masculino,Janeiro,3
+793,2016,Pernambuco,Masculino,Fevereiro,4
+794,2016,Pernambuco,Masculino,Março,2
+795,2016,Pernambuco,Masculino,Abril,5
+796,2016,Pernambuco,Masculino,Maio,3
+797,2016,Pernambuco,Masculino,Junho,5
+798,2016,Pernambuco,Masculino,Julho,3
+799,2016,Pernambuco,Masculino,Agosto,4
+800,2016,Pernambuco,Masculino,Setembro,7
+801,2016,Pernambuco,Masculino,Outubro,4
+802,2016,Pernambuco,Masculino,Novembro,4
+803,2016,Pernambuco,Masculino,Dezembro,4
+804,2016,Alagoas,Masculino,Janeiro,4
+805,2016,Alagoas,Masculino,Fevereiro,1
+806,2016,Alagoas,Masculino,Março,0
+807,2016,Alagoas,Masculino,Abril,1
+808,2016,Alagoas,Masculino,Maio,1
+809,2016,Alagoas,Masculino,Junho,1
+810,2016,Alagoas,Masculino,Julho,1
+811,2016,Alagoas,Masculino,Agosto,1
+812,2016,Alagoas,Masculino,Setembro,0
+813,2016,Alagoas,Masculino,Outubro,0
+814,2016,Alagoas,Masculino,Novembro,1
+815,2016,Alagoas,Masculino,Dezembro,1
+816,2016,Sergipe,Masculino,Janeiro,0
+817,2016,Sergipe,Masculino,Fevereiro,1
+818,2016,Sergipe,Masculino,Março,2
+819,2016,Sergipe,Masculino,Abril,0
+820,2016,Sergipe,Masculino,Maio,1
+821,2016,Sergipe,Masculino,Junho,0
+822,2016,Sergipe,Masculino,Julho,1
+823,2016,Sergipe,Masculino,Agosto,1
+824,2016,Sergipe,Masculino,Setembro,1
+825,2016,Sergipe,Masculino,Outubro,1
+826,2016,Sergipe,Masculino,Novembro,0
+827,2016,Sergipe,Masculino,Dezembro,3
+828,2016,Bahia,Masculino,Janeiro,10
+829,2016,Bahia,Masculino,Fevereiro,6
+830,2016,Bahia,Masculino,Março,11
+831,2016,Bahia,Masculino,Abril,8
+832,2016,Bahia,Masculino,Maio,3
+833,2016,Bahia,Masculino,Junho,3
+834,2016,Bahia,Masculino,Julho,8
+835,2016,Bahia,Masculino,Agosto,2
+836,2016,Bahia,Masculino,Setembro,10
+837,2016,Bahia,Masculino,Outubro,6
+838,2016,Bahia,Masculino,Novembro,4
+839,2016,Bahia,Masculino,Dezembro,8
+840,2016,Minas Gerais,Masculino,Janeiro,10
+841,2016,Minas Gerais,Masculino,Fevereiro,7
+842,2016,Minas Gerais,Masculino,Março,12
+843,2016,Minas Gerais,Masculino,Abril,14
+844,2016,Minas Gerais,Masculino,Maio,14
+845,2016,Minas Gerais,Masculino,Junho,12
+846,2016,Minas Gerais,Masculino,Julho,27
+847,2016,Minas Gerais,Masculino,Agosto,15
+848,2016,Minas Gerais,Masculino,Setembro,28
+849,2016,Minas Gerais,Masculino,Outubro,17
+850,2016,Minas Gerais,Masculino,Novembro,22
+851,2016,Minas Gerais,Masculino,Dezembro,19
+852,2016,Espírito Santo,Masculino,Janeiro,3
+853,2016,Espírito Santo,Masculino,Fevereiro,0
+854,2016,Espírito Santo,Masculino,Março,5
+855,2016,Espírito Santo,Masculino,Abril,2
+856,2016,Espírito Santo,Masculino,Maio,9
+857,2016,Espírito Santo,Masculino,Junho,2
+858,2016,Espírito Santo,Masculino,Julho,0
+859,2016,Espírito Santo,Masculino,Agosto,1
+860,2016,Espírito Santo,Masculino,Setembro,2
+861,2016,Espírito Santo,Masculino,Outubro,0
+862,2016,Espírito Santo,Masculino,Novembro,5
+863,2016,Espírito Santo,Masculino,Dezembro,1
+864,2016,Rio de Janeiro,Masculino,Janeiro,14
+865,2016,Rio de Janeiro,Masculino,Fevereiro,27
+866,2016,Rio de Janeiro,Masculino,Março,22
+867,2016,Rio de Janeiro,Masculino,Abril,32
+868,2016,Rio de Janeiro,Masculino,Maio,24
+869,2016,Rio de Janeiro,Masculino,Junho,24
+870,2016,Rio de Janeiro,Masculino,Julho,19
+871,2016,Rio de Janeiro,Masculino,Agosto,27
+872,2016,Rio de Janeiro,Masculino,Setembro,26
+873,2016,Rio de Janeiro,Masculino,Outubro,26
+874,2016,Rio de Janeiro,Masculino,Novembro,19
+875,2016,Rio de Janeiro,Masculino,Dezembro,15
+876,2016,São Paulo,Masculino,Janeiro,75
+877,2016,São Paulo,Masculino,Fevereiro,57
+878,2016,São Paulo,Masculino,Março,66
+879,2016,São Paulo,Masculino,Abril,72
+880,2016,São Paulo,Masculino,Maio,65
+881,2016,São Paulo,Masculino,Junho,75
+882,2016,São Paulo,Masculino,Julho,64
+883,2016,São Paulo,Masculino,Agosto,70
+884,2016,São Paulo,Masculino,Setembro,102
+885,2016,São Paulo,Masculino,Outubro,80
+886,2016,São Paulo,Masculino,Novembro,81
+887,2016,São Paulo,Masculino,Dezembro,85
+888,2016,Paraná,Masculino,Janeiro,10
+889,2016,Paraná,Masculino,Fevereiro,7
+890,2016,Paraná,Masculino,Março,9
+891,2016,Paraná,Masculino,Abril,11
+892,2016,Paraná,Masculino,Maio,6
+893,2016,Paraná,Masculino,Junho,11
+894,2016,Paraná,Masculino,Julho,11
+895,2016,Paraná,Masculino,Agosto,12
+896,2016,Paraná,Masculino,Setembro,6
+897,2016,Paraná,Masculino,Outubro,13
+898,2016,Paraná,Masculino,Novembro,13
+899,2016,Paraná,Masculino,Dezembro,9
+900,2016,Santa Catarina,Masculino,Janeiro,22
+901,2016,Santa Catarina,Masculino,Fevereiro,17
+902,2016,Santa Catarina,Masculino,Março,22
+903,2016,Santa Catarina,Masculino,Abril,15
+904,2016,Santa Catarina,Masculino,Maio,17
+905,2016,Santa Catarina,Masculino,Junho,22
+906,2016,Santa Catarina,Masculino,Julho,18
+907,2016,Santa Catarina,Masculino,Agosto,21
+908,2016,Santa Catarina,Masculino,Setembro,27
+909,2016,Santa Catarina,Masculino,Outubro,15
+910,2016,Santa Catarina,Masculino,Novembro,23
+911,2016,Santa Catarina,Masculino,Dezembro,26
+912,2016,Rio Grande do Sul,Masculino,Janeiro,5
+913,2016,Rio Grande do Sul,Masculino,Fevereiro,2
+914,2016,Rio Grande do Sul,Masculino,Março,8
+915,2016,Rio Grande do Sul,Masculino,Abril,11
+916,2016,Rio Grande do Sul,Masculino,Maio,9
+917,2016,Rio Grande do Sul,Masculino,Junho,4
+918,2016,Rio Grande do Sul,Masculino,Julho,4
+919,2016,Rio Grande do Sul,Masculino,Agosto,7
+920,2016,Rio Grande do Sul,Masculino,Setembro,8
+921,2016,Rio Grande do Sul,Masculino,Outubro,7
+922,2016,Rio Grande do Sul,Masculino,Novembro,12
+923,2016,Rio Grande do Sul,Masculino,Dezembro,12
+924,2016,Mato Grosso do Sul,Masculino,Janeiro,1
+925,2016,Mato Grosso do Sul,Masculino,Fevereiro,1
+926,2016,Mato Grosso do Sul,Masculino,Março,2
+927,2016,Mato Grosso do Sul,Masculino,Abril,1
+928,2016,Mato Grosso do Sul,Masculino,Maio,2
+929,2016,Mato Grosso do Sul,Masculino,Junho,1
+930,2016,Mato Grosso do Sul,Masculino,Julho,6
+931,2016,Mato Grosso do Sul,Masculino,Agosto,3
+932,2016,Mato Grosso do Sul,Masculino,Setembro,4
+933,2016,Mato Grosso do Sul,Masculino,Outubro,3
+934,2016,Mato Grosso do Sul,Masculino,Novembro,4
+935,2016,Mato Grosso do Sul,Masculino,Dezembro,4
+936,2016,Mato Grosso,Masculino,Janeiro,0
+937,2016,Mato Grosso,Masculino,Fevereiro,0
+938,2016,Mato Grosso,Masculino,Março,0
+939,2016,Mato Grosso,Masculino,Abril,1
+940,2016,Mato Grosso,Masculino,Maio,0
+941,2016,Mato Grosso,Masculino,Junho,0
+942,2016,Mato Grosso,Masculino,Julho,0
+943,2016,Mato Grosso,Masculino,Agosto,0
+944,2016,Mato Grosso,Masculino,Setembro,1
+945,2016,Mato Grosso,Masculino,Outubro,1
+946,2016,Mato Grosso,Masculino,Novembro,1
+947,2016,Mato Grosso,Masculino,Dezembro,0
+948,2016,Goiás,Masculino,Janeiro,5
+949,2016,Goiás,Masculino,Fevereiro,2
+950,2016,Goiás,Masculino,Março,6
+951,2016,Goiás,Masculino,Abril,4
+952,2016,Goiás,Masculino,Maio,7
+953,2016,Goiás,Masculino,Junho,2
+954,2016,Goiás,Masculino,Julho,11
+955,2016,Goiás,Masculino,Agosto,4
+956,2016,Goiás,Masculino,Setembro,8
+957,2016,Goiás,Masculino,Outubro,6
+958,2016,Goiás,Masculino,Novembro,12
+959,2016,Goiás,Masculino,Dezembro,8
+960,2016,Distrito Federal,Masculino,Janeiro,5
+961,2016,Distrito Federal,Masculino,Fevereiro,5
+962,2016,Distrito Federal,Masculino,Março,7
+963,2016,Distrito Federal,Masculino,Abril,6
+964,2016,Distrito Federal,Masculino,Maio,4
+965,2016,Distrito Federal,Masculino,Junho,7
+966,2016,Distrito Federal,Masculino,Julho,4
+967,2016,Distrito Federal,Masculino,Agosto,6
+968,2016,Distrito Federal,Masculino,Setembro,7
+969,2016,Distrito Federal,Masculino,Outubro,10
+970,2016,Distrito Federal,Masculino,Novembro,7
+971,2016,Distrito Federal,Masculino,Dezembro,4
+972,2017,Rondônia,Masculino,Janeiro,3
+973,2017,Rondônia,Masculino,Fevereiro,2
+974,2017,Rondônia,Masculino,Março,1
+975,2017,Rondônia,Masculino,Abril,1
+976,2017,Rondônia,Masculino,Maio,1
+977,2017,Rondônia,Masculino,Junho,1
+978,2017,Rondônia,Masculino,Julho,2
+979,2017,Rondônia,Masculino,Agosto,1
+980,2017,Rondônia,Masculino,Setembro,1
+981,2017,Rondônia,Masculino,Outubro,0
+982,2017,Rondônia,Masculino,Novembro,0
+983,2017,Rondônia,Masculino,Dezembro,0
+984,2017,Acre,Masculino,Janeiro,0
+985,2017,Acre,Masculino,Fevereiro,0
+986,2017,Acre,Masculino,Março,0
+987,2017,Acre,Masculino,Abril,0
+988,2017,Acre,Masculino,Maio,0
+989,2017,Acre,Masculino,Junho,0
+990,2017,Acre,Masculino,Julho,0
+991,2017,Acre,Masculino,Agosto,0
+992,2017,Acre,Masculino,Setembro,0
+993,2017,Acre,Masculino,Outubro,0
+994,2017,Acre,Masculino,Novembro,0
+995,2017,Acre,Masculino,Dezembro,3
+996,2017,Amazonas,Masculino,Janeiro,1
+997,2017,Amazonas,Masculino,Fevereiro,1
+998,2017,Amazonas,Masculino,Março,0
+999,2017,Amazonas,Masculino,Abril,0
+1000,2017,Amazonas,Masculino,Maio,1
+1001,2017,Amazonas,Masculino,Junho,0
+1002,2017,Amazonas,Masculino,Julho,3
+1003,2017,Amazonas,Masculino,Agosto,0
+1004,2017,Amazonas,Masculino,Setembro,0
+1005,2017,Amazonas,Masculino,Outubro,2
+1006,2017,Amazonas,Masculino,Novembro,4
+1007,2017,Amazonas,Masculino,Dezembro,1
+1008,2017,Roraima,Masculino,Janeiro,1
+1009,2017,Roraima,Masculino,Fevereiro,1
+1010,2017,Roraima,Masculino,Março,2
+1011,2017,Roraima,Masculino,Abril,0
+1012,2017,Roraima,Masculino,Maio,0
+1013,2017,Roraima,Masculino,Junho,0
+1014,2017,Roraima,Masculino,Julho,0
+1015,2017,Roraima,Masculino,Agosto,0
+1016,2017,Roraima,Masculino,Setembro,0
+1017,2017,Roraima,Masculino,Outubro,0
+1018,2017,Roraima,Masculino,Novembro,0
+1019,2017,Roraima,Masculino,Dezembro,2
+1020,2017,Pará,Masculino,Janeiro,2
+1021,2017,Pará,Masculino,Fevereiro,2
+1022,2017,Pará,Masculino,Março,5
+1023,2017,Pará,Masculino,Abril,0
+1024,2017,Pará,Masculino,Maio,3
+1025,2017,Pará,Masculino,Junho,2
+1026,2017,Pará,Masculino,Julho,4
+1027,2017,Pará,Masculino,Agosto,2
+1028,2017,Pará,Masculino,Setembro,3
+1029,2017,Pará,Masculino,Outubro,3
+1030,2017,Pará,Masculino,Novembro,8
+1031,2017,Pará,Masculino,Dezembro,4
+1032,2017,Amapá,Masculino,Janeiro,0
+1033,2017,Amapá,Masculino,Fevereiro,0
+1034,2017,Amapá,Masculino,Março,0
+1035,2017,Amapá,Masculino,Abril,0
+1036,2017,Amapá,Masculino,Maio,0
+1037,2017,Amapá,Masculino,Junho,0
+1038,2017,Amapá,Masculino,Julho,0
+1039,2017,Amapá,Masculino,Agosto,0
+1040,2017,Amapá,Masculino,Setembro,0
+1041,2017,Amapá,Masculino,Outubro,2
+1042,2017,Amapá,Masculino,Novembro,1
+1043,2017,Amapá,Masculino,Dezembro,0
+1044,2017,Tocantins,Masculino,Janeiro,0
+1045,2017,Tocantins,Masculino,Fevereiro,0
+1046,2017,Tocantins,Masculino,Março,0
+1047,2017,Tocantins,Masculino,Abril,0
+1048,2017,Tocantins,Masculino,Maio,0
+1049,2017,Tocantins,Masculino,Junho,0
+1050,2017,Tocantins,Masculino,Julho,0
+1051,2017,Tocantins,Masculino,Agosto,1
+1052,2017,Tocantins,Masculino,Setembro,2
+1053,2017,Tocantins,Masculino,Outubro,0
+1054,2017,Tocantins,Masculino,Novembro,0
+1055,2017,Tocantins,Masculino,Dezembro,1
+1056,2017,Maranhão,Masculino,Janeiro,0
+1057,2017,Maranhão,Masculino,Fevereiro,1
+1058,2017,Maranhão,Masculino,Março,0
+1059,2017,Maranhão,Masculino,Abril,2
+1060,2017,Maranhão,Masculino,Maio,1
+1061,2017,Maranhão,Masculino,Junho,0
+1062,2017,Maranhão,Masculino,Julho,0
+1063,2017,Maranhão,Masculino,Agosto,0
+1064,2017,Maranhão,Masculino,Setembro,0
+1065,2017,Maranhão,Masculino,Outubro,2
+1066,2017,Maranhão,Masculino,Novembro,2
+1067,2017,Maranhão,Masculino,Dezembro,2
+1068,2017,Piauí,Masculino,Janeiro,0
+1069,2017,Piauí,Masculino,Fevereiro,0
+1070,2017,Piauí,Masculino,Março,0
+1071,2017,Piauí,Masculino,Abril,0
+1072,2017,Piauí,Masculino,Maio,0
+1073,2017,Piauí,Masculino,Junho,0
+1074,2017,Piauí,Masculino,Julho,0
+1075,2017,Piauí,Masculino,Agosto,1
+1076,2017,Piauí,Masculino,Setembro,0
+1077,2017,Piauí,Masculino,Outubro,0
+1078,2017,Piauí,Masculino,Novembro,0
+1079,2017,Piauí,Masculino,Dezembro,3
+1080,2017,Ceará,Masculino,Janeiro,8
+1081,2017,Ceará,Masculino,Fevereiro,2
+1082,2017,Ceará,Masculino,Março,7
+1083,2017,Ceará,Masculino,Abril,4
+1084,2017,Ceará,Masculino,Maio,6
+1085,2017,Ceará,Masculino,Junho,9
+1086,2017,Ceará,Masculino,Julho,13
+1087,2017,Ceará,Masculino,Agosto,7
+1088,2017,Ceará,Masculino,Setembro,12
+1089,2017,Ceará,Masculino,Outubro,10
+1090,2017,Ceará,Masculino,Novembro,6
+1091,2017,Ceará,Masculino,Dezembro,8
+1092,2017,Rio Grande do Norte,Masculino,Janeiro,4
+1093,2017,Rio Grande do Norte,Masculino,Fevereiro,3
+1094,2017,Rio Grande do Norte,Masculino,Março,1
+1095,2017,Rio Grande do Norte,Masculino,Abril,1
+1096,2017,Rio Grande do Norte,Masculino,Maio,3
+1097,2017,Rio Grande do Norte,Masculino,Junho,4
+1098,2017,Rio Grande do Norte,Masculino,Julho,1
+1099,2017,Rio Grande do Norte,Masculino,Agosto,2
+1100,2017,Rio Grande do Norte,Masculino,Setembro,2
+1101,2017,Rio Grande do Norte,Masculino,Outubro,1
+1102,2017,Rio Grande do Norte,Masculino,Novembro,1
+1103,2017,Rio Grande do Norte,Masculino,Dezembro,0
+1104,2017,Paraíba,Masculino,Janeiro,4
+1105,2017,Paraíba,Masculino,Fevereiro,4
+1106,2017,Paraíba,Masculino,Março,3
+1107,2017,Paraíba,Masculino,Abril,5
+1108,2017,Paraíba,Masculino,Maio,5
+1109,2017,Paraíba,Masculino,Junho,2
+1110,2017,Paraíba,Masculino,Julho,6
+1111,2017,Paraíba,Masculino,Agosto,1
+1112,2017,Paraíba,Masculino,Setembro,2
+1113,2017,Paraíba,Masculino,Outubro,6
+1114,2017,Paraíba,Masculino,Novembro,5
+1115,2017,Paraíba,Masculino,Dezembro,6
+1116,2017,Pernambuco,Masculino,Janeiro,5
+1117,2017,Pernambuco,Masculino,Fevereiro,7
+1118,2017,Pernambuco,Masculino,Março,6
+1119,2017,Pernambuco,Masculino,Abril,3
+1120,2017,Pernambuco,Masculino,Maio,1
+1121,2017,Pernambuco,Masculino,Junho,2
+1122,2017,Pernambuco,Masculino,Julho,4
+1123,2017,Pernambuco,Masculino,Agosto,3
+1124,2017,Pernambuco,Masculino,Setembro,4
+1125,2017,Pernambuco,Masculino,Outubro,6
+1126,2017,Pernambuco,Masculino,Novembro,5
+1127,2017,Pernambuco,Masculino,Dezembro,5
+1128,2017,Alagoas,Masculino,Janeiro,0
+1129,2017,Alagoas,Masculino,Fevereiro,1
+1130,2017,Alagoas,Masculino,Março,0
+1131,2017,Alagoas,Masculino,Abril,1
+1132,2017,Alagoas,Masculino,Maio,0
+1133,2017,Alagoas,Masculino,Junho,1
+1134,2017,Alagoas,Masculino,Julho,0
+1135,2017,Alagoas,Masculino,Agosto,2
+1136,2017,Alagoas,Masculino,Setembro,0
+1137,2017,Alagoas,Masculino,Outubro,1
+1138,2017,Alagoas,Masculino,Novembro,0
+1139,2017,Alagoas,Masculino,Dezembro,4
+1140,2017,Sergipe,Masculino,Janeiro,0
+1141,2017,Sergipe,Masculino,Fevereiro,2
+1142,2017,Sergipe,Masculino,Março,1
+1143,2017,Sergipe,Masculino,Abril,1
+1144,2017,Sergipe,Masculino,Maio,0
+1145,2017,Sergipe,Masculino,Junho,1
+1146,2017,Sergipe,Masculino,Julho,1
+1147,2017,Sergipe,Masculino,Agosto,1
+1148,2017,Sergipe,Masculino,Setembro,2
+1149,2017,Sergipe,Masculino,Outubro,0
+1150,2017,Sergipe,Masculino,Novembro,0
+1151,2017,Sergipe,Masculino,Dezembro,3
+1152,2017,Bahia,Masculino,Janeiro,4
+1153,2017,Bahia,Masculino,Fevereiro,6
+1154,2017,Bahia,Masculino,Março,8
+1155,2017,Bahia,Masculino,Abril,6
+1156,2017,Bahia,Masculino,Maio,7
+1157,2017,Bahia,Masculino,Junho,1
+1158,2017,Bahia,Masculino,Julho,4
+1159,2017,Bahia,Masculino,Agosto,3
+1160,2017,Bahia,Masculino,Setembro,4
+1161,2017,Bahia,Masculino,Outubro,3
+1162,2017,Bahia,Masculino,Novembro,7
+1163,2017,Bahia,Masculino,Dezembro,6
+1164,2017,Minas Gerais,Masculino,Janeiro,17
+1165,2017,Minas Gerais,Masculino,Fevereiro,17
+1166,2017,Minas Gerais,Masculino,Março,19
+1167,2017,Minas Gerais,Masculino,Abril,9
+1168,2017,Minas Gerais,Masculino,Maio,13
+1169,2017,Minas Gerais,Masculino,Junho,13
+1170,2017,Minas Gerais,Masculino,Julho,21
+1171,2017,Minas Gerais,Masculino,Agosto,9
+1172,2017,Minas Gerais,Masculino,Setembro,13
+1173,2017,Minas Gerais,Masculino,Outubro,23
+1174,2017,Minas Gerais,Masculino,Novembro,22
+1175,2017,Minas Gerais,Masculino,Dezembro,21
+1176,2017,Espírito Santo,Masculino,Janeiro,2
+1177,2017,Espírito Santo,Masculino,Fevereiro,4
+1178,2017,Espírito Santo,Masculino,Março,0
+1179,2017,Espírito Santo,Masculino,Abril,1
+1180,2017,Espírito Santo,Masculino,Maio,5
+1181,2017,Espírito Santo,Masculino,Junho,4
+1182,2017,Espírito Santo,Masculino,Julho,2
+1183,2017,Espírito Santo,Masculino,Agosto,2
+1184,2017,Espírito Santo,Masculino,Setembro,7
+1185,2017,Espírito Santo,Masculino,Outubro,1
+1186,2017,Espírito Santo,Masculino,Novembro,3
+1187,2017,Espírito Santo,Masculino,Dezembro,4
+1188,2017,Rio de Janeiro,Masculino,Janeiro,18
+1189,2017,Rio de Janeiro,Masculino,Fevereiro,14
+1190,2017,Rio de Janeiro,Masculino,Março,16
+1191,2017,Rio de Janeiro,Masculino,Abril,10
+1192,2017,Rio de Janeiro,Masculino,Maio,23
+1193,2017,Rio de Janeiro,Masculino,Junho,17
+1194,2017,Rio de Janeiro,Masculino,Julho,11
+1195,2017,Rio de Janeiro,Masculino,Agosto,11
+1196,2017,Rio de Janeiro,Masculino,Setembro,22
+1197,2017,Rio de Janeiro,Masculino,Outubro,21
+1198,2017,Rio de Janeiro,Masculino,Novembro,21
+1199,2017,Rio de Janeiro,Masculino,Dezembro,25
+1200,2017,São Paulo,Masculino,Janeiro,78
+1201,2017,São Paulo,Masculino,Fevereiro,53
+1202,2017,São Paulo,Masculino,Março,79
+1203,2017,São Paulo,Masculino,Abril,69
+1204,2017,São Paulo,Masculino,Maio,73
+1205,2017,São Paulo,Masculino,Junho,86
+1206,2017,São Paulo,Masculino,Julho,91
+1207,2017,São Paulo,Masculino,Agosto,77
+1208,2017,São Paulo,Masculino,Setembro,100
+1209,2017,São Paulo,Masculino,Outubro,98
+1210,2017,São Paulo,Masculino,Novembro,113
+1211,2017,São Paulo,Masculino,Dezembro,85
+1212,2017,Paraná,Masculino,Janeiro,8
+1213,2017,Paraná,Masculino,Fevereiro,14
+1214,2017,Paraná,Masculino,Março,10
+1215,2017,Paraná,Masculino,Abril,8
+1216,2017,Paraná,Masculino,Maio,7
+1217,2017,Paraná,Masculino,Junho,6
+1218,2017,Paraná,Masculino,Julho,10
+1219,2017,Paraná,Masculino,Agosto,11
+1220,2017,Paraná,Masculino,Setembro,4
+1221,2017,Paraná,Masculino,Outubro,7
+1222,2017,Paraná,Masculino,Novembro,10
+1223,2017,Paraná,Masculino,Dezembro,14
+1224,2017,Santa Catarina,Masculino,Janeiro,17
+1225,2017,Santa Catarina,Masculino,Fevereiro,9
+1226,2017,Santa Catarina,Masculino,Março,16
+1227,2017,Santa Catarina,Masculino,Abril,10
+1228,2017,Santa Catarina,Masculino,Maio,22
+1229,2017,Santa Catarina,Masculino,Junho,15
+1230,2017,Santa Catarina,Masculino,Julho,18
+1231,2017,Santa Catarina,Masculino,Agosto,10
+1232,2017,Santa Catarina,Masculino,Setembro,31
+1233,2017,Santa Catarina,Masculino,Outubro,18
+1234,2017,Santa Catarina,Masculino,Novembro,24
+1235,2017,Santa Catarina,Masculino,Dezembro,25
+1236,2017,Rio Grande do Sul,Masculino,Janeiro,7
+1237,2017,Rio Grande do Sul,Masculino,Fevereiro,7
+1238,2017,Rio Grande do Sul,Masculino,Março,10
+1239,2017,Rio Grande do Sul,Masculino,Abril,13
+1240,2017,Rio Grande do Sul,Masculino,Maio,8
+1241,2017,Rio Grande do Sul,Masculino,Junho,12
+1242,2017,Rio Grande do Sul,Masculino,Julho,6
+1243,2017,Rio Grande do Sul,Masculino,Agosto,3
+1244,2017,Rio Grande do Sul,Masculino,Setembro,13
+1245,2017,Rio Grande do Sul,Masculino,Outubro,11
+1246,2017,Rio Grande do Sul,Masculino,Novembro,17
+1247,2017,Rio Grande do Sul,Masculino,Dezembro,14
+1248,2017,Mato Grosso do Sul,Masculino,Janeiro,3
+1249,2017,Mato Grosso do Sul,Masculino,Fevereiro,5
+1250,2017,Mato Grosso do Sul,Masculino,Março,1
+1251,2017,Mato Grosso do Sul,Masculino,Abril,7
+1252,2017,Mato Grosso do Sul,Masculino,Maio,3
+1253,2017,Mato Grosso do Sul,Masculino,Junho,4
+1254,2017,Mato Grosso do Sul,Masculino,Julho,5
+1255,2017,Mato Grosso do Sul,Masculino,Agosto,5
+1256,2017,Mato Grosso do Sul,Masculino,Setembro,3
+1257,2017,Mato Grosso do Sul,Masculino,Outubro,2
+1258,2017,Mato Grosso do Sul,Masculino,Novembro,3
+1259,2017,Mato Grosso do Sul,Masculino,Dezembro,3
+1260,2017,Mato Grosso,Masculino,Janeiro,0
+1261,2017,Mato Grosso,Masculino,Fevereiro,1
+1262,2017,Mato Grosso,Masculino,Março,0
+1263,2017,Mato Grosso,Masculino,Abril,0
+1264,2017,Mato Grosso,Masculino,Maio,2
+1265,2017,Mato Grosso,Masculino,Junho,0
+1266,2017,Mato Grosso,Masculino,Julho,1
+1267,2017,Mato Grosso,Masculino,Agosto,0
+1268,2017,Mato Grosso,Masculino,Setembro,1
+1269,2017,Mato Grosso,Masculino,Outubro,6
+1270,2017,Mato Grosso,Masculino,Novembro,3
+1271,2017,Mato Grosso,Masculino,Dezembro,1
+1272,2017,Goiás,Masculino,Janeiro,5
+1273,2017,Goiás,Masculino,Fevereiro,6
+1274,2017,Goiás,Masculino,Março,7
+1275,2017,Goiás,Masculino,Abril,6
+1276,2017,Goiás,Masculino,Maio,8
+1277,2017,Goiás,Masculino,Junho,4
+1278,2017,Goiás,Masculino,Julho,4
+1279,2017,Goiás,Masculino,Agosto,5
+1280,2017,Goiás,Masculino,Setembro,9
+1281,2017,Goiás,Masculino,Outubro,8
+1282,2017,Goiás,Masculino,Novembro,5
+1283,2017,Goiás,Masculino,Dezembro,7
+1284,2017,Distrito Federal,Masculino,Janeiro,2
+1285,2017,Distrito Federal,Masculino,Fevereiro,8
+1286,2017,Distrito Federal,Masculino,Março,7
+1287,2017,Distrito Federal,Masculino,Abril,8
+1288,2017,Distrito Federal,Masculino,Maio,9
+1289,2017,Distrito Federal,Masculino,Junho,8
+1290,2017,Distrito Federal,Masculino,Julho,6
+1291,2017,Distrito Federal,Masculino,Agosto,5
+1292,2017,Distrito Federal,Masculino,Setembro,12
+1293,2017,Distrito Federal,Masculino,Outubro,13
+1294,2017,Distrito Federal,Masculino,Novembro,6
+1295,2017,Distrito Federal,Masculino,Dezembro,5
+1296,2018,Rondônia,Masculino,Janeiro,1
+1297,2018,Rondônia,Masculino,Fevereiro,0
+1298,2018,Rondônia,Masculino,Março,0
+1299,2018,Rondônia,Masculino,Abril,1
+1300,2018,Rondônia,Masculino,Maio,0
+1301,2018,Rondônia,Masculino,Junho,0
+1302,2018,Rondônia,Masculino,Julho,1
+1303,2018,Rondônia,Masculino,Agosto,1
+1304,2018,Rondônia,Masculino,Setembro,0
+1305,2018,Rondônia,Masculino,Outubro,2
+1306,2018,Rondônia,Masculino,Novembro,0
+1307,2018,Rondônia,Masculino,Dezembro,0
+1308,2018,Acre,Masculino,Janeiro,0
+1309,2018,Acre,Masculino,Fevereiro,1
+1310,2018,Acre,Masculino,Março,0
+1311,2018,Acre,Masculino,Abril,0
+1312,2018,Acre,Masculino,Maio,0
+1313,2018,Acre,Masculino,Junho,0
+1314,2018,Acre,Masculino,Julho,0
+1315,2018,Acre,Masculino,Agosto,0
+1316,2018,Acre,Masculino,Setembro,1
+1317,2018,Acre,Masculino,Outubro,0
+1318,2018,Acre,Masculino,Novembro,1
+1319,2018,Acre,Masculino,Dezembro,3
+1320,2018,Amazonas,Masculino,Janeiro,1
+1321,2018,Amazonas,Masculino,Fevereiro,0
+1322,2018,Amazonas,Masculino,Março,2
+1323,2018,Amazonas,Masculino,Abril,0
+1324,2018,Amazonas,Masculino,Maio,2
+1325,2018,Amazonas,Masculino,Junho,2
+1326,2018,Amazonas,Masculino,Julho,0
+1327,2018,Amazonas,Masculino,Agosto,0
+1328,2018,Amazonas,Masculino,Setembro,0
+1329,2018,Amazonas,Masculino,Outubro,2
+1330,2018,Amazonas,Masculino,Novembro,4
+1331,2018,Amazonas,Masculino,Dezembro,5
+1332,2018,Roraima,Masculino,Janeiro,0
+1333,2018,Roraima,Masculino,Fevereiro,0
+1334,2018,Roraima,Masculino,Março,0
+1335,2018,Roraima,Masculino,Abril,0
+1336,2018,Roraima,Masculino,Maio,0
+1337,2018,Roraima,Masculino,Junho,0
+1338,2018,Roraima,Masculino,Julho,0
+1339,2018,Roraima,Masculino,Agosto,0
+1340,2018,Roraima,Masculino,Setembro,1
+1341,2018,Roraima,Masculino,Outubro,0
+1342,2018,Roraima,Masculino,Novembro,0
+1343,2018,Roraima,Masculino,Dezembro,0
+1344,2018,Pará,Masculino,Janeiro,2
+1345,2018,Pará,Masculino,Fevereiro,1
+1346,2018,Pará,Masculino,Março,3
+1347,2018,Pará,Masculino,Abril,0
+1348,2018,Pará,Masculino,Maio,2
+1349,2018,Pará,Masculino,Junho,1
+1350,2018,Pará,Masculino,Julho,9
+1351,2018,Pará,Masculino,Agosto,3
+1352,2018,Pará,Masculino,Setembro,6
+1353,2018,Pará,Masculino,Outubro,7
+1354,2018,Pará,Masculino,Novembro,16
+1355,2018,Pará,Masculino,Dezembro,39
+1356,2018,Amapá,Masculino,Janeiro,0
+1357,2018,Amapá,Masculino,Fevereiro,0
+1358,2018,Amapá,Masculino,Março,0
+1359,2018,Amapá,Masculino,Abril,0
+1360,2018,Amapá,Masculino,Maio,0
+1361,2018,Amapá,Masculino,Junho,0
+1362,2018,Amapá,Masculino,Julho,0
+1363,2018,Amapá,Masculino,Agosto,0
+1364,2018,Amapá,Masculino,Setembro,0
+1365,2018,Amapá,Masculino,Outubro,0
+1366,2018,Amapá,Masculino,Novembro,1
+1367,2018,Amapá,Masculino,Dezembro,0
+1368,2018,Tocantins,Masculino,Janeiro,0
+1369,2018,Tocantins,Masculino,Fevereiro,1
+1370,2018,Tocantins,Masculino,Março,0
+1371,2018,Tocantins,Masculino,Abril,0
+1372,2018,Tocantins,Masculino,Maio,0
+1373,2018,Tocantins,Masculino,Junho,4
+1374,2018,Tocantins,Masculino,Julho,0
+1375,2018,Tocantins,Masculino,Agosto,0
+1376,2018,Tocantins,Masculino,Setembro,0
+1377,2018,Tocantins,Masculino,Outubro,0
+1378,2018,Tocantins,Masculino,Novembro,1
+1379,2018,Tocantins,Masculino,Dezembro,1
+1380,2018,Maranhão,Masculino,Janeiro,2
+1381,2018,Maranhão,Masculino,Fevereiro,1
+1382,2018,Maranhão,Masculino,Março,1
+1383,2018,Maranhão,Masculino,Abril,0
+1384,2018,Maranhão,Masculino,Maio,1
+1385,2018,Maranhão,Masculino,Junho,0
+1386,2018,Maranhão,Masculino,Julho,0
+1387,2018,Maranhão,Masculino,Agosto,0
+1388,2018,Maranhão,Masculino,Setembro,0
+1389,2018,Maranhão,Masculino,Outubro,3
+1390,2018,Maranhão,Masculino,Novembro,1
+1391,2018,Maranhão,Masculino,Dezembro,3
+1392,2018,Piauí,Masculino,Janeiro,1
+1393,2018,Piauí,Masculino,Fevereiro,0
+1394,2018,Piauí,Masculino,Março,2
+1395,2018,Piauí,Masculino,Abril,1
+1396,2018,Piauí,Masculino,Maio,0
+1397,2018,Piauí,Masculino,Junho,0
+1398,2018,Piauí,Masculino,Julho,0
+1399,2018,Piauí,Masculino,Agosto,0
+1400,2018,Piauí,Masculino,Setembro,2
+1401,2018,Piauí,Masculino,Outubro,1
+1402,2018,Piauí,Masculino,Novembro,1
+1403,2018,Piauí,Masculino,Dezembro,9
+1404,2018,Ceará,Masculino,Janeiro,8
+1405,2018,Ceará,Masculino,Fevereiro,8
+1406,2018,Ceará,Masculino,Março,5
+1407,2018,Ceará,Masculino,Abril,2
+1408,2018,Ceará,Masculino,Maio,4
+1409,2018,Ceará,Masculino,Junho,5
+1410,2018,Ceará,Masculino,Julho,6
+1411,2018,Ceará,Masculino,Agosto,8
+1412,2018,Ceará,Masculino,Setembro,10
+1413,2018,Ceará,Masculino,Outubro,11
+1414,2018,Ceará,Masculino,Novembro,16
+1415,2018,Ceará,Masculino,Dezembro,35
+1416,2018,Rio Grande do Norte,Masculino,Janeiro,0
+1417,2018,Rio Grande do Norte,Masculino,Fevereiro,2
+1418,2018,Rio Grande do Norte,Masculino,Março,1
+1419,2018,Rio Grande do Norte,Masculino,Abril,1
+1420,2018,Rio Grande do Norte,Masculino,Maio,3
+1421,2018,Rio Grande do Norte,Masculino,Junho,2
+1422,2018,Rio Grande do Norte,Masculino,Julho,2
+1423,2018,Rio Grande do Norte,Masculino,Agosto,4
+1424,2018,Rio Grande do Norte,Masculino,Setembro,3
+1425,2018,Rio Grande do Norte,Masculino,Outubro,2
+1426,2018,Rio Grande do Norte,Masculino,Novembro,6
+1427,2018,Rio Grande do Norte,Masculino,Dezembro,19
+1428,2018,Paraíba,Masculino,Janeiro,1
+1429,2018,Paraíba,Masculino,Fevereiro,3
+1430,2018,Paraíba,Masculino,Março,3
+1431,2018,Paraíba,Masculino,Abril,2
+1432,2018,Paraíba,Masculino,Maio,1
+1433,2018,Paraíba,Masculino,Junho,2
+1434,2018,Paraíba,Masculino,Julho,4
+1435,2018,Paraíba,Masculino,Agosto,1
+1436,2018,Paraíba,Masculino,Setembro,1
+1437,2018,Paraíba,Masculino,Outubro,2
+1438,2018,Paraíba,Masculino,Novembro,7
+1439,2018,Paraíba,Masculino,Dezembro,14
+1440,2018,Pernambuco,Masculino,Janeiro,6
+1441,2018,Pernambuco,Masculino,Fevereiro,5
+1442,2018,Pernambuco,Masculino,Março,8
+1443,2018,Pernambuco,Masculino,Abril,7
+1444,2018,Pernambuco,Masculino,Maio,2
+1445,2018,Pernambuco,Masculino,Junho,6
+1446,2018,Pernambuco,Masculino,Julho,6
+1447,2018,Pernambuco,Masculino,Agosto,5
+1448,2018,Pernambuco,Masculino,Setembro,9
+1449,2018,Pernambuco,Masculino,Outubro,11
+1450,2018,Pernambuco,Masculino,Novembro,13
+1451,2018,Pernambuco,Masculino,Dezembro,53
+1452,2018,Alagoas,Masculino,Janeiro,1
+1453,2018,Alagoas,Masculino,Fevereiro,1
+1454,2018,Alagoas,Masculino,Março,2
+1455,2018,Alagoas,Masculino,Abril,3
+1456,2018,Alagoas,Masculino,Maio,1
+1457,2018,Alagoas,Masculino,Junho,2
+1458,2018,Alagoas,Masculino,Julho,2
+1459,2018,Alagoas,Masculino,Agosto,2
+1460,2018,Alagoas,Masculino,Setembro,1
+1461,2018,Alagoas,Masculino,Outubro,1
+1462,2018,Alagoas,Masculino,Novembro,5
+1463,2018,Alagoas,Masculino,Dezembro,18
+1464,2018,Sergipe,Masculino,Janeiro,0
+1465,2018,Sergipe,Masculino,Fevereiro,2
+1466,2018,Sergipe,Masculino,Março,0
+1467,2018,Sergipe,Masculino,Abril,0
+1468,2018,Sergipe,Masculino,Maio,2
+1469,2018,Sergipe,Masculino,Junho,1
+1470,2018,Sergipe,Masculino,Julho,1
+1471,2018,Sergipe,Masculino,Agosto,1
+1472,2018,Sergipe,Masculino,Setembro,0
+1473,2018,Sergipe,Masculino,Outubro,2
+1474,2018,Sergipe,Masculino,Novembro,3
+1475,2018,Sergipe,Masculino,Dezembro,8
+1476,2018,Bahia,Masculino,Janeiro,3
+1477,2018,Bahia,Masculino,Fevereiro,9
+1478,2018,Bahia,Masculino,Março,10
+1479,2018,Bahia,Masculino,Abril,8
+1480,2018,Bahia,Masculino,Maio,5
+1481,2018,Bahia,Masculino,Junho,15
+1482,2018,Bahia,Masculino,Julho,7
+1483,2018,Bahia,Masculino,Agosto,11
+1484,2018,Bahia,Masculino,Setembro,8
+1485,2018,Bahia,Masculino,Outubro,5
+1486,2018,Bahia,Masculino,Novembro,14
+1487,2018,Bahia,Masculino,Dezembro,23
+1488,2018,Minas Gerais,Masculino,Janeiro,11
+1489,2018,Minas Gerais,Masculino,Fevereiro,21
+1490,2018,Minas Gerais,Masculino,Março,26
+1491,2018,Minas Gerais,Masculino,Abril,17
+1492,2018,Minas Gerais,Masculino,Maio,22
+1493,2018,Minas Gerais,Masculino,Junho,16
+1494,2018,Minas Gerais,Masculino,Julho,20
+1495,2018,Minas Gerais,Masculino,Agosto,19
+1496,2018,Minas Gerais,Masculino,Setembro,32
+1497,2018,Minas Gerais,Masculino,Outubro,22
+1498,2018,Minas Gerais,Masculino,Novembro,23
+1499,2018,Minas Gerais,Masculino,Dezembro,96
+1500,2018,Espírito Santo,Masculino,Janeiro,2
+1501,2018,Espírito Santo,Masculino,Fevereiro,7
+1502,2018,Espírito Santo,Masculino,Março,3
+1503,2018,Espírito Santo,Masculino,Abril,2
+1504,2018,Espírito Santo,Masculino,Maio,6
+1505,2018,Espírito Santo,Masculino,Junho,2
+1506,2018,Espírito Santo,Masculino,Julho,4
+1507,2018,Espírito Santo,Masculino,Agosto,6
+1508,2018,Espírito Santo,Masculino,Setembro,4
+1509,2018,Espírito Santo,Masculino,Outubro,4
+1510,2018,Espírito Santo,Masculino,Novembro,11
+1511,2018,Espírito Santo,Masculino,Dezembro,15
+1512,2018,Rio de Janeiro,Masculino,Janeiro,20
+1513,2018,Rio de Janeiro,Masculino,Fevereiro,27
+1514,2018,Rio de Janeiro,Masculino,Março,21
+1515,2018,Rio de Janeiro,Masculino,Abril,17
+1516,2018,Rio de Janeiro,Masculino,Maio,22
+1517,2018,Rio de Janeiro,Masculino,Junho,20
+1518,2018,Rio de Janeiro,Masculino,Julho,26
+1519,2018,Rio de Janeiro,Masculino,Agosto,24
+1520,2018,Rio de Janeiro,Masculino,Setembro,20
+1521,2018,Rio de Janeiro,Masculino,Outubro,32
+1522,2018,Rio de Janeiro,Masculino,Novembro,28
+1523,2018,Rio de Janeiro,Masculino,Dezembro,60
+1524,2018,São Paulo,Masculino,Janeiro,96
+1525,2018,São Paulo,Masculino,Fevereiro,91
+1526,2018,São Paulo,Masculino,Março,101
+1527,2018,São Paulo,Masculino,Abril,78
+1528,2018,São Paulo,Masculino,Maio,94
+1529,2018,São Paulo,Masculino,Junho,113
+1530,2018,São Paulo,Masculino,Julho,96
+1531,2018,São Paulo,Masculino,Agosto,65
+1532,2018,São Paulo,Masculino,Setembro,102
+1533,2018,São Paulo,Masculino,Outubro,111
+1534,2018,São Paulo,Masculino,Novembro,167
+1535,2018,São Paulo,Masculino,Dezembro,541
+1536,2018,Paraná,Masculino,Janeiro,7
+1537,2018,Paraná,Masculino,Fevereiro,6
+1538,2018,Paraná,Masculino,Março,13
+1539,2018,Paraná,Masculino,Abril,11
+1540,2018,Paraná,Masculino,Maio,11
+1541,2018,Paraná,Masculino,Junho,10
+1542,2018,Paraná,Masculino,Julho,11
+1543,2018,Paraná,Masculino,Agosto,14
+1544,2018,Paraná,Masculino,Setembro,16
+1545,2018,Paraná,Masculino,Outubro,4
+1546,2018,Paraná,Masculino,Novembro,17
+1547,2018,Paraná,Masculino,Dezembro,55
+1548,2018,Santa Catarina,Masculino,Janeiro,9
+1549,2018,Santa Catarina,Masculino,Fevereiro,14
+1550,2018,Santa Catarina,Masculino,Março,19
+1551,2018,Santa Catarina,Masculino,Abril,15
+1552,2018,Santa Catarina,Masculino,Maio,17
+1553,2018,Santa Catarina,Masculino,Junho,17
+1554,2018,Santa Catarina,Masculino,Julho,21
+1555,2018,Santa Catarina,Masculino,Agosto,18
+1556,2018,Santa Catarina,Masculino,Setembro,16
+1557,2018,Santa Catarina,Masculino,Outubro,18
+1558,2018,Santa Catarina,Masculino,Novembro,22
+1559,2018,Santa Catarina,Masculino,Dezembro,43
+1560,2018,Rio Grande do Sul,Masculino,Janeiro,11
+1561,2018,Rio Grande do Sul,Masculino,Fevereiro,8
+1562,2018,Rio Grande do Sul,Masculino,Março,10
+1563,2018,Rio Grande do Sul,Masculino,Abril,6
+1564,2018,Rio Grande do Sul,Masculino,Maio,13
+1565,2018,Rio Grande do Sul,Masculino,Junho,10
+1566,2018,Rio Grande do Sul,Masculino,Julho,13
+1567,2018,Rio Grande do Sul,Masculino,Agosto,15
+1568,2018,Rio Grande do Sul,Masculino,Setembro,13
+1569,2018,Rio Grande do Sul,Masculino,Outubro,3
+1570,2018,Rio Grande do Sul,Masculino,Novembro,20
+1571,2018,Rio Grande do Sul,Masculino,Dezembro,89
+1572,2018,Mato Grosso do Sul,Masculino,Janeiro,1
+1573,2018,Mato Grosso do Sul,Masculino,Fevereiro,2
+1574,2018,Mato Grosso do Sul,Masculino,Março,3
+1575,2018,Mato Grosso do Sul,Masculino,Abril,7
+1576,2018,Mato Grosso do Sul,Masculino,Maio,5
+1577,2018,Mato Grosso do Sul,Masculino,Junho,4
+1578,2018,Mato Grosso do Sul,Masculino,Julho,1
+1579,2018,Mato Grosso do Sul,Masculino,Agosto,5
+1580,2018,Mato Grosso do Sul,Masculino,Setembro,3
+1581,2018,Mato Grosso do Sul,Masculino,Outubro,7
+1582,2018,Mato Grosso do Sul,Masculino,Novembro,10
+1583,2018,Mato Grosso do Sul,Masculino,Dezembro,8
+1584,2018,Mato Grosso,Masculino,Janeiro,1
+1585,2018,Mato Grosso,Masculino,Fevereiro,2
+1586,2018,Mato Grosso,Masculino,Março,0
+1587,2018,Mato Grosso,Masculino,Abril,2
+1588,2018,Mato Grosso,Masculino,Maio,0
+1589,2018,Mato Grosso,Masculino,Junho,0
+1590,2018,Mato Grosso,Masculino,Julho,1
+1591,2018,Mato Grosso,Masculino,Agosto,1
+1592,2018,Mato Grosso,Masculino,Setembro,2
+1593,2018,Mato Grosso,Masculino,Outubro,3
+1594,2018,Mato Grosso,Masculino,Novembro,0
+1595,2018,Mato Grosso,Masculino,Dezembro,3
+1596,2018,Goiás,Masculino,Janeiro,5
+1597,2018,Goiás,Masculino,Fevereiro,9
+1598,2018,Goiás,Masculino,Março,15
+1599,2018,Goiás,Masculino,Abril,12
+1600,2018,Goiás,Masculino,Maio,5
+1601,2018,Goiás,Masculino,Junho,9
+1602,2018,Goiás,Masculino,Julho,8
+1603,2018,Goiás,Masculino,Agosto,6
+1604,2018,Goiás,Masculino,Setembro,10
+1605,2018,Goiás,Masculino,Outubro,3
+1606,2018,Goiás,Masculino,Novembro,11
+1607,2018,Goiás,Masculino,Dezembro,9
+1608,2018,Distrito Federal,Masculino,Janeiro,6
+1609,2018,Distrito Federal,Masculino,Fevereiro,5
+1610,2018,Distrito Federal,Masculino,Março,10
+1611,2018,Distrito Federal,Masculino,Abril,9
+1612,2018,Distrito Federal,Masculino,Maio,10
+1613,2018,Distrito Federal,Masculino,Junho,8
+1614,2018,Distrito Federal,Masculino,Julho,7
+1615,2018,Distrito Federal,Masculino,Agosto,13
+1616,2018,Distrito Federal,Masculino,Setembro,8
+1617,2018,Distrito Federal,Masculino,Outubro,9
+1618,2018,Distrito Federal,Masculino,Novembro,10
+1619,2018,Distrito Federal,Masculino,Dezembro,43
+1620,2020,Rondônia,Masculino,Janeiro,0
+1621,2020,Rondônia,Masculino,Fevereiro,2
+1622,2020,Rondônia,Masculino,Março,0
+1623,2020,Rondônia,Masculino,Abril,1
+1624,2020,Rondônia,Masculino,Maio,0
+1625,2020,Rondônia,Masculino,Junho,0
+1626,2020,Rondônia,Masculino,Julho,2
+1627,2020,Rondônia,Masculino,Agosto,1
+1628,2020,Rondônia,Masculino,Setembro,1
+1629,2020,Rondônia,Masculino,Outubro,2
+1630,2020,Rondônia,Masculino,Novembro,1
+1631,2020,Rondônia,Masculino,Dezembro,1
+1632,2020,Acre,Masculino,Janeiro,0
+1633,2020,Acre,Masculino,Fevereiro,0
+1634,2020,Acre,Masculino,Março,0
+1635,2020,Acre,Masculino,Abril,0
+1636,2020,Acre,Masculino,Maio,0
+1637,2020,Acre,Masculino,Junho,0
+1638,2020,Acre,Masculino,Julho,0
+1639,2020,Acre,Masculino,Agosto,0
+1640,2020,Acre,Masculino,Setembro,0
+1641,2020,Acre,Masculino,Outubro,1
+1642,2020,Acre,Masculino,Novembro,1
+1643,2020,Acre,Masculino,Dezembro,0
+1644,2020,Amazonas,Masculino,Janeiro,1
+1645,2020,Amazonas,Masculino,Fevereiro,2
+1646,2020,Amazonas,Masculino,Março,6
+1647,2020,Amazonas,Masculino,Abril,0
+1648,2020,Amazonas,Masculino,Maio,1
+1649,2020,Amazonas,Masculino,Junho,0
+1650,2020,Amazonas,Masculino,Julho,1
+1651,2020,Amazonas,Masculino,Agosto,1
+1652,2020,Amazonas,Masculino,Setembro,0
+1653,2020,Amazonas,Masculino,Outubro,3
+1654,2020,Amazonas,Masculino,Novembro,3
+1655,2020,Amazonas,Masculino,Dezembro,6
+1656,2020,Roraima,Masculino,Janeiro,1
+1657,2020,Roraima,Masculino,Fevereiro,0
+1658,2020,Roraima,Masculino,Março,1
+1659,2020,Roraima,Masculino,Abril,0
+1660,2020,Roraima,Masculino,Maio,0
+1661,2020,Roraima,Masculino,Junho,2
+1662,2020,Roraima,Masculino,Julho,0
+1663,2020,Roraima,Masculino,Agosto,0
+1664,2020,Roraima,Masculino,Setembro,0
+1665,2020,Roraima,Masculino,Outubro,0
+1666,2020,Roraima,Masculino,Novembro,1
+1667,2020,Roraima,Masculino,Dezembro,0
+1668,2020,Pará,Masculino,Janeiro,1
+1669,2020,Pará,Masculino,Fevereiro,5
+1670,2020,Pará,Masculino,Março,1
+1671,2020,Pará,Masculino,Abril,0
+1672,2020,Pará,Masculino,Maio,0
+1673,2020,Pará,Masculino,Junho,1
+1674,2020,Pará,Masculino,Julho,2
+1675,2020,Pará,Masculino,Agosto,5
+1676,2020,Pará,Masculino,Setembro,3
+1677,2020,Pará,Masculino,Outubro,5
+1678,2020,Pará,Masculino,Novembro,1
+1679,2020,Pará,Masculino,Dezembro,4
+1680,2020,Amapá,Masculino,Janeiro,0
+1681,2020,Amapá,Masculino,Fevereiro,1
+1682,2020,Amapá,Masculino,Março,2
+1683,2020,Amapá,Masculino,Abril,0
+1684,2020,Amapá,Masculino,Maio,0
+1685,2020,Amapá,Masculino,Junho,0
+1686,2020,Amapá,Masculino,Julho,0
+1687,2020,Amapá,Masculino,Agosto,0
+1688,2020,Amapá,Masculino,Setembro,0
+1689,2020,Amapá,Masculino,Outubro,0
+1690,2020,Amapá,Masculino,Novembro,0
+1691,2020,Amapá,Masculino,Dezembro,0
+1692,2020,Tocantins,Masculino,Janeiro,0
+1693,2020,Tocantins,Masculino,Fevereiro,1
+1694,2020,Tocantins,Masculino,Março,0
+1695,2020,Tocantins,Masculino,Abril,0
+1696,2020,Tocantins,Masculino,Maio,1
+1697,2020,Tocantins,Masculino,Junho,0
+1698,2020,Tocantins,Masculino,Julho,0
+1699,2020,Tocantins,Masculino,Agosto,1
+1700,2020,Tocantins,Masculino,Setembro,2
+1701,2020,Tocantins,Masculino,Outubro,3
+1702,2020,Tocantins,Masculino,Novembro,0
+1703,2020,Tocantins,Masculino,Dezembro,0
+1704,2020,Maranhão,Masculino,Janeiro,3
+1705,2020,Maranhão,Masculino,Fevereiro,2
+1706,2020,Maranhão,Masculino,Março,3
+1707,2020,Maranhão,Masculino,Abril,2
+1708,2020,Maranhão,Masculino,Maio,2
+1709,2020,Maranhão,Masculino,Junho,1
+1710,2020,Maranhão,Masculino,Julho,1
+1711,2020,Maranhão,Masculino,Agosto,1
+1712,2020,Maranhão,Masculino,Setembro,2
+1713,2020,Maranhão,Masculino,Outubro,2
+1714,2020,Maranhão,Masculino,Novembro,0
+1715,2020,Maranhão,Masculino,Dezembro,2
+1716,2020,Piauí,Masculino,Janeiro,1
+1717,2020,Piauí,Masculino,Fevereiro,0
+1718,2020,Piauí,Masculino,Março,0
+1719,2020,Piauí,Masculino,Abril,0
+1720,2020,Piauí,Masculino,Maio,0
+1721,2020,Piauí,Masculino,Junho,0
+1722,2020,Piauí,Masculino,Julho,0
+1723,2020,Piauí,Masculino,Agosto,0
+1724,2020,Piauí,Masculino,Setembro,0
+1725,2020,Piauí,Masculino,Outubro,1
+1726,2020,Piauí,Masculino,Novembro,2
+1727,2020,Piauí,Masculino,Dezembro,0
+1728,2020,Ceará,Masculino,Janeiro,8
+1729,2020,Ceará,Masculino,Fevereiro,6
+1730,2020,Ceará,Masculino,Março,3
+1731,2020,Ceará,Masculino,Abril,3
+1732,2020,Ceará,Masculino,Maio,1
+1733,2020,Ceará,Masculino,Junho,2
+1734,2020,Ceará,Masculino,Julho,3
+1735,2020,Ceará,Masculino,Agosto,6
+1736,2020,Ceará,Masculino,Setembro,6
+1737,2020,Ceará,Masculino,Outubro,12
+1738,2020,Ceará,Masculino,Novembro,12
+1739,2020,Ceará,Masculino,Dezembro,11
+1740,2020,Rio Grande do Norte,Masculino,Janeiro,4
+1741,2020,Rio Grande do Norte,Masculino,Fevereiro,1
+1742,2020,Rio Grande do Norte,Masculino,Março,0
+1743,2020,Rio Grande do Norte,Masculino,Abril,2
+1744,2020,Rio Grande do Norte,Masculino,Maio,3
+1745,2020,Rio Grande do Norte,Masculino,Junho,2
+1746,2020,Rio Grande do Norte,Masculino,Julho,2
+1747,2020,Rio Grande do Norte,Masculino,Agosto,1
+1748,2020,Rio Grande do Norte,Masculino,Setembro,2
+1749,2020,Rio Grande do Norte,Masculino,Outubro,1
+1750,2020,Rio Grande do Norte,Masculino,Novembro,3
+1751,2020,Rio Grande do Norte,Masculino,Dezembro,5
+1752,2020,Paraíba,Masculino,Janeiro,4
+1753,2020,Paraíba,Masculino,Fevereiro,2
+1754,2020,Paraíba,Masculino,Março,2
+1755,2020,Paraíba,Masculino,Abril,0
+1756,2020,Paraíba,Masculino,Maio,0
+1757,2020,Paraíba,Masculino,Junho,4
+1758,2020,Paraíba,Masculino,Julho,6
+1759,2020,Paraíba,Masculino,Agosto,4
+1760,2020,Paraíba,Masculino,Setembro,8
+1761,2020,Paraíba,Masculino,Outubro,6
+1762,2020,Paraíba,Masculino,Novembro,7
+1763,2020,Paraíba,Masculino,Dezembro,6
+1764,2020,Pernambuco,Masculino,Janeiro,3
+1765,2020,Pernambuco,Masculino,Fevereiro,4
+1766,2020,Pernambuco,Masculino,Março,5
+1767,2020,Pernambuco,Masculino,Abril,3
+1768,2020,Pernambuco,Masculino,Maio,3
+1769,2020,Pernambuco,Masculino,Junho,3
+1770,2020,Pernambuco,Masculino,Julho,4
+1771,2020,Pernambuco,Masculino,Agosto,4
+1772,2020,Pernambuco,Masculino,Setembro,12
+1773,2020,Pernambuco,Masculino,Outubro,13
+1774,2020,Pernambuco,Masculino,Novembro,6
+1775,2020,Pernambuco,Masculino,Dezembro,12
+1776,2020,Alagoas,Masculino,Janeiro,3
+1777,2020,Alagoas,Masculino,Fevereiro,2
+1778,2020,Alagoas,Masculino,Março,3
+1779,2020,Alagoas,Masculino,Abril,0
+1780,2020,Alagoas,Masculino,Maio,2
+1781,2020,Alagoas,Masculino,Junho,0
+1782,2020,Alagoas,Masculino,Julho,4
+1783,2020,Alagoas,Masculino,Agosto,0
+1784,2020,Alagoas,Masculino,Setembro,6
+1785,2020,Alagoas,Masculino,Outubro,3
+1786,2020,Alagoas,Masculino,Novembro,3
+1787,2020,Alagoas,Masculino,Dezembro,2
+1788,2020,Sergipe,Masculino,Janeiro,1
+1789,2020,Sergipe,Masculino,Fevereiro,1
+1790,2020,Sergipe,Masculino,Março,0
+1791,2020,Sergipe,Masculino,Abril,0
+1792,2020,Sergipe,Masculino,Maio,0
+1793,2020,Sergipe,Masculino,Junho,0
+1794,2020,Sergipe,Masculino,Julho,1
+1795,2020,Sergipe,Masculino,Agosto,1
+1796,2020,Sergipe,Masculino,Setembro,0
+1797,2020,Sergipe,Masculino,Outubro,2
+1798,2020,Sergipe,Masculino,Novembro,0
+1799,2020,Sergipe,Masculino,Dezembro,1
+1800,2020,Bahia,Masculino,Janeiro,10
+1801,2020,Bahia,Masculino,Fevereiro,6
+1802,2020,Bahia,Masculino,Março,13
+1803,2020,Bahia,Masculino,Abril,3
+1804,2020,Bahia,Masculino,Maio,1
+1805,2020,Bahia,Masculino,Junho,4
+1806,2020,Bahia,Masculino,Julho,5
+1807,2020,Bahia,Masculino,Agosto,7
+1808,2020,Bahia,Masculino,Setembro,2
+1809,2020,Bahia,Masculino,Outubro,6
+1810,2020,Bahia,Masculino,Novembro,10
+1811,2020,Bahia,Masculino,Dezembro,22
+1812,2020,Minas Gerais,Masculino,Janeiro,15
+1813,2020,Minas Gerais,Masculino,Fevereiro,17
+1814,2020,Minas Gerais,Masculino,Março,15
+1815,2020,Minas Gerais,Masculino,Abril,7
+1816,2020,Minas Gerais,Masculino,Maio,7
+1817,2020,Minas Gerais,Masculino,Junho,14
+1818,2020,Minas Gerais,Masculino,Julho,14
+1819,2020,Minas Gerais,Masculino,Agosto,16
+1820,2020,Minas Gerais,Masculino,Setembro,22
+1821,2020,Minas Gerais,Masculino,Outubro,31
+1822,2020,Minas Gerais,Masculino,Novembro,30
+1823,2020,Minas Gerais,Masculino,Dezembro,26
+1824,2020,Espírito Santo,Masculino,Janeiro,8
+1825,2020,Espírito Santo,Masculino,Fevereiro,3
+1826,2020,Espírito Santo,Masculino,Março,3
+1827,2020,Espírito Santo,Masculino,Abril,3
+1828,2020,Espírito Santo,Masculino,Maio,4
+1829,2020,Espírito Santo,Masculino,Junho,3
+1830,2020,Espírito Santo,Masculino,Julho,1
+1831,2020,Espírito Santo,Masculino,Agosto,1
+1832,2020,Espírito Santo,Masculino,Setembro,9
+1833,2020,Espírito Santo,Masculino,Outubro,6
+1834,2020,Espírito Santo,Masculino,Novembro,5
+1835,2020,Espírito Santo,Masculino,Dezembro,15
+1836,2020,Rio de Janeiro,Masculino,Janeiro,24
+1837,2020,Rio de Janeiro,Masculino,Fevereiro,10
+1838,2020,Rio de Janeiro,Masculino,Março,13
+1839,2020,Rio de Janeiro,Masculino,Abril,3
+1840,2020,Rio de Janeiro,Masculino,Maio,11
+1841,2020,Rio de Janeiro,Masculino,Junho,8
+1842,2020,Rio de Janeiro,Masculino,Julho,10
+1843,2020,Rio de Janeiro,Masculino,Agosto,12
+1844,2020,Rio de Janeiro,Masculino,Setembro,18
+1845,2020,Rio de Janeiro,Masculino,Outubro,19
+1846,2020,Rio de Janeiro,Masculino,Novembro,11
+1847,2020,Rio de Janeiro,Masculino,Dezembro,25
+1848,2020,São Paulo,Masculino,Janeiro,100
+1849,2020,São Paulo,Masculino,Fevereiro,134
+1850,2020,São Paulo,Masculino,Março,111
+1851,2020,São Paulo,Masculino,Abril,48
+1852,2020,São Paulo,Masculino,Maio,49
+1853,2020,São Paulo,Masculino,Junho,55
+1854,2020,São Paulo,Masculino,Julho,64
+1855,2020,São Paulo,Masculino,Agosto,82
+1856,2020,São Paulo,Masculino,Setembro,97
+1857,2020,São Paulo,Masculino,Outubro,125
+1858,2020,São Paulo,Masculino,Novembro,108
+1859,2020,São Paulo,Masculino,Dezembro,119
+1860,2020,Paraná,Masculino,Janeiro,12
+1861,2020,Paraná,Masculino,Fevereiro,10
+1862,2020,Paraná,Masculino,Março,12
+1863,2020,Paraná,Masculino,Abril,8
+1864,2020,Paraná,Masculino,Maio,6
+1865,2020,Paraná,Masculino,Junho,11
+1866,2020,Paraná,Masculino,Julho,9
+1867,2020,Paraná,Masculino,Agosto,11
+1868,2020,Paraná,Masculino,Setembro,14
+1869,2020,Paraná,Masculino,Outubro,13
+1870,2020,Paraná,Masculino,Novembro,7
+1871,2020,Paraná,Masculino,Dezembro,17
+1872,2020,Santa Catarina,Masculino,Janeiro,9
+1873,2020,Santa Catarina,Masculino,Fevereiro,9
+1874,2020,Santa Catarina,Masculino,Março,10
+1875,2020,Santa Catarina,Masculino,Abril,6
+1876,2020,Santa Catarina,Masculino,Maio,7
+1877,2020,Santa Catarina,Masculino,Junho,8
+1878,2020,Santa Catarina,Masculino,Julho,10
+1879,2020,Santa Catarina,Masculino,Agosto,6
+1880,2020,Santa Catarina,Masculino,Setembro,11
+1881,2020,Santa Catarina,Masculino,Outubro,12
+1882,2020,Santa Catarina,Masculino,Novembro,8
+1883,2020,Santa Catarina,Masculino,Dezembro,14
+1884,2020,Rio Grande do Sul,Masculino,Janeiro,7
+1885,2020,Rio Grande do Sul,Masculino,Fevereiro,18
+1886,2020,Rio Grande do Sul,Masculino,Março,9
+1887,2020,Rio Grande do Sul,Masculino,Abril,2
+1888,2020,Rio Grande do Sul,Masculino,Maio,4
+1889,2020,Rio Grande do Sul,Masculino,Junho,5
+1890,2020,Rio Grande do Sul,Masculino,Julho,2
+1891,2020,Rio Grande do Sul,Masculino,Agosto,7
+1892,2020,Rio Grande do Sul,Masculino,Setembro,10
+1893,2020,Rio Grande do Sul,Masculino,Outubro,11
+1894,2020,Rio Grande do Sul,Masculino,Novembro,9
+1895,2020,Rio Grande do Sul,Masculino,Dezembro,18
+1896,2020,Mato Grosso do Sul,Masculino,Janeiro,3
+1897,2020,Mato Grosso do Sul,Masculino,Fevereiro,4
+1898,2020,Mato Grosso do Sul,Masculino,Março,5
+1899,2020,Mato Grosso do Sul,Masculino,Abril,1
+1900,2020,Mato Grosso do Sul,Masculino,Maio,2
+1901,2020,Mato Grosso do Sul,Masculino,Junho,2
+1902,2020,Mato Grosso do Sul,Masculino,Julho,2
+1903,2020,Mato Grosso do Sul,Masculino,Agosto,1
+1904,2020,Mato Grosso do Sul,Masculino,Setembro,0
+1905,2020,Mato Grosso do Sul,Masculino,Outubro,4
+1906,2020,Mato Grosso do Sul,Masculino,Novembro,4
+1907,2020,Mato Grosso do Sul,Masculino,Dezembro,3
+1908,2020,Mato Grosso,Masculino,Janeiro,3
+1909,2020,Mato Grosso,Masculino,Fevereiro,3
+1910,2020,Mato Grosso,Masculino,Março,0
+1911,2020,Mato Grosso,Masculino,Abril,0
+1912,2020,Mato Grosso,Masculino,Maio,1
+1913,2020,Mato Grosso,Masculino,Junho,1
+1914,2020,Mato Grosso,Masculino,Julho,3
+1915,2020,Mato Grosso,Masculino,Agosto,3
+1916,2020,Mato Grosso,Masculino,Setembro,3
+1917,2020,Mato Grosso,Masculino,Outubro,8
+1918,2020,Mato Grosso,Masculino,Novembro,11
+1919,2020,Mato Grosso,Masculino,Dezembro,9
+1920,2020,Goiás,Masculino,Janeiro,5
+1921,2020,Goiás,Masculino,Fevereiro,4
+1922,2020,Goiás,Masculino,Março,3
+1923,2020,Goiás,Masculino,Abril,1
+1924,2020,Goiás,Masculino,Maio,11
+1925,2020,Goiás,Masculino,Junho,2
+1926,2020,Goiás,Masculino,Julho,9
+1927,2020,Goiás,Masculino,Agosto,5
+1928,2020,Goiás,Masculino,Setembro,12
+1929,2020,Goiás,Masculino,Outubro,17
+1930,2020,Goiás,Masculino,Novembro,10
+1931,2020,Goiás,Masculino,Dezembro,23
+1932,2020,Distrito Federal,Masculino,Janeiro,8
+1933,2020,Distrito Federal,Masculino,Fevereiro,6
+1934,2020,Distrito Federal,Masculino,Março,7
+1935,2020,Distrito Federal,Masculino,Abril,0
+1936,2020,Distrito Federal,Masculino,Maio,3
+1937,2020,Distrito Federal,Masculino,Junho,6
+1938,2020,Distrito Federal,Masculino,Julho,6
+1939,2020,Distrito Federal,Masculino,Agosto,7
+1940,2020,Distrito Federal,Masculino,Setembro,6
+1941,2020,Distrito Federal,Masculino,Outubro,7
+1942,2020,Distrito Federal,Masculino,Novembro,8
+1943,2020,Distrito Federal,Masculino,Dezembro,4
+1944,2021,Rondônia,Masculino,Janeiro,1
+1945,2021,Rondônia,Masculino,Fevereiro,0
+1946,2021,Rondônia,Masculino,Março,1
+1947,2021,Rondônia,Masculino,Abril,1
+1948,2021,Rondônia,Masculino,Maio,3
+1949,2021,Rondônia,Masculino,Junho,3
+1950,2021,Rondônia,Masculino,Julho,2
+1951,2021,Rondônia,Masculino,Agosto,1
+1952,2021,Rondônia,Masculino,Setembro,2
+1953,2021,Rondônia,Masculino,Outubro,1
+1954,2021,Rondônia,Masculino,Novembro,1
+1955,2021,Rondônia,Masculino,Dezembro,2
+1956,2021,Acre,Masculino,Janeiro,2
+1957,2021,Acre,Masculino,Fevereiro,1
+1958,2021,Acre,Masculino,Março,0
+1959,2021,Acre,Masculino,Abril,0
+1960,2021,Acre,Masculino,Maio,0
+1961,2021,Acre,Masculino,Junho,0
+1962,2021,Acre,Masculino,Julho,0
+1963,2021,Acre,Masculino,Agosto,0
+1964,2021,Acre,Masculino,Setembro,0
+1965,2021,Acre,Masculino,Outubro,1
+1966,2021,Acre,Masculino,Novembro,0
+1967,2021,Acre,Masculino,Dezembro,0
+1968,2021,Amazonas,Masculino,Janeiro,0
+1969,2021,Amazonas,Masculino,Fevereiro,0
+1970,2021,Amazonas,Masculino,Março,1
+1971,2021,Amazonas,Masculino,Abril,1
+1972,2021,Amazonas,Masculino,Maio,3
+1973,2021,Amazonas,Masculino,Junho,1
+1974,2021,Amazonas,Masculino,Julho,0
+1975,2021,Amazonas,Masculino,Agosto,2
+1976,2021,Amazonas,Masculino,Setembro,4
+1977,2021,Amazonas,Masculino,Outubro,5
+1978,2021,Amazonas,Masculino,Novembro,2
+1979,2021,Amazonas,Masculino,Dezembro,2
+1980,2021,Roraima,Masculino,Janeiro,1
+1981,2021,Roraima,Masculino,Fevereiro,4
+1982,2021,Roraima,Masculino,Março,1
+1983,2021,Roraima,Masculino,Abril,4
+1984,2021,Roraima,Masculino,Maio,0
+1985,2021,Roraima,Masculino,Junho,0
+1986,2021,Roraima,Masculino,Julho,3
+1987,2021,Roraima,Masculino,Agosto,0
+1988,2021,Roraima,Masculino,Setembro,4
+1989,2021,Roraima,Masculino,Outubro,0
+1990,2021,Roraima,Masculino,Novembro,1
+1991,2021,Roraima,Masculino,Dezembro,1
+1992,2021,Pará,Masculino,Janeiro,2
+1993,2021,Pará,Masculino,Fevereiro,4
+1994,2021,Pará,Masculino,Março,0
+1995,2021,Pará,Masculino,Abril,1
+1996,2021,Pará,Masculino,Maio,5
+1997,2021,Pará,Masculino,Junho,5
+1998,2021,Pará,Masculino,Julho,4
+1999,2021,Pará,Masculino,Agosto,3
+2000,2021,Pará,Masculino,Setembro,6
+2001,2021,Pará,Masculino,Outubro,7
+2002,2021,Pará,Masculino,Novembro,3
+2003,2021,Pará,Masculino,Dezembro,9
+2004,2021,Amapá,Masculino,Janeiro,1
+2005,2021,Amapá,Masculino,Fevereiro,0
+2006,2021,Amapá,Masculino,Março,2
+2007,2021,Amapá,Masculino,Abril,0
+2008,2021,Amapá,Masculino,Maio,1
+2009,2021,Amapá,Masculino,Junho,1
+2010,2021,Amapá,Masculino,Julho,2
+2011,2021,Amapá,Masculino,Agosto,0
+2012,2021,Amapá,Masculino,Setembro,0
+2013,2021,Amapá,Masculino,Outubro,0
+2014,2021,Amapá,Masculino,Novembro,1
+2015,2021,Amapá,Masculino,Dezembro,5
+2016,2021,Tocantins,Masculino,Janeiro,0
+2017,2021,Tocantins,Masculino,Fevereiro,0
+2018,2021,Tocantins,Masculino,Março,0
+2019,2021,Tocantins,Masculino,Abril,0
+2020,2021,Tocantins,Masculino,Maio,2
+2021,2021,Tocantins,Masculino,Junho,1
+2022,2021,Tocantins,Masculino,Julho,1
+2023,2021,Tocantins,Masculino,Agosto,0
+2024,2021,Tocantins,Masculino,Setembro,0
+2025,2021,Tocantins,Masculino,Outubro,0
+2026,2021,Tocantins,Masculino,Novembro,1
+2027,2021,Tocantins,Masculino,Dezembro,1
+2028,2021,Maranhão,Masculino,Janeiro,6
+2029,2021,Maranhão,Masculino,Fevereiro,2
+2030,2021,Maranhão,Masculino,Março,5
+2031,2021,Maranhão,Masculino,Abril,3
+2032,2021,Maranhão,Masculino,Maio,1
+2033,2021,Maranhão,Masculino,Junho,3
+2034,2021,Maranhão,Masculino,Julho,4
+2035,2021,Maranhão,Masculino,Agosto,3
+2036,2021,Maranhão,Masculino,Setembro,5
+2037,2021,Maranhão,Masculino,Outubro,5
+2038,2021,Maranhão,Masculino,Novembro,3
+2039,2021,Maranhão,Masculino,Dezembro,7
+2040,2021,Piauí,Masculino,Janeiro,0
+2041,2021,Piauí,Masculino,Fevereiro,0
+2042,2021,Piauí,Masculino,Março,0
+2043,2021,Piauí,Masculino,Abril,0
+2044,2021,Piauí,Masculino,Maio,3
+2045,2021,Piauí,Masculino,Junho,0
+2046,2021,Piauí,Masculino,Julho,2
+2047,2021,Piauí,Masculino,Agosto,0
+2048,2021,Piauí,Masculino,Setembro,0
+2049,2021,Piauí,Masculino,Outubro,1
+2050,2021,Piauí,Masculino,Novembro,0
+2051,2021,Piauí,Masculino,Dezembro,1
+2052,2021,Ceará,Masculino,Janeiro,10
+2053,2021,Ceará,Masculino,Fevereiro,7
+2054,2021,Ceará,Masculino,Março,4
+2055,2021,Ceará,Masculino,Abril,4
+2056,2021,Ceará,Masculino,Maio,7
+2057,2021,Ceará,Masculino,Junho,9
+2058,2021,Ceará,Masculino,Julho,9
+2059,2021,Ceará,Masculino,Agosto,7
+2060,2021,Ceará,Masculino,Setembro,15
+2061,2021,Ceará,Masculino,Outubro,14
+2062,2021,Ceará,Masculino,Novembro,18
+2063,2021,Ceará,Masculino,Dezembro,18
+2064,2021,Rio Grande do Norte,Masculino,Janeiro,2
+2065,2021,Rio Grande do Norte,Masculino,Fevereiro,5
+2066,2021,Rio Grande do Norte,Masculino,Março,3
+2067,2021,Rio Grande do Norte,Masculino,Abril,6
+2068,2021,Rio Grande do Norte,Masculino,Maio,4
+2069,2021,Rio Grande do Norte,Masculino,Junho,2
+2070,2021,Rio Grande do Norte,Masculino,Julho,3
+2071,2021,Rio Grande do Norte,Masculino,Agosto,4
+2072,2021,Rio Grande do Norte,Masculino,Setembro,4
+2073,2021,Rio Grande do Norte,Masculino,Outubro,6
+2074,2021,Rio Grande do Norte,Masculino,Novembro,4
+2075,2021,Rio Grande do Norte,Masculino,Dezembro,6
+2076,2021,Paraíba,Masculino,Janeiro,8
+2077,2021,Paraíba,Masculino,Fevereiro,4
+2078,2021,Paraíba,Masculino,Março,2
+2079,2021,Paraíba,Masculino,Abril,2
+2080,2021,Paraíba,Masculino,Maio,2
+2081,2021,Paraíba,Masculino,Junho,3
+2082,2021,Paraíba,Masculino,Julho,5
+2083,2021,Paraíba,Masculino,Agosto,5
+2084,2021,Paraíba,Masculino,Setembro,7
+2085,2021,Paraíba,Masculino,Outubro,5
+2086,2021,Paraíba,Masculino,Novembro,2
+2087,2021,Paraíba,Masculino,Dezembro,4
+2088,2021,Pernambuco,Masculino,Janeiro,7
+2089,2021,Pernambuco,Masculino,Fevereiro,7
+2090,2021,Pernambuco,Masculino,Março,6
+2091,2021,Pernambuco,Masculino,Abril,8
+2092,2021,Pernambuco,Masculino,Maio,9
+2093,2021,Pernambuco,Masculino,Junho,10
+2094,2021,Pernambuco,Masculino,Julho,7
+2095,2021,Pernambuco,Masculino,Agosto,8
+2096,2021,Pernambuco,Masculino,Setembro,13
+2097,2021,Pernambuco,Masculino,Outubro,12
+2098,2021,Pernambuco,Masculino,Novembro,14
+2099,2021,Pernambuco,Masculino,Dezembro,14
+2100,2021,Alagoas,Masculino,Janeiro,0
+2101,2021,Alagoas,Masculino,Fevereiro,3
+2102,2021,Alagoas,Masculino,Março,2
+2103,2021,Alagoas,Masculino,Abril,3
+2104,2021,Alagoas,Masculino,Maio,8
+2105,2021,Alagoas,Masculino,Junho,1
+2106,2021,Alagoas,Masculino,Julho,2
+2107,2021,Alagoas,Masculino,Agosto,3
+2108,2021,Alagoas,Masculino,Setembro,10
+2109,2021,Alagoas,Masculino,Outubro,1
+2110,2021,Alagoas,Masculino,Novembro,4
+2111,2021,Alagoas,Masculino,Dezembro,8
+2112,2021,Sergipe,Masculino,Janeiro,1
+2113,2021,Sergipe,Masculino,Fevereiro,0
+2114,2021,Sergipe,Masculino,Março,2
+2115,2021,Sergipe,Masculino,Abril,2
+2116,2021,Sergipe,Masculino,Maio,0
+2117,2021,Sergipe,Masculino,Junho,1
+2118,2021,Sergipe,Masculino,Julho,1
+2119,2021,Sergipe,Masculino,Agosto,0
+2120,2021,Sergipe,Masculino,Setembro,2
+2121,2021,Sergipe,Masculino,Outubro,1
+2122,2021,Sergipe,Masculino,Novembro,1
+2123,2021,Sergipe,Masculino,Dezembro,3
+2124,2021,Bahia,Masculino,Janeiro,8
+2125,2021,Bahia,Masculino,Fevereiro,11
+2126,2021,Bahia,Masculino,Março,6
+2127,2021,Bahia,Masculino,Abril,3
+2128,2021,Bahia,Masculino,Maio,3
+2129,2021,Bahia,Masculino,Junho,7
+2130,2021,Bahia,Masculino,Julho,10
+2131,2021,Bahia,Masculino,Agosto,8
+2132,2021,Bahia,Masculino,Setembro,12
+2133,2021,Bahia,Masculino,Outubro,12
+2134,2021,Bahia,Masculino,Novembro,22
+2135,2021,Bahia,Masculino,Dezembro,16
+2136,2021,Minas Gerais,Masculino,Janeiro,26
+2137,2021,Minas Gerais,Masculino,Fevereiro,24
+2138,2021,Minas Gerais,Masculino,Março,22
+2139,2021,Minas Gerais,Masculino,Abril,14
+2140,2021,Minas Gerais,Masculino,Maio,16
+2141,2021,Minas Gerais,Masculino,Junho,23
+2142,2021,Minas Gerais,Masculino,Julho,26
+2143,2021,Minas Gerais,Masculino,Agosto,19
+2144,2021,Minas Gerais,Masculino,Setembro,34
+2145,2021,Minas Gerais,Masculino,Outubro,27
+2146,2021,Minas Gerais,Masculino,Novembro,32
+2147,2021,Minas Gerais,Masculino,Dezembro,36
+2148,2021,Espírito Santo,Masculino,Janeiro,7
+2149,2021,Espírito Santo,Masculino,Fevereiro,5
+2150,2021,Espírito Santo,Masculino,Março,4
+2151,2021,Espírito Santo,Masculino,Abril,5
+2152,2021,Espírito Santo,Masculino,Maio,2
+2153,2021,Espírito Santo,Masculino,Junho,2
+2154,2021,Espírito Santo,Masculino,Julho,5
+2155,2021,Espírito Santo,Masculino,Agosto,6
+2156,2021,Espírito Santo,Masculino,Setembro,5
+2157,2021,Espírito Santo,Masculino,Outubro,7
+2158,2021,Espírito Santo,Masculino,Novembro,8
+2159,2021,Espírito Santo,Masculino,Dezembro,7
+2160,2021,Rio de Janeiro,Masculino,Janeiro,17
+2161,2021,Rio de Janeiro,Masculino,Fevereiro,26
+2162,2021,Rio de Janeiro,Masculino,Março,23
+2163,2021,Rio de Janeiro,Masculino,Abril,16
+2164,2021,Rio de Janeiro,Masculino,Maio,20
+2165,2021,Rio de Janeiro,Masculino,Junho,19
+2166,2021,Rio de Janeiro,Masculino,Julho,22
+2167,2021,Rio de Janeiro,Masculino,Agosto,20
+2168,2021,Rio de Janeiro,Masculino,Setembro,20
+2169,2021,Rio de Janeiro,Masculino,Outubro,30
+2170,2021,Rio de Janeiro,Masculino,Novembro,24
+2171,2021,Rio de Janeiro,Masculino,Dezembro,30
+2172,2021,São Paulo,Masculino,Janeiro,119
+2173,2021,São Paulo,Masculino,Fevereiro,71
+2174,2021,São Paulo,Masculino,Março,90
+2175,2021,São Paulo,Masculino,Abril,79
+2176,2021,São Paulo,Masculino,Maio,84
+2177,2021,São Paulo,Masculino,Junho,96
+2178,2021,São Paulo,Masculino,Julho,131
+2179,2021,São Paulo,Masculino,Agosto,97
+2180,2021,São Paulo,Masculino,Setembro,105
+2181,2021,São Paulo,Masculino,Outubro,141
+2182,2021,São Paulo,Masculino,Novembro,105
+2183,2021,São Paulo,Masculino,Dezembro,132
+2184,2021,Paraná,Masculino,Janeiro,16
+2185,2021,Paraná,Masculino,Fevereiro,13
+2186,2021,Paraná,Masculino,Março,6
+2187,2021,Paraná,Masculino,Abril,11
+2188,2021,Paraná,Masculino,Maio,10
+2189,2021,Paraná,Masculino,Junho,10
+2190,2021,Paraná,Masculino,Julho,13
+2191,2021,Paraná,Masculino,Agosto,22
+2192,2021,Paraná,Masculino,Setembro,15
+2193,2021,Paraná,Masculino,Outubro,20
+2194,2021,Paraná,Masculino,Novembro,25
+2195,2021,Paraná,Masculino,Dezembro,16
+2196,2021,Santa Catarina,Masculino,Janeiro,10
+2197,2021,Santa Catarina,Masculino,Fevereiro,15
+2198,2021,Santa Catarina,Masculino,Março,12
+2199,2021,Santa Catarina,Masculino,Abril,9
+2200,2021,Santa Catarina,Masculino,Maio,14
+2201,2021,Santa Catarina,Masculino,Junho,13
+2202,2021,Santa Catarina,Masculino,Julho,20
+2203,2021,Santa Catarina,Masculino,Agosto,13
+2204,2021,Santa Catarina,Masculino,Setembro,25
+2205,2021,Santa Catarina,Masculino,Outubro,23
+2206,2021,Santa Catarina,Masculino,Novembro,14
+2207,2021,Santa Catarina,Masculino,Dezembro,12
+2208,2021,Rio Grande do Sul,Masculino,Janeiro,5
+2209,2021,Rio Grande do Sul,Masculino,Fevereiro,10
+2210,2021,Rio Grande do Sul,Masculino,Março,11
+2211,2021,Rio Grande do Sul,Masculino,Abril,12
+2212,2021,Rio Grande do Sul,Masculino,Maio,5
+2213,2021,Rio Grande do Sul,Masculino,Junho,12
+2214,2021,Rio Grande do Sul,Masculino,Julho,13
+2215,2021,Rio Grande do Sul,Masculino,Agosto,9
+2216,2021,Rio Grande do Sul,Masculino,Setembro,16
+2217,2021,Rio Grande do Sul,Masculino,Outubro,14
+2218,2021,Rio Grande do Sul,Masculino,Novembro,11
+2219,2021,Rio Grande do Sul,Masculino,Dezembro,14
+2220,2021,Mato Grosso do Sul,Masculino,Janeiro,1
+2221,2021,Mato Grosso do Sul,Masculino,Fevereiro,3
+2222,2021,Mato Grosso do Sul,Masculino,Março,3
+2223,2021,Mato Grosso do Sul,Masculino,Abril,1
+2224,2021,Mato Grosso do Sul,Masculino,Maio,3
+2225,2021,Mato Grosso do Sul,Masculino,Junho,4
+2226,2021,Mato Grosso do Sul,Masculino,Julho,6
+2227,2021,Mato Grosso do Sul,Masculino,Agosto,3
+2228,2021,Mato Grosso do Sul,Masculino,Setembro,5
+2229,2021,Mato Grosso do Sul,Masculino,Outubro,4
+2230,2021,Mato Grosso do Sul,Masculino,Novembro,4
+2231,2021,Mato Grosso do Sul,Masculino,Dezembro,5
+2232,2021,Mato Grosso,Masculino,Janeiro,12
+2233,2021,Mato Grosso,Masculino,Fevereiro,13
+2234,2021,Mato Grosso,Masculino,Março,10
+2235,2021,Mato Grosso,Masculino,Abril,13
+2236,2021,Mato Grosso,Masculino,Maio,8
+2237,2021,Mato Grosso,Masculino,Junho,22
+2238,2021,Mato Grosso,Masculino,Julho,12
+2239,2021,Mato Grosso,Masculino,Agosto,7
+2240,2021,Mato Grosso,Masculino,Setembro,31
+2241,2021,Mato Grosso,Masculino,Outubro,69
+2242,2021,Mato Grosso,Masculino,Novembro,48
+2243,2021,Mato Grosso,Masculino,Dezembro,40
+2244,2021,Goiás,Masculino,Janeiro,21
+2245,2021,Goiás,Masculino,Fevereiro,7
+2246,2021,Goiás,Masculino,Março,11
+2247,2021,Goiás,Masculino,Abril,8
+2248,2021,Goiás,Masculino,Maio,6
+2249,2021,Goiás,Masculino,Junho,5
+2250,2021,Goiás,Masculino,Julho,12
+2251,2021,Goiás,Masculino,Agosto,13
+2252,2021,Goiás,Masculino,Setembro,6
+2253,2021,Goiás,Masculino,Outubro,8
+2254,2021,Goiás,Masculino,Novembro,10
+2255,2021,Goiás,Masculino,Dezembro,15
+2256,2021,Distrito Federal,Masculino,Janeiro,5
+2257,2021,Distrito Federal,Masculino,Fevereiro,8
+2258,2021,Distrito Federal,Masculino,Março,6
+2259,2021,Distrito Federal,Masculino,Abril,3
+2260,2021,Distrito Federal,Masculino,Maio,9
+2261,2021,Distrito Federal,Masculino,Junho,7
+2262,2021,Distrito Federal,Masculino,Julho,8
+2263,2021,Distrito Federal,Masculino,Agosto,11
+2264,2021,Distrito Federal,Masculino,Setembro,6
+2265,2021,Distrito Federal,Masculino,Outubro,9
+2266,2021,Distrito Federal,Masculino,Novembro,6
+2267,2021,Distrito Federal,Masculino,Dezembro,9
+2268,2019,Rondônia,Feminino,Janeiro,2
+2269,2019,Rondônia,Feminino,Fevereiro,3
+2270,2019,Rondônia,Feminino,Março,4
+2271,2019,Rondônia,Feminino,Abril,4
+2272,2019,Rondônia,Feminino,Maio,0
+2273,2019,Rondônia,Feminino,Junho,2
+2274,2019,Rondônia,Feminino,Julho,2
+2275,2019,Rondônia,Feminino,Agosto,1
+2276,2019,Rondônia,Feminino,Setembro,2
+2277,2019,Rondônia,Feminino,Outubro,3
+2278,2019,Rondônia,Feminino,Novembro,3
+2279,2019,Rondônia,Feminino,Dezembro,3
+2280,2019,Acre,Feminino,Janeiro,1
+2281,2019,Acre,Feminino,Fevereiro,1
+2282,2019,Acre,Feminino,Março,1
+2283,2019,Acre,Feminino,Abril,0
+2284,2019,Acre,Feminino,Maio,1
+2285,2019,Acre,Feminino,Junho,1
+2286,2019,Acre,Feminino,Julho,1
+2287,2019,Acre,Feminino,Agosto,1
+2288,2019,Acre,Feminino,Setembro,1
+2289,2019,Acre,Feminino,Outubro,1
+2290,2019,Acre,Feminino,Novembro,0
+2291,2019,Acre,Feminino,Dezembro,0
+2292,2019,Amazonas,Feminino,Janeiro,3
+2293,2019,Amazonas,Feminino,Fevereiro,9
+2294,2019,Amazonas,Feminino,Março,2
+2295,2019,Amazonas,Feminino,Abril,3
+2296,2019,Amazonas,Feminino,Maio,6
+2297,2019,Amazonas,Feminino,Junho,5
+2298,2019,Amazonas,Feminino,Julho,2
+2299,2019,Amazonas,Feminino,Agosto,3
+2300,2019,Amazonas,Feminino,Setembro,4
+2301,2019,Amazonas,Feminino,Outubro,4
+2302,2019,Amazonas,Feminino,Novembro,3
+2303,2019,Amazonas,Feminino,Dezembro,2
+2304,2019,Roraima,Feminino,Janeiro,0
+2305,2019,Roraima,Feminino,Fevereiro,1
+2306,2019,Roraima,Feminino,Março,0
+2307,2019,Roraima,Feminino,Abril,1
+2308,2019,Roraima,Feminino,Maio,1
+2309,2019,Roraima,Feminino,Junho,1
+2310,2019,Roraima,Feminino,Julho,0
+2311,2019,Roraima,Feminino,Agosto,6
+2312,2019,Roraima,Feminino,Setembro,0
+2313,2019,Roraima,Feminino,Outubro,0
+2314,2019,Roraima,Feminino,Novembro,0
+2315,2019,Roraima,Feminino,Dezembro,1
+2316,2019,Pará,Feminino,Janeiro,14
+2317,2019,Pará,Feminino,Fevereiro,9
+2318,2019,Pará,Feminino,Março,9
+2319,2019,Pará,Feminino,Abril,6
+2320,2019,Pará,Feminino,Maio,2
+2321,2019,Pará,Feminino,Junho,5
+2322,2019,Pará,Feminino,Julho,11
+2323,2019,Pará,Feminino,Agosto,6
+2324,2019,Pará,Feminino,Setembro,5
+2325,2019,Pará,Feminino,Outubro,6
+2326,2019,Pará,Feminino,Novembro,11
+2327,2019,Pará,Feminino,Dezembro,12
+2328,2019,Amapá,Feminino,Janeiro,0
+2329,2019,Amapá,Feminino,Fevereiro,5
+2330,2019,Amapá,Feminino,Março,2
+2331,2019,Amapá,Feminino,Abril,0
+2332,2019,Amapá,Feminino,Maio,0
+2333,2019,Amapá,Feminino,Junho,0
+2334,2019,Amapá,Feminino,Julho,0
+2335,2019,Amapá,Feminino,Agosto,2
+2336,2019,Amapá,Feminino,Setembro,0
+2337,2019,Amapá,Feminino,Outubro,1
+2338,2019,Amapá,Feminino,Novembro,1
+2339,2019,Amapá,Feminino,Dezembro,1
+2340,2019,Tocantins,Feminino,Janeiro,0
+2341,2019,Tocantins,Feminino,Fevereiro,1
+2342,2019,Tocantins,Feminino,Março,2
+2343,2019,Tocantins,Feminino,Abril,1
+2344,2019,Tocantins,Feminino,Maio,1
+2345,2019,Tocantins,Feminino,Junho,0
+2346,2019,Tocantins,Feminino,Julho,2
+2347,2019,Tocantins,Feminino,Agosto,0
+2348,2019,Tocantins,Feminino,Setembro,0
+2349,2019,Tocantins,Feminino,Outubro,3
+2350,2019,Tocantins,Feminino,Novembro,2
+2351,2019,Tocantins,Feminino,Dezembro,1
+2352,2019,Maranhão,Feminino,Janeiro,6
+2353,2019,Maranhão,Feminino,Fevereiro,4
+2354,2019,Maranhão,Feminino,Março,0
+2355,2019,Maranhão,Feminino,Abril,2
+2356,2019,Maranhão,Feminino,Maio,1
+2357,2019,Maranhão,Feminino,Junho,1
+2358,2019,Maranhão,Feminino,Julho,2
+2359,2019,Maranhão,Feminino,Agosto,1
+2360,2019,Maranhão,Feminino,Setembro,2
+2361,2019,Maranhão,Feminino,Outubro,1
+2362,2019,Maranhão,Feminino,Novembro,2
+2363,2019,Maranhão,Feminino,Dezembro,0
+2364,2019,Piauí,Feminino,Janeiro,2
+2365,2019,Piauí,Feminino,Fevereiro,4
+2366,2019,Piauí,Feminino,Março,2
+2367,2019,Piauí,Feminino,Abril,2
+2368,2019,Piauí,Feminino,Maio,4
+2369,2019,Piauí,Feminino,Junho,3
+2370,2019,Piauí,Feminino,Julho,2
+2371,2019,Piauí,Feminino,Agosto,1
+2372,2019,Piauí,Feminino,Setembro,1
+2373,2019,Piauí,Feminino,Outubro,3
+2374,2019,Piauí,Feminino,Novembro,1
+2375,2019,Piauí,Feminino,Dezembro,2
+2376,2019,Ceará,Feminino,Janeiro,36
+2377,2019,Ceará,Feminino,Fevereiro,18
+2378,2019,Ceará,Feminino,Março,18
+2379,2019,Ceará,Feminino,Abril,10
+2380,2019,Ceará,Feminino,Maio,10
+2381,2019,Ceará,Feminino,Junho,14
+2382,2019,Ceará,Feminino,Julho,17
+2383,2019,Ceará,Feminino,Agosto,9
+2384,2019,Ceará,Feminino,Setembro,16
+2385,2019,Ceará,Feminino,Outubro,15
+2386,2019,Ceará,Feminino,Novembro,10
+2387,2019,Ceará,Feminino,Dezembro,26
+2388,2019,Rio Grande do Norte,Feminino,Janeiro,10
+2389,2019,Rio Grande do Norte,Feminino,Fevereiro,9
+2390,2019,Rio Grande do Norte,Feminino,Março,0
+2391,2019,Rio Grande do Norte,Feminino,Abril,9
+2392,2019,Rio Grande do Norte,Feminino,Maio,6
+2393,2019,Rio Grande do Norte,Feminino,Junho,5
+2394,2019,Rio Grande do Norte,Feminino,Julho,2
+2395,2019,Rio Grande do Norte,Feminino,Agosto,4
+2396,2019,Rio Grande do Norte,Feminino,Setembro,7
+2397,2019,Rio Grande do Norte,Feminino,Outubro,7
+2398,2019,Rio Grande do Norte,Feminino,Novembro,3
+2399,2019,Rio Grande do Norte,Feminino,Dezembro,9
+2400,2019,Paraíba,Feminino,Janeiro,36
+2401,2019,Paraíba,Feminino,Fevereiro,2
+2402,2019,Paraíba,Feminino,Março,3
+2403,2019,Paraíba,Feminino,Abril,2
+2404,2019,Paraíba,Feminino,Maio,5
+2405,2019,Paraíba,Feminino,Junho,4
+2406,2019,Paraíba,Feminino,Julho,3
+2407,2019,Paraíba,Feminino,Agosto,4
+2408,2019,Paraíba,Feminino,Setembro,2
+2409,2019,Paraíba,Feminino,Outubro,4
+2410,2019,Paraíba,Feminino,Novembro,6
+2411,2019,Paraíba,Feminino,Dezembro,12
+2412,2019,Pernambuco,Feminino,Janeiro,25
+2413,2019,Pernambuco,Feminino,Fevereiro,31
+2414,2019,Pernambuco,Feminino,Março,12
+2415,2019,Pernambuco,Feminino,Abril,16
+2416,2019,Pernambuco,Feminino,Maio,15
+2417,2019,Pernambuco,Feminino,Junho,11
+2418,2019,Pernambuco,Feminino,Julho,22
+2419,2019,Pernambuco,Feminino,Agosto,14
+2420,2019,Pernambuco,Feminino,Setembro,12
+2421,2019,Pernambuco,Feminino,Outubro,17
+2422,2019,Pernambuco,Feminino,Novembro,19
+2423,2019,Pernambuco,Feminino,Dezembro,23
+2424,2019,Alagoas,Feminino,Janeiro,7
+2425,2019,Alagoas,Feminino,Fevereiro,0
+2426,2019,Alagoas,Feminino,Março,4
+2427,2019,Alagoas,Feminino,Abril,2
+2428,2019,Alagoas,Feminino,Maio,3
+2429,2019,Alagoas,Feminino,Junho,2
+2430,2019,Alagoas,Feminino,Julho,5
+2431,2019,Alagoas,Feminino,Agosto,5
+2432,2019,Alagoas,Feminino,Setembro,8
+2433,2019,Alagoas,Feminino,Outubro,5
+2434,2019,Alagoas,Feminino,Novembro,4
+2435,2019,Alagoas,Feminino,Dezembro,8
+2436,2019,Sergipe,Feminino,Janeiro,3
+2437,2019,Sergipe,Feminino,Fevereiro,3
+2438,2019,Sergipe,Feminino,Março,2
+2439,2019,Sergipe,Feminino,Abril,3
+2440,2019,Sergipe,Feminino,Maio,1
+2441,2019,Sergipe,Feminino,Junho,0
+2442,2019,Sergipe,Feminino,Julho,1
+2443,2019,Sergipe,Feminino,Agosto,2
+2444,2019,Sergipe,Feminino,Setembro,1
+2445,2019,Sergipe,Feminino,Outubro,1
+2446,2019,Sergipe,Feminino,Novembro,1
+2447,2019,Sergipe,Feminino,Dezembro,3
+2448,2019,Bahia,Feminino,Janeiro,23
+2449,2019,Bahia,Feminino,Fevereiro,29
+2450,2019,Bahia,Feminino,Março,7
+2451,2019,Bahia,Feminino,Abril,13
+2452,2019,Bahia,Feminino,Maio,15
+2453,2019,Bahia,Feminino,Junho,16
+2454,2019,Bahia,Feminino,Julho,15
+2455,2019,Bahia,Feminino,Agosto,18
+2456,2019,Bahia,Feminino,Setembro,16
+2457,2019,Bahia,Feminino,Outubro,16
+2458,2019,Bahia,Feminino,Novembro,19
+2459,2019,Bahia,Feminino,Dezembro,12
+2460,2019,Minas Gerais,Feminino,Janeiro,79
+2461,2019,Minas Gerais,Feminino,Fevereiro,44
+2462,2019,Minas Gerais,Feminino,Março,40
+2463,2019,Minas Gerais,Feminino,Abril,25
+2464,2019,Minas Gerais,Feminino,Maio,27
+2465,2019,Minas Gerais,Feminino,Junho,33
+2466,2019,Minas Gerais,Feminino,Julho,40
+2467,2019,Minas Gerais,Feminino,Agosto,15
+2468,2019,Minas Gerais,Feminino,Setembro,52
+2469,2019,Minas Gerais,Feminino,Outubro,45
+2470,2019,Minas Gerais,Feminino,Novembro,28
+2471,2019,Minas Gerais,Feminino,Dezembro,36
+2472,2019,Espírito Santo,Feminino,Janeiro,11
+2473,2019,Espírito Santo,Feminino,Fevereiro,11
+2474,2019,Espírito Santo,Feminino,Março,6
+2475,2019,Espírito Santo,Feminino,Abril,4
+2476,2019,Espírito Santo,Feminino,Maio,5
+2477,2019,Espírito Santo,Feminino,Junho,2
+2478,2019,Espírito Santo,Feminino,Julho,7
+2479,2019,Espírito Santo,Feminino,Agosto,6
+2480,2019,Espírito Santo,Feminino,Setembro,8
+2481,2019,Espírito Santo,Feminino,Outubro,7
+2482,2019,Espírito Santo,Feminino,Novembro,12
+2483,2019,Espírito Santo,Feminino,Dezembro,8
+2484,2019,Rio de Janeiro,Feminino,Janeiro,76
+2485,2019,Rio de Janeiro,Feminino,Fevereiro,82
+2486,2019,Rio de Janeiro,Feminino,Março,60
+2487,2019,Rio de Janeiro,Feminino,Abril,55
+2488,2019,Rio de Janeiro,Feminino,Maio,53
+2489,2019,Rio de Janeiro,Feminino,Junho,33
+2490,2019,Rio de Janeiro,Feminino,Julho,26
+2491,2019,Rio de Janeiro,Feminino,Agosto,25
+2492,2019,Rio de Janeiro,Feminino,Setembro,30
+2493,2019,Rio de Janeiro,Feminino,Outubro,43
+2494,2019,Rio de Janeiro,Feminino,Novembro,40
+2495,2019,Rio de Janeiro,Feminino,Dezembro,45
+2496,2019,São Paulo,Feminino,Janeiro,339
+2497,2019,São Paulo,Feminino,Fevereiro,216
+2498,2019,São Paulo,Feminino,Março,183
+2499,2019,São Paulo,Feminino,Abril,128
+2500,2019,São Paulo,Feminino,Maio,159
+2501,2019,São Paulo,Feminino,Junho,150
+2502,2019,São Paulo,Feminino,Julho,113
+2503,2019,São Paulo,Feminino,Agosto,151
+2504,2019,São Paulo,Feminino,Setembro,147
+2505,2019,São Paulo,Feminino,Outubro,164
+2506,2019,São Paulo,Feminino,Novembro,205
+2507,2019,São Paulo,Feminino,Dezembro,165
+2508,2019,Paraná,Feminino,Janeiro,26
+2509,2019,Paraná,Feminino,Fevereiro,37
+2510,2019,Paraná,Feminino,Março,25
+2511,2019,Paraná,Feminino,Abril,19
+2512,2019,Paraná,Feminino,Maio,18
+2513,2019,Paraná,Feminino,Junho,13
+2514,2019,Paraná,Feminino,Julho,14
+2515,2019,Paraná,Feminino,Agosto,18
+2516,2019,Paraná,Feminino,Setembro,16
+2517,2019,Paraná,Feminino,Outubro,19
+2518,2019,Paraná,Feminino,Novembro,14
+2519,2019,Paraná,Feminino,Dezembro,21
+2520,2019,Santa Catarina,Feminino,Janeiro,29
+2521,2019,Santa Catarina,Feminino,Fevereiro,29
+2522,2019,Santa Catarina,Feminino,Março,16
+2523,2019,Santa Catarina,Feminino,Abril,14
+2524,2019,Santa Catarina,Feminino,Maio,11
+2525,2019,Santa Catarina,Feminino,Junho,11
+2526,2019,Santa Catarina,Feminino,Julho,11
+2527,2019,Santa Catarina,Feminino,Agosto,12
+2528,2019,Santa Catarina,Feminino,Setembro,12
+2529,2019,Santa Catarina,Feminino,Outubro,11
+2530,2019,Santa Catarina,Feminino,Novembro,21
+2531,2019,Santa Catarina,Feminino,Dezembro,18
+2532,2019,Rio Grande do Sul,Feminino,Janeiro,39
+2533,2019,Rio Grande do Sul,Feminino,Fevereiro,40
+2534,2019,Rio Grande do Sul,Feminino,Março,20
+2535,2019,Rio Grande do Sul,Feminino,Abril,14
+2536,2019,Rio Grande do Sul,Feminino,Maio,12
+2537,2019,Rio Grande do Sul,Feminino,Junho,11
+2538,2019,Rio Grande do Sul,Feminino,Julho,13
+2539,2019,Rio Grande do Sul,Feminino,Agosto,16
+2540,2019,Rio Grande do Sul,Feminino,Setembro,15
+2541,2019,Rio Grande do Sul,Feminino,Outubro,10
+2542,2019,Rio Grande do Sul,Feminino,Novembro,7
+2543,2019,Rio Grande do Sul,Feminino,Dezembro,14
+2544,2019,Mato Grosso do Sul,Feminino,Janeiro,9
+2545,2019,Mato Grosso do Sul,Feminino,Fevereiro,11
+2546,2019,Mato Grosso do Sul,Feminino,Março,4
+2547,2019,Mato Grosso do Sul,Feminino,Abril,14
+2548,2019,Mato Grosso do Sul,Feminino,Maio,7
+2549,2019,Mato Grosso do Sul,Feminino,Junho,12
+2550,2019,Mato Grosso do Sul,Feminino,Julho,6
+2551,2019,Mato Grosso do Sul,Feminino,Agosto,8
+2552,2019,Mato Grosso do Sul,Feminino,Setembro,5
+2553,2019,Mato Grosso do Sul,Feminino,Outubro,7
+2554,2019,Mato Grosso do Sul,Feminino,Novembro,7
+2555,2019,Mato Grosso do Sul,Feminino,Dezembro,11
+2556,2019,Mato Grosso,Feminino,Janeiro,5
+2557,2019,Mato Grosso,Feminino,Fevereiro,0
+2558,2019,Mato Grosso,Feminino,Março,2
+2559,2019,Mato Grosso,Feminino,Abril,2
+2560,2019,Mato Grosso,Feminino,Maio,3
+2561,2019,Mato Grosso,Feminino,Junho,9
+2562,2019,Mato Grosso,Feminino,Julho,1
+2563,2019,Mato Grosso,Feminino,Agosto,2
+2564,2019,Mato Grosso,Feminino,Setembro,0
+2565,2019,Mato Grosso,Feminino,Outubro,2
+2566,2019,Mato Grosso,Feminino,Novembro,3
+2567,2019,Mato Grosso,Feminino,Dezembro,1
+2568,2019,Goiás,Feminino,Janeiro,8
+2569,2019,Goiás,Feminino,Fevereiro,5
+2570,2019,Goiás,Feminino,Março,4
+2571,2019,Goiás,Feminino,Abril,4
+2572,2019,Goiás,Feminino,Maio,6
+2573,2019,Goiás,Feminino,Junho,4
+2574,2019,Goiás,Feminino,Julho,3
+2575,2019,Goiás,Feminino,Agosto,2
+2576,2019,Goiás,Feminino,Setembro,4
+2577,2019,Goiás,Feminino,Outubro,9
+2578,2019,Goiás,Feminino,Novembro,17
+2579,2019,Goiás,Feminino,Dezembro,11
+2580,2019,Distrito Federal,Feminino,Janeiro,26
+2581,2019,Distrito Federal,Feminino,Fevereiro,22
+2582,2019,Distrito Federal,Feminino,Março,16
+2583,2019,Distrito Federal,Feminino,Abril,11
+2584,2019,Distrito Federal,Feminino,Maio,9
+2585,2019,Distrito Federal,Feminino,Junho,7
+2586,2019,Distrito Federal,Feminino,Julho,10
+2587,2019,Distrito Federal,Feminino,Agosto,7
+2588,2019,Distrito Federal,Feminino,Setembro,9
+2589,2019,Distrito Federal,Feminino,Outubro,13
+2590,2019,Distrito Federal,Feminino,Novembro,11
+2591,2019,Distrito Federal,Feminino,Dezembro,7
+2592,2015,Rondônia,Feminino,Janeiro,2
+2593,2015,Rondônia,Feminino,Fevereiro,1
+2594,2015,Rondônia,Feminino,Março,0
+2595,2015,Rondônia,Feminino,Abril,1
+2596,2015,Rondônia,Feminino,Maio,0
+2597,2015,Rondônia,Feminino,Junho,3
+2598,2015,Rondônia,Feminino,Julho,0
+2599,2015,Rondônia,Feminino,Agosto,1
+2600,2015,Rondônia,Feminino,Setembro,1
+2601,2015,Rondônia,Feminino,Outubro,0
+2602,2015,Rondônia,Feminino,Novembro,1
+2603,2015,Rondônia,Feminino,Dezembro,1
+2604,2015,Acre,Feminino,Janeiro,0
+2605,2015,Acre,Feminino,Fevereiro,0
+2606,2015,Acre,Feminino,Março,0
+2607,2015,Acre,Feminino,Abril,0
+2608,2015,Acre,Feminino,Maio,0
+2609,2015,Acre,Feminino,Junho,0
+2610,2015,Acre,Feminino,Julho,1
+2611,2015,Acre,Feminino,Agosto,1
+2612,2015,Acre,Feminino,Setembro,1
+2613,2015,Acre,Feminino,Outubro,0
+2614,2015,Acre,Feminino,Novembro,1
+2615,2015,Acre,Feminino,Dezembro,2
+2616,2015,Amazonas,Feminino,Janeiro,2
+2617,2015,Amazonas,Feminino,Fevereiro,3
+2618,2015,Amazonas,Feminino,Março,2
+2619,2015,Amazonas,Feminino,Abril,2
+2620,2015,Amazonas,Feminino,Maio,3
+2621,2015,Amazonas,Feminino,Junho,3
+2622,2015,Amazonas,Feminino,Julho,28
+2623,2015,Amazonas,Feminino,Agosto,5
+2624,2015,Amazonas,Feminino,Setembro,3
+2625,2015,Amazonas,Feminino,Outubro,2
+2626,2015,Amazonas,Feminino,Novembro,1
+2627,2015,Amazonas,Feminino,Dezembro,0
+2628,2015,Roraima,Feminino,Janeiro,0
+2629,2015,Roraima,Feminino,Fevereiro,0
+2630,2015,Roraima,Feminino,Março,0
+2631,2015,Roraima,Feminino,Abril,1
+2632,2015,Roraima,Feminino,Maio,0
+2633,2015,Roraima,Feminino,Junho,1
+2634,2015,Roraima,Feminino,Julho,0
+2635,2015,Roraima,Feminino,Agosto,0
+2636,2015,Roraima,Feminino,Setembro,2
+2637,2015,Roraima,Feminino,Outubro,0
+2638,2015,Roraima,Feminino,Novembro,1
+2639,2015,Roraima,Feminino,Dezembro,1
+2640,2015,Pará,Feminino,Janeiro,0
+2641,2015,Pará,Feminino,Fevereiro,0
+2642,2015,Pará,Feminino,Março,2
+2643,2015,Pará,Feminino,Abril,1
+2644,2015,Pará,Feminino,Maio,1
+2645,2015,Pará,Feminino,Junho,4
+2646,2015,Pará,Feminino,Julho,1
+2647,2015,Pará,Feminino,Agosto,2
+2648,2015,Pará,Feminino,Setembro,3
+2649,2015,Pará,Feminino,Outubro,1
+2650,2015,Pará,Feminino,Novembro,2
+2651,2015,Pará,Feminino,Dezembro,15
+2652,2015,Amapá,Feminino,Janeiro,0
+2653,2015,Amapá,Feminino,Fevereiro,0
+2654,2015,Amapá,Feminino,Março,0
+2655,2015,Amapá,Feminino,Abril,0
+2656,2015,Amapá,Feminino,Maio,0
+2657,2015,Amapá,Feminino,Junho,0
+2658,2015,Amapá,Feminino,Julho,0
+2659,2015,Amapá,Feminino,Agosto,0
+2660,2015,Amapá,Feminino,Setembro,2
+2661,2015,Amapá,Feminino,Outubro,0
+2662,2015,Amapá,Feminino,Novembro,0
+2663,2015,Amapá,Feminino,Dezembro,1
+2664,2015,Tocantins,Feminino,Janeiro,0
+2665,2015,Tocantins,Feminino,Fevereiro,0
+2666,2015,Tocantins,Feminino,Março,0
+2667,2015,Tocantins,Feminino,Abril,0
+2668,2015,Tocantins,Feminino,Maio,0
+2669,2015,Tocantins,Feminino,Junho,0
+2670,2015,Tocantins,Feminino,Julho,0
+2671,2015,Tocantins,Feminino,Agosto,0
+2672,2015,Tocantins,Feminino,Setembro,0
+2673,2015,Tocantins,Feminino,Outubro,0
+2674,2015,Tocantins,Feminino,Novembro,1
+2675,2015,Tocantins,Feminino,Dezembro,1
+2676,2015,Maranhão,Feminino,Janeiro,0
+2677,2015,Maranhão,Feminino,Fevereiro,1
+2678,2015,Maranhão,Feminino,Março,2
+2679,2015,Maranhão,Feminino,Abril,0
+2680,2015,Maranhão,Feminino,Maio,1
+2681,2015,Maranhão,Feminino,Junho,1
+2682,2015,Maranhão,Feminino,Julho,5
+2683,2015,Maranhão,Feminino,Agosto,1
+2684,2015,Maranhão,Feminino,Setembro,5
+2685,2015,Maranhão,Feminino,Outubro,3
+2686,2015,Maranhão,Feminino,Novembro,0
+2687,2015,Maranhão,Feminino,Dezembro,5
+2688,2015,Piauí,Feminino,Janeiro,2
+2689,2015,Piauí,Feminino,Fevereiro,1
+2690,2015,Piauí,Feminino,Março,0
+2691,2015,Piauí,Feminino,Abril,0
+2692,2015,Piauí,Feminino,Maio,1
+2693,2015,Piauí,Feminino,Junho,1
+2694,2015,Piauí,Feminino,Julho,0
+2695,2015,Piauí,Feminino,Agosto,0
+2696,2015,Piauí,Feminino,Setembro,0
+2697,2015,Piauí,Feminino,Outubro,2
+2698,2015,Piauí,Feminino,Novembro,1
+2699,2015,Piauí,Feminino,Dezembro,1
+2700,2015,Ceará,Feminino,Janeiro,6
+2701,2015,Ceará,Feminino,Fevereiro,9
+2702,2015,Ceará,Feminino,Março,9
+2703,2015,Ceará,Feminino,Abril,17
+2704,2015,Ceará,Feminino,Maio,13
+2705,2015,Ceará,Feminino,Junho,30
+2706,2015,Ceará,Feminino,Julho,18
+2707,2015,Ceará,Feminino,Agosto,16
+2708,2015,Ceará,Feminino,Setembro,28
+2709,2015,Ceará,Feminino,Outubro,20
+2710,2015,Ceará,Feminino,Novembro,25
+2711,2015,Ceará,Feminino,Dezembro,32
+2712,2015,Rio Grande do Norte,Feminino,Janeiro,1
+2713,2015,Rio Grande do Norte,Feminino,Fevereiro,1
+2714,2015,Rio Grande do Norte,Feminino,Março,3
+2715,2015,Rio Grande do Norte,Feminino,Abril,2
+2716,2015,Rio Grande do Norte,Feminino,Maio,1
+2717,2015,Rio Grande do Norte,Feminino,Junho,1
+2718,2015,Rio Grande do Norte,Feminino,Julho,5
+2719,2015,Rio Grande do Norte,Feminino,Agosto,3
+2720,2015,Rio Grande do Norte,Feminino,Setembro,3
+2721,2015,Rio Grande do Norte,Feminino,Outubro,3
+2722,2015,Rio Grande do Norte,Feminino,Novembro,3
+2723,2015,Rio Grande do Norte,Feminino,Dezembro,5
+2724,2015,Paraíba,Feminino,Janeiro,2
+2725,2015,Paraíba,Feminino,Fevereiro,1
+2726,2015,Paraíba,Feminino,Março,5
+2727,2015,Paraíba,Feminino,Abril,2
+2728,2015,Paraíba,Feminino,Maio,1
+2729,2015,Paraíba,Feminino,Junho,3
+2730,2015,Paraíba,Feminino,Julho,1
+2731,2015,Paraíba,Feminino,Agosto,3
+2732,2015,Paraíba,Feminino,Setembro,4
+2733,2015,Paraíba,Feminino,Outubro,4
+2734,2015,Paraíba,Feminino,Novembro,1
+2735,2015,Paraíba,Feminino,Dezembro,4
+2736,2015,Pernambuco,Feminino,Janeiro,11
+2737,2015,Pernambuco,Feminino,Fevereiro,6
+2738,2015,Pernambuco,Feminino,Março,12
+2739,2015,Pernambuco,Feminino,Abril,8
+2740,2015,Pernambuco,Feminino,Maio,10
+2741,2015,Pernambuco,Feminino,Junho,7
+2742,2015,Pernambuco,Feminino,Julho,22
+2743,2015,Pernambuco,Feminino,Agosto,7
+2744,2015,Pernambuco,Feminino,Setembro,12
+2745,2015,Pernambuco,Feminino,Outubro,8
+2746,2015,Pernambuco,Feminino,Novembro,11
+2747,2015,Pernambuco,Feminino,Dezembro,15
+2748,2015,Alagoas,Feminino,Janeiro,1
+2749,2015,Alagoas,Feminino,Fevereiro,1
+2750,2015,Alagoas,Feminino,Março,3
+2751,2015,Alagoas,Feminino,Abril,1
+2752,2015,Alagoas,Feminino,Maio,3
+2753,2015,Alagoas,Feminino,Junho,1
+2754,2015,Alagoas,Feminino,Julho,1
+2755,2015,Alagoas,Feminino,Agosto,0
+2756,2015,Alagoas,Feminino,Setembro,2
+2757,2015,Alagoas,Feminino,Outubro,2
+2758,2015,Alagoas,Feminino,Novembro,3
+2759,2015,Alagoas,Feminino,Dezembro,11
+2760,2015,Sergipe,Feminino,Janeiro,0
+2761,2015,Sergipe,Feminino,Fevereiro,0
+2762,2015,Sergipe,Feminino,Março,2
+2763,2015,Sergipe,Feminino,Abril,5
+2764,2015,Sergipe,Feminino,Maio,2
+2765,2015,Sergipe,Feminino,Junho,2
+2766,2015,Sergipe,Feminino,Julho,0
+2767,2015,Sergipe,Feminino,Agosto,0
+2768,2015,Sergipe,Feminino,Setembro,2
+2769,2015,Sergipe,Feminino,Outubro,2
+2770,2015,Sergipe,Feminino,Novembro,0
+2771,2015,Sergipe,Feminino,Dezembro,1
+2772,2015,Bahia,Feminino,Janeiro,5
+2773,2015,Bahia,Feminino,Fevereiro,7
+2774,2015,Bahia,Feminino,Março,2
+2775,2015,Bahia,Feminino,Abril,6
+2776,2015,Bahia,Feminino,Maio,3
+2777,2015,Bahia,Feminino,Junho,4
+2778,2015,Bahia,Feminino,Julho,5
+2779,2015,Bahia,Feminino,Agosto,0
+2780,2015,Bahia,Feminino,Setembro,10
+2781,2015,Bahia,Feminino,Outubro,6
+2782,2015,Bahia,Feminino,Novembro,7
+2783,2015,Bahia,Feminino,Dezembro,6
+2784,2015,Minas Gerais,Feminino,Janeiro,23
+2785,2015,Minas Gerais,Feminino,Fevereiro,13
+2786,2015,Minas Gerais,Feminino,Março,10
+2787,2015,Minas Gerais,Feminino,Abril,10
+2788,2015,Minas Gerais,Feminino,Maio,16
+2789,2015,Minas Gerais,Feminino,Junho,10
+2790,2015,Minas Gerais,Feminino,Julho,18
+2791,2015,Minas Gerais,Feminino,Agosto,17
+2792,2015,Minas Gerais,Feminino,Setembro,20
+2793,2015,Minas Gerais,Feminino,Outubro,17
+2794,2015,Minas Gerais,Feminino,Novembro,21
+2795,2015,Minas Gerais,Feminino,Dezembro,26
+2796,2015,Espírito Santo,Feminino,Janeiro,2
+2797,2015,Espírito Santo,Feminino,Fevereiro,1
+2798,2015,Espírito Santo,Feminino,Março,2
+2799,2015,Espírito Santo,Feminino,Abril,6
+2800,2015,Espírito Santo,Feminino,Maio,3
+2801,2015,Espírito Santo,Feminino,Junho,2
+2802,2015,Espírito Santo,Feminino,Julho,6
+2803,2015,Espírito Santo,Feminino,Agosto,2
+2804,2015,Espírito Santo,Feminino,Setembro,1
+2805,2015,Espírito Santo,Feminino,Outubro,4
+2806,2015,Espírito Santo,Feminino,Novembro,4
+2807,2015,Espírito Santo,Feminino,Dezembro,4
+2808,2015,Rio de Janeiro,Feminino,Janeiro,13
+2809,2015,Rio de Janeiro,Feminino,Fevereiro,23
+2810,2015,Rio de Janeiro,Feminino,Março,23
+2811,2015,Rio de Janeiro,Feminino,Abril,15
+2812,2015,Rio de Janeiro,Feminino,Maio,18
+2813,2015,Rio de Janeiro,Feminino,Junho,26
+2814,2015,Rio de Janeiro,Feminino,Julho,26
+2815,2015,Rio de Janeiro,Feminino,Agosto,13
+2816,2015,Rio de Janeiro,Feminino,Setembro,26
+2817,2015,Rio de Janeiro,Feminino,Outubro,20
+2818,2015,Rio de Janeiro,Feminino,Novembro,27
+2819,2015,Rio de Janeiro,Feminino,Dezembro,107
+2820,2015,São Paulo,Feminino,Janeiro,87
+2821,2015,São Paulo,Feminino,Fevereiro,64
+2822,2015,São Paulo,Feminino,Março,95
+2823,2015,São Paulo,Feminino,Abril,72
+2824,2015,São Paulo,Feminino,Maio,76
+2825,2015,São Paulo,Feminino,Junho,86
+2826,2015,São Paulo,Feminino,Julho,100
+2827,2015,São Paulo,Feminino,Agosto,96
+2828,2015,São Paulo,Feminino,Setembro,109
+2829,2015,São Paulo,Feminino,Outubro,126
+2830,2015,São Paulo,Feminino,Novembro,111
+2831,2015,São Paulo,Feminino,Dezembro,128
+2832,2015,Paraná,Feminino,Janeiro,4
+2833,2015,Paraná,Feminino,Fevereiro,13
+2834,2015,Paraná,Feminino,Março,7
+2835,2015,Paraná,Feminino,Abril,12
+2836,2015,Paraná,Feminino,Maio,13
+2837,2015,Paraná,Feminino,Junho,7
+2838,2015,Paraná,Feminino,Julho,13
+2839,2015,Paraná,Feminino,Agosto,13
+2840,2015,Paraná,Feminino,Setembro,15
+2841,2015,Paraná,Feminino,Outubro,13
+2842,2015,Paraná,Feminino,Novembro,9
+2843,2015,Paraná,Feminino,Dezembro,18
+2844,2015,Santa Catarina,Feminino,Janeiro,6
+2845,2015,Santa Catarina,Feminino,Fevereiro,10
+2846,2015,Santa Catarina,Feminino,Março,3
+2847,2015,Santa Catarina,Feminino,Abril,8
+2848,2015,Santa Catarina,Feminino,Maio,17
+2849,2015,Santa Catarina,Feminino,Junho,9
+2850,2015,Santa Catarina,Feminino,Julho,12
+2851,2015,Santa Catarina,Feminino,Agosto,6
+2852,2015,Santa Catarina,Feminino,Setembro,30
+2853,2015,Santa Catarina,Feminino,Outubro,8
+2854,2015,Santa Catarina,Feminino,Novembro,11
+2855,2015,Santa Catarina,Feminino,Dezembro,19
+2856,2015,Rio Grande do Sul,Feminino,Janeiro,10
+2857,2015,Rio Grande do Sul,Feminino,Fevereiro,9
+2858,2015,Rio Grande do Sul,Feminino,Março,12
+2859,2015,Rio Grande do Sul,Feminino,Abril,9
+2860,2015,Rio Grande do Sul,Feminino,Maio,9
+2861,2015,Rio Grande do Sul,Feminino,Junho,7
+2862,2015,Rio Grande do Sul,Feminino,Julho,7
+2863,2015,Rio Grande do Sul,Feminino,Agosto,4
+2864,2015,Rio Grande do Sul,Feminino,Setembro,13
+2865,2015,Rio Grande do Sul,Feminino,Outubro,4
+2866,2015,Rio Grande do Sul,Feminino,Novembro,11
+2867,2015,Rio Grande do Sul,Feminino,Dezembro,8
+2868,2015,Mato Grosso do Sul,Feminino,Janeiro,4
+2869,2015,Mato Grosso do Sul,Feminino,Fevereiro,2
+2870,2015,Mato Grosso do Sul,Feminino,Março,1
+2871,2015,Mato Grosso do Sul,Feminino,Abril,4
+2872,2015,Mato Grosso do Sul,Feminino,Maio,3
+2873,2015,Mato Grosso do Sul,Feminino,Junho,2
+2874,2015,Mato Grosso do Sul,Feminino,Julho,4
+2875,2015,Mato Grosso do Sul,Feminino,Agosto,9
+2876,2015,Mato Grosso do Sul,Feminino,Setembro,4
+2877,2015,Mato Grosso do Sul,Feminino,Outubro,3
+2878,2015,Mato Grosso do Sul,Feminino,Novembro,3
+2879,2015,Mato Grosso do Sul,Feminino,Dezembro,6
+2880,2015,Mato Grosso,Feminino,Janeiro,0
+2881,2015,Mato Grosso,Feminino,Fevereiro,1
+2882,2015,Mato Grosso,Feminino,Março,0
+2883,2015,Mato Grosso,Feminino,Abril,2
+2884,2015,Mato Grosso,Feminino,Maio,0
+2885,2015,Mato Grosso,Feminino,Junho,1
+2886,2015,Mato Grosso,Feminino,Julho,1
+2887,2015,Mato Grosso,Feminino,Agosto,1
+2888,2015,Mato Grosso,Feminino,Setembro,3
+2889,2015,Mato Grosso,Feminino,Outubro,1
+2890,2015,Mato Grosso,Feminino,Novembro,1
+2891,2015,Mato Grosso,Feminino,Dezembro,0
+2892,2015,Goiás,Feminino,Janeiro,7
+2893,2015,Goiás,Feminino,Fevereiro,7
+2894,2015,Goiás,Feminino,Março,5
+2895,2015,Goiás,Feminino,Abril,3
+2896,2015,Goiás,Feminino,Maio,7
+2897,2015,Goiás,Feminino,Junho,6
+2898,2015,Goiás,Feminino,Julho,7
+2899,2015,Goiás,Feminino,Agosto,8
+2900,2015,Goiás,Feminino,Setembro,9
+2901,2015,Goiás,Feminino,Outubro,12
+2902,2015,Goiás,Feminino,Novembro,8
+2903,2015,Goiás,Feminino,Dezembro,16
+2904,2015,Distrito Federal,Feminino,Janeiro,2
+2905,2015,Distrito Federal,Feminino,Fevereiro,2
+2906,2015,Distrito Federal,Feminino,Março,5
+2907,2015,Distrito Federal,Feminino,Abril,7
+2908,2015,Distrito Federal,Feminino,Maio,4
+2909,2015,Distrito Federal,Feminino,Junho,16
+2910,2015,Distrito Federal,Feminino,Julho,5
+2911,2015,Distrito Federal,Feminino,Agosto,2
+2912,2015,Distrito Federal,Feminino,Setembro,3
+2913,2015,Distrito Federal,Feminino,Outubro,8
+2914,2015,Distrito Federal,Feminino,Novembro,5
+2915,2015,Distrito Federal,Feminino,Dezembro,5
+2916,2016,Rondônia,Feminino,Janeiro,1
+2917,2016,Rondônia,Feminino,Fevereiro,1
+2918,2016,Rondônia,Feminino,Março,0
+2919,2016,Rondônia,Feminino,Abril,1
+2920,2016,Rondônia,Feminino,Maio,0
+2921,2016,Rondônia,Feminino,Junho,1
+2922,2016,Rondônia,Feminino,Julho,0
+2923,2016,Rondônia,Feminino,Agosto,2
+2924,2016,Rondônia,Feminino,Setembro,1
+2925,2016,Rondônia,Feminino,Outubro,4
+2926,2016,Rondônia,Feminino,Novembro,3
+2927,2016,Rondônia,Feminino,Dezembro,1
+2928,2016,Acre,Feminino,Janeiro,0
+2929,2016,Acre,Feminino,Fevereiro,1
+2930,2016,Acre,Feminino,Março,1
+2931,2016,Acre,Feminino,Abril,0
+2932,2016,Acre,Feminino,Maio,0
+2933,2016,Acre,Feminino,Junho,0
+2934,2016,Acre,Feminino,Julho,0
+2935,2016,Acre,Feminino,Agosto,3
+2936,2016,Acre,Feminino,Setembro,0
+2937,2016,Acre,Feminino,Outubro,0
+2938,2016,Acre,Feminino,Novembro,0
+2939,2016,Acre,Feminino,Dezembro,0
+2940,2016,Amazonas,Feminino,Janeiro,1
+2941,2016,Amazonas,Feminino,Fevereiro,4
+2942,2016,Amazonas,Feminino,Março,10
+2943,2016,Amazonas,Feminino,Abril,4
+2944,2016,Amazonas,Feminino,Maio,3
+2945,2016,Amazonas,Feminino,Junho,1
+2946,2016,Amazonas,Feminino,Julho,1
+2947,2016,Amazonas,Feminino,Agosto,1
+2948,2016,Amazonas,Feminino,Setembro,2
+2949,2016,Amazonas,Feminino,Outubro,4
+2950,2016,Amazonas,Feminino,Novembro,3
+2951,2016,Amazonas,Feminino,Dezembro,5
+2952,2016,Roraima,Feminino,Janeiro,0
+2953,2016,Roraima,Feminino,Fevereiro,0
+2954,2016,Roraima,Feminino,Março,0
+2955,2016,Roraima,Feminino,Abril,0
+2956,2016,Roraima,Feminino,Maio,0
+2957,2016,Roraima,Feminino,Junho,0
+2958,2016,Roraima,Feminino,Julho,1
+2959,2016,Roraima,Feminino,Agosto,0
+2960,2016,Roraima,Feminino,Setembro,0
+2961,2016,Roraima,Feminino,Outubro,0
+2962,2016,Roraima,Feminino,Novembro,1
+2963,2016,Roraima,Feminino,Dezembro,0
+2964,2016,Pará,Feminino,Janeiro,0
+2965,2016,Pará,Feminino,Fevereiro,2
+2966,2016,Pará,Feminino,Março,2
+2967,2016,Pará,Feminino,Abril,2
+2968,2016,Pará,Feminino,Maio,4
+2969,2016,Pará,Feminino,Junho,9
+2970,2016,Pará,Feminino,Julho,3
+2971,2016,Pará,Feminino,Agosto,0
+2972,2016,Pará,Feminino,Setembro,9
+2973,2016,Pará,Feminino,Outubro,3
+2974,2016,Pará,Feminino,Novembro,3
+2975,2016,Pará,Feminino,Dezembro,4
+2976,2016,Amapá,Feminino,Janeiro,1
+2977,2016,Amapá,Feminino,Fevereiro,0
+2978,2016,Amapá,Feminino,Março,0
+2979,2016,Amapá,Feminino,Abril,0
+2980,2016,Amapá,Feminino,Maio,0
+2981,2016,Amapá,Feminino,Junho,1
+2982,2016,Amapá,Feminino,Julho,0
+2983,2016,Amapá,Feminino,Agosto,0
+2984,2016,Amapá,Feminino,Setembro,1
+2985,2016,Amapá,Feminino,Outubro,0
+2986,2016,Amapá,Feminino,Novembro,1
+2987,2016,Amapá,Feminino,Dezembro,1
+2988,2016,Tocantins,Feminino,Janeiro,0
+2989,2016,Tocantins,Feminino,Fevereiro,1
+2990,2016,Tocantins,Feminino,Março,0
+2991,2016,Tocantins,Feminino,Abril,1
+2992,2016,Tocantins,Feminino,Maio,1
+2993,2016,Tocantins,Feminino,Junho,0
+2994,2016,Tocantins,Feminino,Julho,1
+2995,2016,Tocantins,Feminino,Agosto,0
+2996,2016,Tocantins,Feminino,Setembro,1
+2997,2016,Tocantins,Feminino,Outubro,0
+2998,2016,Tocantins,Feminino,Novembro,1
+2999,2016,Tocantins,Feminino,Dezembro,1
+3000,2016,Maranhão,Feminino,Janeiro,1
+3001,2016,Maranhão,Feminino,Fevereiro,0
+3002,2016,Maranhão,Feminino,Março,1
+3003,2016,Maranhão,Feminino,Abril,0
+3004,2016,Maranhão,Feminino,Maio,0
+3005,2016,Maranhão,Feminino,Junho,2
+3006,2016,Maranhão,Feminino,Julho,0
+3007,2016,Maranhão,Feminino,Agosto,5
+3008,2016,Maranhão,Feminino,Setembro,1
+3009,2016,Maranhão,Feminino,Outubro,0
+3010,2016,Maranhão,Feminino,Novembro,1
+3011,2016,Maranhão,Feminino,Dezembro,4
+3012,2016,Piauí,Feminino,Janeiro,0
+3013,2016,Piauí,Feminino,Fevereiro,0
+3014,2016,Piauí,Feminino,Março,1
+3015,2016,Piauí,Feminino,Abril,4
+3016,2016,Piauí,Feminino,Maio,1
+3017,2016,Piauí,Feminino,Junho,3
+3018,2016,Piauí,Feminino,Julho,1
+3019,2016,Piauí,Feminino,Agosto,0
+3020,2016,Piauí,Feminino,Setembro,1
+3021,2016,Piauí,Feminino,Outubro,3
+3022,2016,Piauí,Feminino,Novembro,0
+3023,2016,Piauí,Feminino,Dezembro,1
+3024,2016,Ceará,Feminino,Janeiro,10
+3025,2016,Ceará,Feminino,Fevereiro,8
+3026,2016,Ceará,Feminino,Março,8
+3027,2016,Ceará,Feminino,Abril,9
+3028,2016,Ceará,Feminino,Maio,12
+3029,2016,Ceará,Feminino,Junho,29
+3030,2016,Ceará,Feminino,Julho,14
+3031,2016,Ceará,Feminino,Agosto,5
+3032,2016,Ceará,Feminino,Setembro,9
+3033,2016,Ceará,Feminino,Outubro,8
+3034,2016,Ceará,Feminino,Novembro,9
+3035,2016,Ceará,Feminino,Dezembro,17
+3036,2016,Rio Grande do Norte,Feminino,Janeiro,8
+3037,2016,Rio Grande do Norte,Feminino,Fevereiro,2
+3038,2016,Rio Grande do Norte,Feminino,Março,2
+3039,2016,Rio Grande do Norte,Feminino,Abril,1
+3040,2016,Rio Grande do Norte,Feminino,Maio,2
+3041,2016,Rio Grande do Norte,Feminino,Junho,1
+3042,2016,Rio Grande do Norte,Feminino,Julho,7
+3043,2016,Rio Grande do Norte,Feminino,Agosto,3
+3044,2016,Rio Grande do Norte,Feminino,Setembro,4
+3045,2016,Rio Grande do Norte,Feminino,Outubro,0
+3046,2016,Rio Grande do Norte,Feminino,Novembro,0
+3047,2016,Rio Grande do Norte,Feminino,Dezembro,2
+3048,2016,Paraíba,Feminino,Janeiro,4
+3049,2016,Paraíba,Feminino,Fevereiro,2
+3050,2016,Paraíba,Feminino,Março,1
+3051,2016,Paraíba,Feminino,Abril,1
+3052,2016,Paraíba,Feminino,Maio,0
+3053,2016,Paraíba,Feminino,Junho,2
+3054,2016,Paraíba,Feminino,Julho,5
+3055,2016,Paraíba,Feminino,Agosto,5
+3056,2016,Paraíba,Feminino,Setembro,2
+3057,2016,Paraíba,Feminino,Outubro,3
+3058,2016,Paraíba,Feminino,Novembro,2
+3059,2016,Paraíba,Feminino,Dezembro,3
+3060,2016,Pernambuco,Feminino,Janeiro,9
+3061,2016,Pernambuco,Feminino,Fevereiro,4
+3062,2016,Pernambuco,Feminino,Março,14
+3063,2016,Pernambuco,Feminino,Abril,7
+3064,2016,Pernambuco,Feminino,Maio,8
+3065,2016,Pernambuco,Feminino,Junho,4
+3066,2016,Pernambuco,Feminino,Julho,11
+3067,2016,Pernambuco,Feminino,Agosto,9
+3068,2016,Pernambuco,Feminino,Setembro,10
+3069,2016,Pernambuco,Feminino,Outubro,11
+3070,2016,Pernambuco,Feminino,Novembro,16
+3071,2016,Pernambuco,Feminino,Dezembro,16
+3072,2016,Alagoas,Feminino,Janeiro,1
+3073,2016,Alagoas,Feminino,Fevereiro,2
+3074,2016,Alagoas,Feminino,Março,1
+3075,2016,Alagoas,Feminino,Abril,3
+3076,2016,Alagoas,Feminino,Maio,2
+3077,2016,Alagoas,Feminino,Junho,3
+3078,2016,Alagoas,Feminino,Julho,2
+3079,2016,Alagoas,Feminino,Agosto,1
+3080,2016,Alagoas,Feminino,Setembro,1
+3081,2016,Alagoas,Feminino,Outubro,2
+3082,2016,Alagoas,Feminino,Novembro,0
+3083,2016,Alagoas,Feminino,Dezembro,2
+3084,2016,Sergipe,Feminino,Janeiro,1
+3085,2016,Sergipe,Feminino,Fevereiro,0
+3086,2016,Sergipe,Feminino,Março,1
+3087,2016,Sergipe,Feminino,Abril,0
+3088,2016,Sergipe,Feminino,Maio,1
+3089,2016,Sergipe,Feminino,Junho,0
+3090,2016,Sergipe,Feminino,Julho,1
+3091,2016,Sergipe,Feminino,Agosto,1
+3092,2016,Sergipe,Feminino,Setembro,2
+3093,2016,Sergipe,Feminino,Outubro,0
+3094,2016,Sergipe,Feminino,Novembro,2
+3095,2016,Sergipe,Feminino,Dezembro,1
+3096,2016,Bahia,Feminino,Janeiro,3
+3097,2016,Bahia,Feminino,Fevereiro,4
+3098,2016,Bahia,Feminino,Março,8
+3099,2016,Bahia,Feminino,Abril,6
+3100,2016,Bahia,Feminino,Maio,7
+3101,2016,Bahia,Feminino,Junho,6
+3102,2016,Bahia,Feminino,Julho,9
+3103,2016,Bahia,Feminino,Agosto,4
+3104,2016,Bahia,Feminino,Setembro,6
+3105,2016,Bahia,Feminino,Outubro,11
+3106,2016,Bahia,Feminino,Novembro,11
+3107,2016,Bahia,Feminino,Dezembro,13
+3108,2016,Minas Gerais,Feminino,Janeiro,14
+3109,2016,Minas Gerais,Feminino,Fevereiro,14
+3110,2016,Minas Gerais,Feminino,Março,8
+3111,2016,Minas Gerais,Feminino,Abril,18
+3112,2016,Minas Gerais,Feminino,Maio,16
+3113,2016,Minas Gerais,Feminino,Junho,9
+3114,2016,Minas Gerais,Feminino,Julho,17
+3115,2016,Minas Gerais,Feminino,Agosto,19
+3116,2016,Minas Gerais,Feminino,Setembro,31
+3117,2016,Minas Gerais,Feminino,Outubro,14
+3118,2016,Minas Gerais,Feminino,Novembro,21
+3119,2016,Minas Gerais,Feminino,Dezembro,15
+3120,2016,Espírito Santo,Feminino,Janeiro,2
+3121,2016,Espírito Santo,Feminino,Fevereiro,1
+3122,2016,Espírito Santo,Feminino,Março,1
+3123,2016,Espírito Santo,Feminino,Abril,1
+3124,2016,Espírito Santo,Feminino,Maio,8
+3125,2016,Espírito Santo,Feminino,Junho,0
+3126,2016,Espírito Santo,Feminino,Julho,1
+3127,2016,Espírito Santo,Feminino,Agosto,1
+3128,2016,Espírito Santo,Feminino,Setembro,5
+3129,2016,Espírito Santo,Feminino,Outubro,1
+3130,2016,Espírito Santo,Feminino,Novembro,5
+3131,2016,Espírito Santo,Feminino,Dezembro,4
+3132,2016,Rio de Janeiro,Feminino,Janeiro,25
+3133,2016,Rio de Janeiro,Feminino,Fevereiro,21
+3134,2016,Rio de Janeiro,Feminino,Março,24
+3135,2016,Rio de Janeiro,Feminino,Abril,21
+3136,2016,Rio de Janeiro,Feminino,Maio,32
+3137,2016,Rio de Janeiro,Feminino,Junho,20
+3138,2016,Rio de Janeiro,Feminino,Julho,27
+3139,2016,Rio de Janeiro,Feminino,Agosto,18
+3140,2016,Rio de Janeiro,Feminino,Setembro,34
+3141,2016,Rio de Janeiro,Feminino,Outubro,27
+3142,2016,Rio de Janeiro,Feminino,Novembro,27
+3143,2016,Rio de Janeiro,Feminino,Dezembro,27
+3144,2016,São Paulo,Feminino,Janeiro,79
+3145,2016,São Paulo,Feminino,Fevereiro,92
+3146,2016,São Paulo,Feminino,Março,71
+3147,2016,São Paulo,Feminino,Abril,102
+3148,2016,São Paulo,Feminino,Maio,92
+3149,2016,São Paulo,Feminino,Junho,93
+3150,2016,São Paulo,Feminino,Julho,108
+3151,2016,São Paulo,Feminino,Agosto,85
+3152,2016,São Paulo,Feminino,Setembro,120
+3153,2016,São Paulo,Feminino,Outubro,118
+3154,2016,São Paulo,Feminino,Novembro,117
+3155,2016,São Paulo,Feminino,Dezembro,125
+3156,2016,Paraná,Feminino,Janeiro,8
+3157,2016,Paraná,Feminino,Fevereiro,4
+3158,2016,Paraná,Feminino,Março,6
+3159,2016,Paraná,Feminino,Abril,16
+3160,2016,Paraná,Feminino,Maio,14
+3161,2016,Paraná,Feminino,Junho,8
+3162,2016,Paraná,Feminino,Julho,5
+3163,2016,Paraná,Feminino,Agosto,11
+3164,2016,Paraná,Feminino,Setembro,3
+3165,2016,Paraná,Feminino,Outubro,9
+3166,2016,Paraná,Feminino,Novembro,9
+3167,2016,Paraná,Feminino,Dezembro,19
+3168,2016,Santa Catarina,Feminino,Janeiro,7
+3169,2016,Santa Catarina,Feminino,Fevereiro,7
+3170,2016,Santa Catarina,Feminino,Março,12
+3171,2016,Santa Catarina,Feminino,Abril,11
+3172,2016,Santa Catarina,Feminino,Maio,10
+3173,2016,Santa Catarina,Feminino,Junho,18
+3174,2016,Santa Catarina,Feminino,Julho,10
+3175,2016,Santa Catarina,Feminino,Agosto,14
+3176,2016,Santa Catarina,Feminino,Setembro,9
+3177,2016,Santa Catarina,Feminino,Outubro,14
+3178,2016,Santa Catarina,Feminino,Novembro,14
+3179,2016,Santa Catarina,Feminino,Dezembro,11
+3180,2016,Rio Grande do Sul,Feminino,Janeiro,8
+3181,2016,Rio Grande do Sul,Feminino,Fevereiro,10
+3182,2016,Rio Grande do Sul,Feminino,Março,15
+3183,2016,Rio Grande do Sul,Feminino,Abril,7
+3184,2016,Rio Grande do Sul,Feminino,Maio,7
+3185,2016,Rio Grande do Sul,Feminino,Junho,9
+3186,2016,Rio Grande do Sul,Feminino,Julho,11
+3187,2016,Rio Grande do Sul,Feminino,Agosto,7
+3188,2016,Rio Grande do Sul,Feminino,Setembro,14
+3189,2016,Rio Grande do Sul,Feminino,Outubro,12
+3190,2016,Rio Grande do Sul,Feminino,Novembro,8
+3191,2016,Rio Grande do Sul,Feminino,Dezembro,23
+3192,2016,Mato Grosso do Sul,Feminino,Janeiro,6
+3193,2016,Mato Grosso do Sul,Feminino,Fevereiro,6
+3194,2016,Mato Grosso do Sul,Feminino,Março,4
+3195,2016,Mato Grosso do Sul,Feminino,Abril,6
+3196,2016,Mato Grosso do Sul,Feminino,Maio,7
+3197,2016,Mato Grosso do Sul,Feminino,Junho,5
+3198,2016,Mato Grosso do Sul,Feminino,Julho,7
+3199,2016,Mato Grosso do Sul,Feminino,Agosto,6
+3200,2016,Mato Grosso do Sul,Feminino,Setembro,7
+3201,2016,Mato Grosso do Sul,Feminino,Outubro,4
+3202,2016,Mato Grosso do Sul,Feminino,Novembro,5
+3203,2016,Mato Grosso do Sul,Feminino,Dezembro,11
+3204,2016,Mato Grosso,Feminino,Janeiro,0
+3205,2016,Mato Grosso,Feminino,Fevereiro,3
+3206,2016,Mato Grosso,Feminino,Março,0
+3207,2016,Mato Grosso,Feminino,Abril,1
+3208,2016,Mato Grosso,Feminino,Maio,2
+3209,2016,Mato Grosso,Feminino,Junho,1
+3210,2016,Mato Grosso,Feminino,Julho,0
+3211,2016,Mato Grosso,Feminino,Agosto,0
+3212,2016,Mato Grosso,Feminino,Setembro,1
+3213,2016,Mato Grosso,Feminino,Outubro,1
+3214,2016,Mato Grosso,Feminino,Novembro,1
+3215,2016,Mato Grosso,Feminino,Dezembro,3
+3216,2016,Goiás,Feminino,Janeiro,11
+3217,2016,Goiás,Feminino,Fevereiro,2
+3218,2016,Goiás,Feminino,Março,8
+3219,2016,Goiás,Feminino,Abril,8
+3220,2016,Goiás,Feminino,Maio,11
+3221,2016,Goiás,Feminino,Junho,5
+3222,2016,Goiás,Feminino,Julho,6
+3223,2016,Goiás,Feminino,Agosto,10
+3224,2016,Goiás,Feminino,Setembro,9
+3225,2016,Goiás,Feminino,Outubro,3
+3226,2016,Goiás,Feminino,Novembro,10
+3227,2016,Goiás,Feminino,Dezembro,8
+3228,2016,Distrito Federal,Feminino,Janeiro,8
+3229,2016,Distrito Federal,Feminino,Fevereiro,1
+3230,2016,Distrito Federal,Feminino,Março,6
+3231,2016,Distrito Federal,Feminino,Abril,2
+3232,2016,Distrito Federal,Feminino,Maio,5
+3233,2016,Distrito Federal,Feminino,Junho,2
+3234,2016,Distrito Federal,Feminino,Julho,6
+3235,2016,Distrito Federal,Feminino,Agosto,7
+3236,2016,Distrito Federal,Feminino,Setembro,11
+3237,2016,Distrito Federal,Feminino,Outubro,9
+3238,2016,Distrito Federal,Feminino,Novembro,9
+3239,2016,Distrito Federal,Feminino,Dezembro,7
+3240,2017,Rondônia,Feminino,Janeiro,0
+3241,2017,Rondônia,Feminino,Fevereiro,1
+3242,2017,Rondônia,Feminino,Março,1
+3243,2017,Rondônia,Feminino,Abril,0
+3244,2017,Rondônia,Feminino,Maio,2
+3245,2017,Rondônia,Feminino,Junho,1
+3246,2017,Rondônia,Feminino,Julho,0
+3247,2017,Rondônia,Feminino,Agosto,0
+3248,2017,Rondônia,Feminino,Setembro,1
+3249,2017,Rondônia,Feminino,Outubro,0
+3250,2017,Rondônia,Feminino,Novembro,2
+3251,2017,Rondônia,Feminino,Dezembro,2
+3252,2017,Acre,Feminino,Janeiro,1
+3253,2017,Acre,Feminino,Fevereiro,0
+3254,2017,Acre,Feminino,Março,0
+3255,2017,Acre,Feminino,Abril,1
+3256,2017,Acre,Feminino,Maio,1
+3257,2017,Acre,Feminino,Junho,1
+3258,2017,Acre,Feminino,Julho,1
+3259,2017,Acre,Feminino,Agosto,0
+3260,2017,Acre,Feminino,Setembro,0
+3261,2017,Acre,Feminino,Outubro,0
+3262,2017,Acre,Feminino,Novembro,1
+3263,2017,Acre,Feminino,Dezembro,10
+3264,2017,Amazonas,Feminino,Janeiro,2
+3265,2017,Amazonas,Feminino,Fevereiro,0
+3266,2017,Amazonas,Feminino,Março,0
+3267,2017,Amazonas,Feminino,Abril,0
+3268,2017,Amazonas,Feminino,Maio,1
+3269,2017,Amazonas,Feminino,Junho,3
+3270,2017,Amazonas,Feminino,Julho,1
+3271,2017,Amazonas,Feminino,Agosto,0
+3272,2017,Amazonas,Feminino,Setembro,5
+3273,2017,Amazonas,Feminino,Outubro,2
+3274,2017,Amazonas,Feminino,Novembro,1
+3275,2017,Amazonas,Feminino,Dezembro,7
+3276,2017,Roraima,Feminino,Janeiro,0
+3277,2017,Roraima,Feminino,Fevereiro,1
+3278,2017,Roraima,Feminino,Março,2
+3279,2017,Roraima,Feminino,Abril,0
+3280,2017,Roraima,Feminino,Maio,1
+3281,2017,Roraima,Feminino,Junho,0
+3282,2017,Roraima,Feminino,Julho,0
+3283,2017,Roraima,Feminino,Agosto,0
+3284,2017,Roraima,Feminino,Setembro,0
+3285,2017,Roraima,Feminino,Outubro,0
+3286,2017,Roraima,Feminino,Novembro,1
+3287,2017,Roraima,Feminino,Dezembro,0
+3288,2017,Pará,Feminino,Janeiro,3
+3289,2017,Pará,Feminino,Fevereiro,4
+3290,2017,Pará,Feminino,Março,5
+3291,2017,Pará,Feminino,Abril,4
+3292,2017,Pará,Feminino,Maio,5
+3293,2017,Pará,Feminino,Junho,4
+3294,2017,Pará,Feminino,Julho,3
+3295,2017,Pará,Feminino,Agosto,5
+3296,2017,Pará,Feminino,Setembro,3
+3297,2017,Pará,Feminino,Outubro,2
+3298,2017,Pará,Feminino,Novembro,21
+3299,2017,Pará,Feminino,Dezembro,3
+3300,2017,Amapá,Feminino,Janeiro,1
+3301,2017,Amapá,Feminino,Fevereiro,1
+3302,2017,Amapá,Feminino,Março,0
+3303,2017,Amapá,Feminino,Abril,0
+3304,2017,Amapá,Feminino,Maio,0
+3305,2017,Amapá,Feminino,Junho,0
+3306,2017,Amapá,Feminino,Julho,0
+3307,2017,Amapá,Feminino,Agosto,1
+3308,2017,Amapá,Feminino,Setembro,1
+3309,2017,Amapá,Feminino,Outubro,1
+3310,2017,Amapá,Feminino,Novembro,1
+3311,2017,Amapá,Feminino,Dezembro,1
+3312,2017,Tocantins,Feminino,Janeiro,2
+3313,2017,Tocantins,Feminino,Fevereiro,0
+3314,2017,Tocantins,Feminino,Março,0
+3315,2017,Tocantins,Feminino,Abril,0
+3316,2017,Tocantins,Feminino,Maio,1
+3317,2017,Tocantins,Feminino,Junho,0
+3318,2017,Tocantins,Feminino,Julho,2
+3319,2017,Tocantins,Feminino,Agosto,0
+3320,2017,Tocantins,Feminino,Setembro,0
+3321,2017,Tocantins,Feminino,Outubro,0
+3322,2017,Tocantins,Feminino,Novembro,2
+3323,2017,Tocantins,Feminino,Dezembro,0
+3324,2017,Maranhão,Feminino,Janeiro,0
+3325,2017,Maranhão,Feminino,Fevereiro,0
+3326,2017,Maranhão,Feminino,Março,0
+3327,2017,Maranhão,Feminino,Abril,0
+3328,2017,Maranhão,Feminino,Maio,0
+3329,2017,Maranhão,Feminino,Junho,0
+3330,2017,Maranhão,Feminino,Julho,2
+3331,2017,Maranhão,Feminino,Agosto,0
+3332,2017,Maranhão,Feminino,Setembro,0
+3333,2017,Maranhão,Feminino,Outubro,0
+3334,2017,Maranhão,Feminino,Novembro,1
+3335,2017,Maranhão,Feminino,Dezembro,1
+3336,2017,Piauí,Feminino,Janeiro,2
+3337,2017,Piauí,Feminino,Fevereiro,5
+3338,2017,Piauí,Feminino,Março,2
+3339,2017,Piauí,Feminino,Abril,0
+3340,2017,Piauí,Feminino,Maio,3
+3341,2017,Piauí,Feminino,Junho,1
+3342,2017,Piauí,Feminino,Julho,2
+3343,2017,Piauí,Feminino,Agosto,1
+3344,2017,Piauí,Feminino,Setembro,1
+3345,2017,Piauí,Feminino,Outubro,0
+3346,2017,Piauí,Feminino,Novembro,1
+3347,2017,Piauí,Feminino,Dezembro,0
+3348,2017,Ceará,Feminino,Janeiro,8
+3349,2017,Ceará,Feminino,Fevereiro,5
+3350,2017,Ceará,Feminino,Março,8
+3351,2017,Ceará,Feminino,Abril,8
+3352,2017,Ceará,Feminino,Maio,9
+3353,2017,Ceará,Feminino,Junho,14
+3354,2017,Ceará,Feminino,Julho,11
+3355,2017,Ceará,Feminino,Agosto,5
+3356,2017,Ceará,Feminino,Setembro,14
+3357,2017,Ceará,Feminino,Outubro,17
+3358,2017,Ceará,Feminino,Novembro,11
+3359,2017,Ceará,Feminino,Dezembro,15
+3360,2017,Rio Grande do Norte,Feminino,Janeiro,0
+3361,2017,Rio Grande do Norte,Feminino,Fevereiro,4
+3362,2017,Rio Grande do Norte,Feminino,Março,7
+3363,2017,Rio Grande do Norte,Feminino,Abril,6
+3364,2017,Rio Grande do Norte,Feminino,Maio,6
+3365,2017,Rio Grande do Norte,Feminino,Junho,3
+3366,2017,Rio Grande do Norte,Feminino,Julho,5
+3367,2017,Rio Grande do Norte,Feminino,Agosto,2
+3368,2017,Rio Grande do Norte,Feminino,Setembro,3
+3369,2017,Rio Grande do Norte,Feminino,Outubro,4
+3370,2017,Rio Grande do Norte,Feminino,Novembro,4
+3371,2017,Rio Grande do Norte,Feminino,Dezembro,4
+3372,2017,Paraíba,Feminino,Janeiro,3
+3373,2017,Paraíba,Feminino,Fevereiro,3
+3374,2017,Paraíba,Feminino,Março,3
+3375,2017,Paraíba,Feminino,Abril,3
+3376,2017,Paraíba,Feminino,Maio,7
+3377,2017,Paraíba,Feminino,Junho,5
+3378,2017,Paraíba,Feminino,Julho,3
+3379,2017,Paraíba,Feminino,Agosto,2
+3380,2017,Paraíba,Feminino,Setembro,2
+3381,2017,Paraíba,Feminino,Outubro,2
+3382,2017,Paraíba,Feminino,Novembro,2
+3383,2017,Paraíba,Feminino,Dezembro,5
+3384,2017,Pernambuco,Feminino,Janeiro,5
+3385,2017,Pernambuco,Feminino,Fevereiro,10
+3386,2017,Pernambuco,Feminino,Março,13
+3387,2017,Pernambuco,Feminino,Abril,6
+3388,2017,Pernambuco,Feminino,Maio,8
+3389,2017,Pernambuco,Feminino,Junho,3
+3390,2017,Pernambuco,Feminino,Julho,8
+3391,2017,Pernambuco,Feminino,Agosto,9
+3392,2017,Pernambuco,Feminino,Setembro,9
+3393,2017,Pernambuco,Feminino,Outubro,6
+3394,2017,Pernambuco,Feminino,Novembro,8
+3395,2017,Pernambuco,Feminino,Dezembro,20
+3396,2017,Alagoas,Feminino,Janeiro,1
+3397,2017,Alagoas,Feminino,Fevereiro,4
+3398,2017,Alagoas,Feminino,Março,1
+3399,2017,Alagoas,Feminino,Abril,0
+3400,2017,Alagoas,Feminino,Maio,1
+3401,2017,Alagoas,Feminino,Junho,1
+3402,2017,Alagoas,Feminino,Julho,3
+3403,2017,Alagoas,Feminino,Agosto,4
+3404,2017,Alagoas,Feminino,Setembro,2
+3405,2017,Alagoas,Feminino,Outubro,2
+3406,2017,Alagoas,Feminino,Novembro,4
+3407,2017,Alagoas,Feminino,Dezembro,11
+3408,2017,Sergipe,Feminino,Janeiro,2
+3409,2017,Sergipe,Feminino,Fevereiro,0
+3410,2017,Sergipe,Feminino,Março,0
+3411,2017,Sergipe,Feminino,Abril,3
+3412,2017,Sergipe,Feminino,Maio,1
+3413,2017,Sergipe,Feminino,Junho,0
+3414,2017,Sergipe,Feminino,Julho,0
+3415,2017,Sergipe,Feminino,Agosto,1
+3416,2017,Sergipe,Feminino,Setembro,0
+3417,2017,Sergipe,Feminino,Outubro,1
+3418,2017,Sergipe,Feminino,Novembro,0
+3419,2017,Sergipe,Feminino,Dezembro,3
+3420,2017,Bahia,Feminino,Janeiro,2
+3421,2017,Bahia,Feminino,Fevereiro,2
+3422,2017,Bahia,Feminino,Março,4
+3423,2017,Bahia,Feminino,Abril,4
+3424,2017,Bahia,Feminino,Maio,6
+3425,2017,Bahia,Feminino,Junho,6
+3426,2017,Bahia,Feminino,Julho,9
+3427,2017,Bahia,Feminino,Agosto,9
+3428,2017,Bahia,Feminino,Setembro,10
+3429,2017,Bahia,Feminino,Outubro,14
+3430,2017,Bahia,Feminino,Novembro,7
+3431,2017,Bahia,Feminino,Dezembro,8
+3432,2017,Minas Gerais,Feminino,Janeiro,25
+3433,2017,Minas Gerais,Feminino,Fevereiro,15
+3434,2017,Minas Gerais,Feminino,Março,20
+3435,2017,Minas Gerais,Feminino,Abril,15
+3436,2017,Minas Gerais,Feminino,Maio,26
+3437,2017,Minas Gerais,Feminino,Junho,21
+3438,2017,Minas Gerais,Feminino,Julho,19
+3439,2017,Minas Gerais,Feminino,Agosto,20
+3440,2017,Minas Gerais,Feminino,Setembro,25
+3441,2017,Minas Gerais,Feminino,Outubro,17
+3442,2017,Minas Gerais,Feminino,Novembro,19
+3443,2017,Minas Gerais,Feminino,Dezembro,28
+3444,2017,Espírito Santo,Feminino,Janeiro,5
+3445,2017,Espírito Santo,Feminino,Fevereiro,1
+3446,2017,Espírito Santo,Feminino,Março,3
+3447,2017,Espírito Santo,Feminino,Abril,6
+3448,2017,Espírito Santo,Feminino,Maio,3
+3449,2017,Espírito Santo,Feminino,Junho,5
+3450,2017,Espírito Santo,Feminino,Julho,3
+3451,2017,Espírito Santo,Feminino,Agosto,2
+3452,2017,Espírito Santo,Feminino,Setembro,4
+3453,2017,Espírito Santo,Feminino,Outubro,8
+3454,2017,Espírito Santo,Feminino,Novembro,1
+3455,2017,Espírito Santo,Feminino,Dezembro,8
+3456,2017,Rio de Janeiro,Feminino,Janeiro,22
+3457,2017,Rio de Janeiro,Feminino,Fevereiro,17
+3458,2017,Rio de Janeiro,Feminino,Março,30
+3459,2017,Rio de Janeiro,Feminino,Abril,26
+3460,2017,Rio de Janeiro,Feminino,Maio,23
+3461,2017,Rio de Janeiro,Feminino,Junho,20
+3462,2017,Rio de Janeiro,Feminino,Julho,24
+3463,2017,Rio de Janeiro,Feminino,Agosto,31
+3464,2017,Rio de Janeiro,Feminino,Setembro,29
+3465,2017,Rio de Janeiro,Feminino,Outubro,29
+3466,2017,Rio de Janeiro,Feminino,Novembro,22
+3467,2017,Rio de Janeiro,Feminino,Dezembro,26
+3468,2017,São Paulo,Feminino,Janeiro,91
+3469,2017,São Paulo,Feminino,Fevereiro,81
+3470,2017,São Paulo,Feminino,Março,128
+3471,2017,São Paulo,Feminino,Abril,113
+3472,2017,São Paulo,Feminino,Maio,123
+3473,2017,São Paulo,Feminino,Junho,121
+3474,2017,São Paulo,Feminino,Julho,119
+3475,2017,São Paulo,Feminino,Agosto,128
+3476,2017,São Paulo,Feminino,Setembro,154
+3477,2017,São Paulo,Feminino,Outubro,151
+3478,2017,São Paulo,Feminino,Novembro,143
+3479,2017,São Paulo,Feminino,Dezembro,143
+3480,2017,Paraná,Feminino,Janeiro,12
+3481,2017,Paraná,Feminino,Fevereiro,6
+3482,2017,Paraná,Feminino,Março,11
+3483,2017,Paraná,Feminino,Abril,10
+3484,2017,Paraná,Feminino,Maio,13
+3485,2017,Paraná,Feminino,Junho,12
+3486,2017,Paraná,Feminino,Julho,14
+3487,2017,Paraná,Feminino,Agosto,14
+3488,2017,Paraná,Feminino,Setembro,16
+3489,2017,Paraná,Feminino,Outubro,12
+3490,2017,Paraná,Feminino,Novembro,20
+3491,2017,Paraná,Feminino,Dezembro,24
+3492,2017,Santa Catarina,Feminino,Janeiro,4
+3493,2017,Santa Catarina,Feminino,Fevereiro,10
+3494,2017,Santa Catarina,Feminino,Março,14
+3495,2017,Santa Catarina,Feminino,Abril,9
+3496,2017,Santa Catarina,Feminino,Maio,14
+3497,2017,Santa Catarina,Feminino,Junho,12
+3498,2017,Santa Catarina,Feminino,Julho,15
+3499,2017,Santa Catarina,Feminino,Agosto,11
+3500,2017,Santa Catarina,Feminino,Setembro,11
+3501,2017,Santa Catarina,Feminino,Outubro,8
+3502,2017,Santa Catarina,Feminino,Novembro,16
+3503,2017,Santa Catarina,Feminino,Dezembro,11
+3504,2017,Rio Grande do Sul,Feminino,Janeiro,7
+3505,2017,Rio Grande do Sul,Feminino,Fevereiro,8
+3506,2017,Rio Grande do Sul,Feminino,Março,10
+3507,2017,Rio Grande do Sul,Feminino,Abril,4
+3508,2017,Rio Grande do Sul,Feminino,Maio,15
+3509,2017,Rio Grande do Sul,Feminino,Junho,16
+3510,2017,Rio Grande do Sul,Feminino,Julho,15
+3511,2017,Rio Grande do Sul,Feminino,Agosto,10
+3512,2017,Rio Grande do Sul,Feminino,Setembro,10
+3513,2017,Rio Grande do Sul,Feminino,Outubro,10
+3514,2017,Rio Grande do Sul,Feminino,Novembro,12
+3515,2017,Rio Grande do Sul,Feminino,Dezembro,11
+3516,2017,Mato Grosso do Sul,Feminino,Janeiro,3
+3517,2017,Mato Grosso do Sul,Feminino,Fevereiro,5
+3518,2017,Mato Grosso do Sul,Feminino,Março,5
+3519,2017,Mato Grosso do Sul,Feminino,Abril,3
+3520,2017,Mato Grosso do Sul,Feminino,Maio,11
+3521,2017,Mato Grosso do Sul,Feminino,Junho,2
+3522,2017,Mato Grosso do Sul,Feminino,Julho,6
+3523,2017,Mato Grosso do Sul,Feminino,Agosto,9
+3524,2017,Mato Grosso do Sul,Feminino,Setembro,7
+3525,2017,Mato Grosso do Sul,Feminino,Outubro,7
+3526,2017,Mato Grosso do Sul,Feminino,Novembro,9
+3527,2017,Mato Grosso do Sul,Feminino,Dezembro,6
+3528,2017,Mato Grosso,Feminino,Janeiro,1
+3529,2017,Mato Grosso,Feminino,Fevereiro,3
+3530,2017,Mato Grosso,Feminino,Março,1
+3531,2017,Mato Grosso,Feminino,Abril,0
+3532,2017,Mato Grosso,Feminino,Maio,0
+3533,2017,Mato Grosso,Feminino,Junho,2
+3534,2017,Mato Grosso,Feminino,Julho,4
+3535,2017,Mato Grosso,Feminino,Agosto,3
+3536,2017,Mato Grosso,Feminino,Setembro,2
+3537,2017,Mato Grosso,Feminino,Outubro,1
+3538,2017,Mato Grosso,Feminino,Novembro,2
+3539,2017,Mato Grosso,Feminino,Dezembro,2
+3540,2017,Goiás,Feminino,Janeiro,10
+3541,2017,Goiás,Feminino,Fevereiro,5
+3542,2017,Goiás,Feminino,Março,8
+3543,2017,Goiás,Feminino,Abril,5
+3544,2017,Goiás,Feminino,Maio,5
+3545,2017,Goiás,Feminino,Junho,5
+3546,2017,Goiás,Feminino,Julho,10
+3547,2017,Goiás,Feminino,Agosto,12
+3548,2017,Goiás,Feminino,Setembro,14
+3549,2017,Goiás,Feminino,Outubro,5
+3550,2017,Goiás,Feminino,Novembro,10
+3551,2017,Goiás,Feminino,Dezembro,7
+3552,2017,Distrito Federal,Feminino,Janeiro,6
+3553,2017,Distrito Federal,Feminino,Fevereiro,4
+3554,2017,Distrito Federal,Feminino,Março,5
+3555,2017,Distrito Federal,Feminino,Abril,8
+3556,2017,Distrito Federal,Feminino,Maio,8
+3557,2017,Distrito Federal,Feminino,Junho,7
+3558,2017,Distrito Federal,Feminino,Julho,8
+3559,2017,Distrito Federal,Feminino,Agosto,5
+3560,2017,Distrito Federal,Feminino,Setembro,9
+3561,2017,Distrito Federal,Feminino,Outubro,6
+3562,2017,Distrito Federal,Feminino,Novembro,10
+3563,2017,Distrito Federal,Feminino,Dezembro,6
+3564,2018,Rondônia,Feminino,Janeiro,3
+3565,2018,Rondônia,Feminino,Fevereiro,3
+3566,2018,Rondônia,Feminino,Março,0
+3567,2018,Rondônia,Feminino,Abril,0
+3568,2018,Rondônia,Feminino,Maio,0
+3569,2018,Rondônia,Feminino,Junho,0
+3570,2018,Rondônia,Feminino,Julho,1
+3571,2018,Rondônia,Feminino,Agosto,0
+3572,2018,Rondônia,Feminino,Setembro,1
+3573,2018,Rondônia,Feminino,Outubro,4
+3574,2018,Rondônia,Feminino,Novembro,2
+3575,2018,Rondônia,Feminino,Dezembro,4
+3576,2018,Acre,Feminino,Janeiro,0
+3577,2018,Acre,Feminino,Fevereiro,0
+3578,2018,Acre,Feminino,Março,1
+3579,2018,Acre,Feminino,Abril,1
+3580,2018,Acre,Feminino,Maio,1
+3581,2018,Acre,Feminino,Junho,0
+3582,2018,Acre,Feminino,Julho,1
+3583,2018,Acre,Feminino,Agosto,0
+3584,2018,Acre,Feminino,Setembro,0
+3585,2018,Acre,Feminino,Outubro,0
+3586,2018,Acre,Feminino,Novembro,0
+3587,2018,Acre,Feminino,Dezembro,8
+3588,2018,Amazonas,Feminino,Janeiro,1
+3589,2018,Amazonas,Feminino,Fevereiro,1
+3590,2018,Amazonas,Feminino,Março,5
+3591,2018,Amazonas,Feminino,Abril,0
+3592,2018,Amazonas,Feminino,Maio,2
+3593,2018,Amazonas,Feminino,Junho,3
+3594,2018,Amazonas,Feminino,Julho,0
+3595,2018,Amazonas,Feminino,Agosto,1
+3596,2018,Amazonas,Feminino,Setembro,3
+3597,2018,Amazonas,Feminino,Outubro,1
+3598,2018,Amazonas,Feminino,Novembro,3
+3599,2018,Amazonas,Feminino,Dezembro,11
+3600,2018,Roraima,Feminino,Janeiro,0
+3601,2018,Roraima,Feminino,Fevereiro,0
+3602,2018,Roraima,Feminino,Março,0
+3603,2018,Roraima,Feminino,Abril,0
+3604,2018,Roraima,Feminino,Maio,0
+3605,2018,Roraima,Feminino,Junho,0
+3606,2018,Roraima,Feminino,Julho,0
+3607,2018,Roraima,Feminino,Agosto,0
+3608,2018,Roraima,Feminino,Setembro,0
+3609,2018,Roraima,Feminino,Outubro,1
+3610,2018,Roraima,Feminino,Novembro,1
+3611,2018,Roraima,Feminino,Dezembro,2
+3612,2018,Pará,Feminino,Janeiro,3
+3613,2018,Pará,Feminino,Fevereiro,1
+3614,2018,Pará,Feminino,Março,2
+3615,2018,Pará,Feminino,Abril,3
+3616,2018,Pará,Feminino,Maio,5
+3617,2018,Pará,Feminino,Junho,3
+3618,2018,Pará,Feminino,Julho,4
+3619,2018,Pará,Feminino,Agosto,8
+3620,2018,Pará,Feminino,Setembro,3
+3621,2018,Pará,Feminino,Outubro,9
+3622,2018,Pará,Feminino,Novembro,5
+3623,2018,Pará,Feminino,Dezembro,66
+3624,2018,Amapá,Feminino,Janeiro,0
+3625,2018,Amapá,Feminino,Fevereiro,0
+3626,2018,Amapá,Feminino,Março,1
+3627,2018,Amapá,Feminino,Abril,0
+3628,2018,Amapá,Feminino,Maio,1
+3629,2018,Amapá,Feminino,Junho,0
+3630,2018,Amapá,Feminino,Julho,0
+3631,2018,Amapá,Feminino,Agosto,0
+3632,2018,Amapá,Feminino,Setembro,1
+3633,2018,Amapá,Feminino,Outubro,0
+3634,2018,Amapá,Feminino,Novembro,0
+3635,2018,Amapá,Feminino,Dezembro,4
+3636,2018,Tocantins,Feminino,Janeiro,0
+3637,2018,Tocantins,Feminino,Fevereiro,0
+3638,2018,Tocantins,Feminino,Março,0
+3639,2018,Tocantins,Feminino,Abril,0
+3640,2018,Tocantins,Feminino,Maio,0
+3641,2018,Tocantins,Feminino,Junho,2
+3642,2018,Tocantins,Feminino,Julho,0
+3643,2018,Tocantins,Feminino,Agosto,1
+3644,2018,Tocantins,Feminino,Setembro,0
+3645,2018,Tocantins,Feminino,Outubro,0
+3646,2018,Tocantins,Feminino,Novembro,0
+3647,2018,Tocantins,Feminino,Dezembro,8
+3648,2018,Maranhão,Feminino,Janeiro,1
+3649,2018,Maranhão,Feminino,Fevereiro,0
+3650,2018,Maranhão,Feminino,Março,1
+3651,2018,Maranhão,Feminino,Abril,1
+3652,2018,Maranhão,Feminino,Maio,1
+3653,2018,Maranhão,Feminino,Junho,0
+3654,2018,Maranhão,Feminino,Julho,2
+3655,2018,Maranhão,Feminino,Agosto,0
+3656,2018,Maranhão,Feminino,Setembro,1
+3657,2018,Maranhão,Feminino,Outubro,0
+3658,2018,Maranhão,Feminino,Novembro,2
+3659,2018,Maranhão,Feminino,Dezembro,5
+3660,2018,Piauí,Feminino,Janeiro,1
+3661,2018,Piauí,Feminino,Fevereiro,1
+3662,2018,Piauí,Feminino,Março,1
+3663,2018,Piauí,Feminino,Abril,0
+3664,2018,Piauí,Feminino,Maio,4
+3665,2018,Piauí,Feminino,Junho,5
+3666,2018,Piauí,Feminino,Julho,1
+3667,2018,Piauí,Feminino,Agosto,0
+3668,2018,Piauí,Feminino,Setembro,1
+3669,2018,Piauí,Feminino,Outubro,0
+3670,2018,Piauí,Feminino,Novembro,2
+3671,2018,Piauí,Feminino,Dezembro,12
+3672,2018,Ceará,Feminino,Janeiro,13
+3673,2018,Ceará,Feminino,Fevereiro,11
+3674,2018,Ceará,Feminino,Março,11
+3675,2018,Ceará,Feminino,Abril,11
+3676,2018,Ceará,Feminino,Maio,15
+3677,2018,Ceará,Feminino,Junho,14
+3678,2018,Ceará,Feminino,Julho,12
+3679,2018,Ceará,Feminino,Agosto,9
+3680,2018,Ceará,Feminino,Setembro,15
+3681,2018,Ceará,Feminino,Outubro,13
+3682,2018,Ceará,Feminino,Novembro,19
+3683,2018,Ceará,Feminino,Dezembro,69
+3684,2018,Rio Grande do Norte,Feminino,Janeiro,6
+3685,2018,Rio Grande do Norte,Feminino,Fevereiro,4
+3686,2018,Rio Grande do Norte,Feminino,Março,1
+3687,2018,Rio Grande do Norte,Feminino,Abril,1
+3688,2018,Rio Grande do Norte,Feminino,Maio,8
+3689,2018,Rio Grande do Norte,Feminino,Junho,4
+3690,2018,Rio Grande do Norte,Feminino,Julho,2
+3691,2018,Rio Grande do Norte,Feminino,Agosto,3
+3692,2018,Rio Grande do Norte,Feminino,Setembro,5
+3693,2018,Rio Grande do Norte,Feminino,Outubro,3
+3694,2018,Rio Grande do Norte,Feminino,Novembro,9
+3695,2018,Rio Grande do Norte,Feminino,Dezembro,23
+3696,2018,Paraíba,Feminino,Janeiro,3
+3697,2018,Paraíba,Feminino,Fevereiro,6
+3698,2018,Paraíba,Feminino,Março,5
+3699,2018,Paraíba,Feminino,Abril,2
+3700,2018,Paraíba,Feminino,Maio,1
+3701,2018,Paraíba,Feminino,Junho,1
+3702,2018,Paraíba,Feminino,Julho,6
+3703,2018,Paraíba,Feminino,Agosto,4
+3704,2018,Paraíba,Feminino,Setembro,5
+3705,2018,Paraíba,Feminino,Outubro,3
+3706,2018,Paraíba,Feminino,Novembro,6
+3707,2018,Paraíba,Feminino,Dezembro,22
+3708,2018,Pernambuco,Feminino,Janeiro,13
+3709,2018,Pernambuco,Feminino,Fevereiro,13
+3710,2018,Pernambuco,Feminino,Março,5
+3711,2018,Pernambuco,Feminino,Abril,11
+3712,2018,Pernambuco,Feminino,Maio,8
+3713,2018,Pernambuco,Feminino,Junho,4
+3714,2018,Pernambuco,Feminino,Julho,14
+3715,2018,Pernambuco,Feminino,Agosto,17
+3716,2018,Pernambuco,Feminino,Setembro,10
+3717,2018,Pernambuco,Feminino,Outubro,18
+3718,2018,Pernambuco,Feminino,Novembro,32
+3719,2018,Pernambuco,Feminino,Dezembro,115
+3720,2018,Alagoas,Feminino,Janeiro,2
+3721,2018,Alagoas,Feminino,Fevereiro,2
+3722,2018,Alagoas,Feminino,Março,3
+3723,2018,Alagoas,Feminino,Abril,1
+3724,2018,Alagoas,Feminino,Maio,2
+3725,2018,Alagoas,Feminino,Junho,1
+3726,2018,Alagoas,Feminino,Julho,1
+3727,2018,Alagoas,Feminino,Agosto,0
+3728,2018,Alagoas,Feminino,Setembro,2
+3729,2018,Alagoas,Feminino,Outubro,3
+3730,2018,Alagoas,Feminino,Novembro,2
+3731,2018,Alagoas,Feminino,Dezembro,37
+3732,2018,Sergipe,Feminino,Janeiro,1
+3733,2018,Sergipe,Feminino,Fevereiro,0
+3734,2018,Sergipe,Feminino,Março,3
+3735,2018,Sergipe,Feminino,Abril,0
+3736,2018,Sergipe,Feminino,Maio,0
+3737,2018,Sergipe,Feminino,Junho,0
+3738,2018,Sergipe,Feminino,Julho,3
+3739,2018,Sergipe,Feminino,Agosto,0
+3740,2018,Sergipe,Feminino,Setembro,3
+3741,2018,Sergipe,Feminino,Outubro,5
+3742,2018,Sergipe,Feminino,Novembro,3
+3743,2018,Sergipe,Feminino,Dezembro,5
+3744,2018,Bahia,Feminino,Janeiro,8
+3745,2018,Bahia,Feminino,Fevereiro,7
+3746,2018,Bahia,Feminino,Março,0
+3747,2018,Bahia,Feminino,Abril,5
+3748,2018,Bahia,Feminino,Maio,12
+3749,2018,Bahia,Feminino,Junho,15
+3750,2018,Bahia,Feminino,Julho,14
+3751,2018,Bahia,Feminino,Agosto,5
+3752,2018,Bahia,Feminino,Setembro,13
+3753,2018,Bahia,Feminino,Outubro,14
+3754,2018,Bahia,Feminino,Novembro,17
+3755,2018,Bahia,Feminino,Dezembro,60
+3756,2018,Minas Gerais,Feminino,Janeiro,24
+3757,2018,Minas Gerais,Feminino,Fevereiro,19
+3758,2018,Minas Gerais,Feminino,Março,21
+3759,2018,Minas Gerais,Feminino,Abril,21
+3760,2018,Minas Gerais,Feminino,Maio,32
+3761,2018,Minas Gerais,Feminino,Junho,22
+3762,2018,Minas Gerais,Feminino,Julho,25
+3763,2018,Minas Gerais,Feminino,Agosto,24
+3764,2018,Minas Gerais,Feminino,Setembro,43
+3765,2018,Minas Gerais,Feminino,Outubro,32
+3766,2018,Minas Gerais,Feminino,Novembro,34
+3767,2018,Minas Gerais,Feminino,Dezembro,115
+3768,2018,Espírito Santo,Feminino,Janeiro,4
+3769,2018,Espírito Santo,Feminino,Fevereiro,3
+3770,2018,Espírito Santo,Feminino,Março,4
+3771,2018,Espírito Santo,Feminino,Abril,7
+3772,2018,Espírito Santo,Feminino,Maio,5
+3773,2018,Espírito Santo,Feminino,Junho,3
+3774,2018,Espírito Santo,Feminino,Julho,5
+3775,2018,Espírito Santo,Feminino,Agosto,4
+3776,2018,Espírito Santo,Feminino,Setembro,4
+3777,2018,Espírito Santo,Feminino,Outubro,4
+3778,2018,Espírito Santo,Feminino,Novembro,4
+3779,2018,Espírito Santo,Feminino,Dezembro,16
+3780,2018,Rio de Janeiro,Feminino,Janeiro,25
+3781,2018,Rio de Janeiro,Feminino,Fevereiro,14
+3782,2018,Rio de Janeiro,Feminino,Março,33
+3783,2018,Rio de Janeiro,Feminino,Abril,24
+3784,2018,Rio de Janeiro,Feminino,Maio,21
+3785,2018,Rio de Janeiro,Feminino,Junho,23
+3786,2018,Rio de Janeiro,Feminino,Julho,24
+3787,2018,Rio de Janeiro,Feminino,Agosto,32
+3788,2018,Rio de Janeiro,Feminino,Setembro,29
+3789,2018,Rio de Janeiro,Feminino,Outubro,35
+3790,2018,Rio de Janeiro,Feminino,Novembro,37
+3791,2018,Rio de Janeiro,Feminino,Dezembro,109
+3792,2018,São Paulo,Feminino,Janeiro,129
+3793,2018,São Paulo,Feminino,Fevereiro,105
+3794,2018,São Paulo,Feminino,Março,107
+3795,2018,São Paulo,Feminino,Abril,120
+3796,2018,São Paulo,Feminino,Maio,131
+3797,2018,São Paulo,Feminino,Junho,130
+3798,2018,São Paulo,Feminino,Julho,143
+3799,2018,São Paulo,Feminino,Agosto,120
+3800,2018,São Paulo,Feminino,Setembro,184
+3801,2018,São Paulo,Feminino,Outubro,189
+3802,2018,São Paulo,Feminino,Novembro,260
+3803,2018,São Paulo,Feminino,Dezembro,827
+3804,2018,Paraná,Feminino,Janeiro,12
+3805,2018,Paraná,Feminino,Fevereiro,7
+3806,2018,Paraná,Feminino,Março,17
+3807,2018,Paraná,Feminino,Abril,15
+3808,2018,Paraná,Feminino,Maio,14
+3809,2018,Paraná,Feminino,Junho,9
+3810,2018,Paraná,Feminino,Julho,16
+3811,2018,Paraná,Feminino,Agosto,12
+3812,2018,Paraná,Feminino,Setembro,19
+3813,2018,Paraná,Feminino,Outubro,24
+3814,2018,Paraná,Feminino,Novembro,27
+3815,2018,Paraná,Feminino,Dezembro,111
+3816,2018,Santa Catarina,Feminino,Janeiro,14
+3817,2018,Santa Catarina,Feminino,Fevereiro,7
+3818,2018,Santa Catarina,Feminino,Março,9
+3819,2018,Santa Catarina,Feminino,Abril,8
+3820,2018,Santa Catarina,Feminino,Maio,7
+3821,2018,Santa Catarina,Feminino,Junho,12
+3822,2018,Santa Catarina,Feminino,Julho,16
+3823,2018,Santa Catarina,Feminino,Agosto,18
+3824,2018,Santa Catarina,Feminino,Setembro,16
+3825,2018,Santa Catarina,Feminino,Outubro,13
+3826,2018,Santa Catarina,Feminino,Novembro,18
+3827,2018,Santa Catarina,Feminino,Dezembro,62
+3828,2018,Rio Grande do Sul,Feminino,Janeiro,7
+3829,2018,Rio Grande do Sul,Feminino,Fevereiro,12
+3830,2018,Rio Grande do Sul,Feminino,Março,13
+3831,2018,Rio Grande do Sul,Feminino,Abril,11
+3832,2018,Rio Grande do Sul,Feminino,Maio,11
+3833,2018,Rio Grande do Sul,Feminino,Junho,10
+3834,2018,Rio Grande do Sul,Feminino,Julho,11
+3835,2018,Rio Grande do Sul,Feminino,Agosto,10
+3836,2018,Rio Grande do Sul,Feminino,Setembro,19
+3837,2018,Rio Grande do Sul,Feminino,Outubro,16
+3838,2018,Rio Grande do Sul,Feminino,Novembro,30
+3839,2018,Rio Grande do Sul,Feminino,Dezembro,119
+3840,2018,Mato Grosso do Sul,Feminino,Janeiro,3
+3841,2018,Mato Grosso do Sul,Feminino,Fevereiro,10
+3842,2018,Mato Grosso do Sul,Feminino,Março,11
+3843,2018,Mato Grosso do Sul,Feminino,Abril,2
+3844,2018,Mato Grosso do Sul,Feminino,Maio,7
+3845,2018,Mato Grosso do Sul,Feminino,Junho,6
+3846,2018,Mato Grosso do Sul,Feminino,Julho,8
+3847,2018,Mato Grosso do Sul,Feminino,Agosto,4
+3848,2018,Mato Grosso do Sul,Feminino,Setembro,9
+3849,2018,Mato Grosso do Sul,Feminino,Outubro,7
+3850,2018,Mato Grosso do Sul,Feminino,Novembro,14
+3851,2018,Mato Grosso do Sul,Feminino,Dezembro,29
+3852,2018,Mato Grosso,Feminino,Janeiro,1
+3853,2018,Mato Grosso,Feminino,Fevereiro,0
+3854,2018,Mato Grosso,Feminino,Março,0
+3855,2018,Mato Grosso,Feminino,Abril,0
+3856,2018,Mato Grosso,Feminino,Maio,4
+3857,2018,Mato Grosso,Feminino,Junho,4
+3858,2018,Mato Grosso,Feminino,Julho,1
+3859,2018,Mato Grosso,Feminino,Agosto,5
+3860,2018,Mato Grosso,Feminino,Setembro,5
+3861,2018,Mato Grosso,Feminino,Outubro,2
+3862,2018,Mato Grosso,Feminino,Novembro,2
+3863,2018,Mato Grosso,Feminino,Dezembro,7
+3864,2018,Goiás,Feminino,Janeiro,8
+3865,2018,Goiás,Feminino,Fevereiro,8
+3866,2018,Goiás,Feminino,Março,7
+3867,2018,Goiás,Feminino,Abril,7
+3868,2018,Goiás,Feminino,Maio,15
+3869,2018,Goiás,Feminino,Junho,8
+3870,2018,Goiás,Feminino,Julho,12
+3871,2018,Goiás,Feminino,Agosto,14
+3872,2018,Goiás,Feminino,Setembro,6
+3873,2018,Goiás,Feminino,Outubro,4
+3874,2018,Goiás,Feminino,Novembro,9
+3875,2018,Goiás,Feminino,Dezembro,18
+3876,2018,Distrito Federal,Feminino,Janeiro,11
+3877,2018,Distrito Federal,Feminino,Fevereiro,11
+3878,2018,Distrito Federal,Feminino,Março,7
+3879,2018,Distrito Federal,Feminino,Abril,6
+3880,2018,Distrito Federal,Feminino,Maio,6
+3881,2018,Distrito Federal,Feminino,Junho,11
+3882,2018,Distrito Federal,Feminino,Julho,8
+3883,2018,Distrito Federal,Feminino,Agosto,5
+3884,2018,Distrito Federal,Feminino,Setembro,9
+3885,2018,Distrito Federal,Feminino,Outubro,9
+3886,2018,Distrito Federal,Feminino,Novembro,11
+3887,2018,Distrito Federal,Feminino,Dezembro,42
+3888,2020,Rondônia,Feminino,Janeiro,1
+3889,2020,Rondônia,Feminino,Fevereiro,1
+3890,2020,Rondônia,Feminino,Março,1
+3891,2020,Rondônia,Feminino,Abril,1
+3892,2020,Rondônia,Feminino,Maio,1
+3893,2020,Rondônia,Feminino,Junho,0
+3894,2020,Rondônia,Feminino,Julho,1
+3895,2020,Rondônia,Feminino,Agosto,2
+3896,2020,Rondônia,Feminino,Setembro,0
+3897,2020,Rondônia,Feminino,Outubro,3
+3898,2020,Rondônia,Feminino,Novembro,2
+3899,2020,Rondônia,Feminino,Dezembro,2
+3900,2020,Acre,Feminino,Janeiro,0
+3901,2020,Acre,Feminino,Fevereiro,0
+3902,2020,Acre,Feminino,Março,0
+3903,2020,Acre,Feminino,Abril,0
+3904,2020,Acre,Feminino,Maio,0
+3905,2020,Acre,Feminino,Junho,0
+3906,2020,Acre,Feminino,Julho,1
+3907,2020,Acre,Feminino,Agosto,1
+3908,2020,Acre,Feminino,Setembro,0
+3909,2020,Acre,Feminino,Outubro,0
+3910,2020,Acre,Feminino,Novembro,1
+3911,2020,Acre,Feminino,Dezembro,2
+3912,2020,Amazonas,Feminino,Janeiro,3
+3913,2020,Amazonas,Feminino,Fevereiro,2
+3914,2020,Amazonas,Feminino,Março,4
+3915,2020,Amazonas,Feminino,Abril,0
+3916,2020,Amazonas,Feminino,Maio,0
+3917,2020,Amazonas,Feminino,Junho,2
+3918,2020,Amazonas,Feminino,Julho,4
+3919,2020,Amazonas,Feminino,Agosto,3
+3920,2020,Amazonas,Feminino,Setembro,4
+3921,2020,Amazonas,Feminino,Outubro,10
+3922,2020,Amazonas,Feminino,Novembro,4
+3923,2020,Amazonas,Feminino,Dezembro,7
+3924,2020,Roraima,Feminino,Janeiro,0
+3925,2020,Roraima,Feminino,Fevereiro,1
+3926,2020,Roraima,Feminino,Março,1
+3927,2020,Roraima,Feminino,Abril,0
+3928,2020,Roraima,Feminino,Maio,0
+3929,2020,Roraima,Feminino,Junho,0
+3930,2020,Roraima,Feminino,Julho,0
+3931,2020,Roraima,Feminino,Agosto,0
+3932,2020,Roraima,Feminino,Setembro,0
+3933,2020,Roraima,Feminino,Outubro,0
+3934,2020,Roraima,Feminino,Novembro,0
+3935,2020,Roraima,Feminino,Dezembro,1
+3936,2020,Pará,Feminino,Janeiro,5
+3937,2020,Pará,Feminino,Fevereiro,4
+3938,2020,Pará,Feminino,Março,5
+3939,2020,Pará,Feminino,Abril,2
+3940,2020,Pará,Feminino,Maio,3
+3941,2020,Pará,Feminino,Junho,7
+3942,2020,Pará,Feminino,Julho,6
+3943,2020,Pará,Feminino,Agosto,22
+3944,2020,Pará,Feminino,Setembro,8
+3945,2020,Pará,Feminino,Outubro,5
+3946,2020,Pará,Feminino,Novembro,9
+3947,2020,Pará,Feminino,Dezembro,15
+3948,2020,Amapá,Feminino,Janeiro,0
+3949,2020,Amapá,Feminino,Fevereiro,0
+3950,2020,Amapá,Feminino,Março,0
+3951,2020,Amapá,Feminino,Abril,0
+3952,2020,Amapá,Feminino,Maio,0
+3953,2020,Amapá,Feminino,Junho,0
+3954,2020,Amapá,Feminino,Julho,0
+3955,2020,Amapá,Feminino,Agosto,1
+3956,2020,Amapá,Feminino,Setembro,0
+3957,2020,Amapá,Feminino,Outubro,1
+3958,2020,Amapá,Feminino,Novembro,0
+3959,2020,Amapá,Feminino,Dezembro,2
+3960,2020,Tocantins,Feminino,Janeiro,1
+3961,2020,Tocantins,Feminino,Fevereiro,0
+3962,2020,Tocantins,Feminino,Março,0
+3963,2020,Tocantins,Feminino,Abril,0
+3964,2020,Tocantins,Feminino,Maio,1
+3965,2020,Tocantins,Feminino,Junho,1
+3966,2020,Tocantins,Feminino,Julho,1
+3967,2020,Tocantins,Feminino,Agosto,1
+3968,2020,Tocantins,Feminino,Setembro,1
+3969,2020,Tocantins,Feminino,Outubro,0
+3970,2020,Tocantins,Feminino,Novembro,1
+3971,2020,Tocantins,Feminino,Dezembro,0
+3972,2020,Maranhão,Feminino,Janeiro,0
+3973,2020,Maranhão,Feminino,Fevereiro,2
+3974,2020,Maranhão,Feminino,Março,1
+3975,2020,Maranhão,Feminino,Abril,2
+3976,2020,Maranhão,Feminino,Maio,2
+3977,2020,Maranhão,Feminino,Junho,4
+3978,2020,Maranhão,Feminino,Julho,4
+3979,2020,Maranhão,Feminino,Agosto,1
+3980,2020,Maranhão,Feminino,Setembro,4
+3981,2020,Maranhão,Feminino,Outubro,3
+3982,2020,Maranhão,Feminino,Novembro,0
+3983,2020,Maranhão,Feminino,Dezembro,5
+3984,2020,Piauí,Feminino,Janeiro,3
+3985,2020,Piauí,Feminino,Fevereiro,3
+3986,2020,Piauí,Feminino,Março,0
+3987,2020,Piauí,Feminino,Abril,0
+3988,2020,Piauí,Feminino,Maio,0
+3989,2020,Piauí,Feminino,Junho,0
+3990,2020,Piauí,Feminino,Julho,1
+3991,2020,Piauí,Feminino,Agosto,1
+3992,2020,Piauí,Feminino,Setembro,1
+3993,2020,Piauí,Feminino,Outubro,2
+3994,2020,Piauí,Feminino,Novembro,5
+3995,2020,Piauí,Feminino,Dezembro,2
+3996,2020,Ceará,Feminino,Janeiro,15
+3997,2020,Ceará,Feminino,Fevereiro,14
+3998,2020,Ceará,Feminino,Março,15
+3999,2020,Ceará,Feminino,Abril,3
+4000,2020,Ceará,Feminino,Maio,2
+4001,2020,Ceará,Feminino,Junho,7
+4002,2020,Ceará,Feminino,Julho,4
+4003,2020,Ceará,Feminino,Agosto,11
+4004,2020,Ceará,Feminino,Setembro,17
+4005,2020,Ceará,Feminino,Outubro,29
+4006,2020,Ceará,Feminino,Novembro,23
+4007,2020,Ceará,Feminino,Dezembro,38
+4008,2020,Rio Grande do Norte,Feminino,Janeiro,2
+4009,2020,Rio Grande do Norte,Feminino,Fevereiro,4
+4010,2020,Rio Grande do Norte,Feminino,Março,4
+4011,2020,Rio Grande do Norte,Feminino,Abril,1
+4012,2020,Rio Grande do Norte,Feminino,Maio,3
+4013,2020,Rio Grande do Norte,Feminino,Junho,2
+4014,2020,Rio Grande do Norte,Feminino,Julho,4
+4015,2020,Rio Grande do Norte,Feminino,Agosto,6
+4016,2020,Rio Grande do Norte,Feminino,Setembro,4
+4017,2020,Rio Grande do Norte,Feminino,Outubro,5
+4018,2020,Rio Grande do Norte,Feminino,Novembro,5
+4019,2020,Rio Grande do Norte,Feminino,Dezembro,4
+4020,2020,Paraíba,Feminino,Janeiro,6
+4021,2020,Paraíba,Feminino,Fevereiro,6
+4022,2020,Paraíba,Feminino,Março,1
+4023,2020,Paraíba,Feminino,Abril,0
+4024,2020,Paraíba,Feminino,Maio,1
+4025,2020,Paraíba,Feminino,Junho,5
+4026,2020,Paraíba,Feminino,Julho,6
+4027,2020,Paraíba,Feminino,Agosto,3
+4028,2020,Paraíba,Feminino,Setembro,7
+4029,2020,Paraíba,Feminino,Outubro,7
+4030,2020,Paraíba,Feminino,Novembro,6
+4031,2020,Paraíba,Feminino,Dezembro,7
+4032,2020,Pernambuco,Feminino,Janeiro,4
+4033,2020,Pernambuco,Feminino,Fevereiro,16
+4034,2020,Pernambuco,Feminino,Março,13
+4035,2020,Pernambuco,Feminino,Abril,5
+4036,2020,Pernambuco,Feminino,Maio,11
+4037,2020,Pernambuco,Feminino,Junho,7
+4038,2020,Pernambuco,Feminino,Julho,8
+4039,2020,Pernambuco,Feminino,Agosto,14
+4040,2020,Pernambuco,Feminino,Setembro,21
+4041,2020,Pernambuco,Feminino,Outubro,20
+4042,2020,Pernambuco,Feminino,Novembro,22
+4043,2020,Pernambuco,Feminino,Dezembro,25
+4044,2020,Alagoas,Feminino,Janeiro,6
+4045,2020,Alagoas,Feminino,Fevereiro,3
+4046,2020,Alagoas,Feminino,Março,0
+4047,2020,Alagoas,Feminino,Abril,2
+4048,2020,Alagoas,Feminino,Maio,5
+4049,2020,Alagoas,Feminino,Junho,1
+4050,2020,Alagoas,Feminino,Julho,1
+4051,2020,Alagoas,Feminino,Agosto,5
+4052,2020,Alagoas,Feminino,Setembro,1
+4053,2020,Alagoas,Feminino,Outubro,3
+4054,2020,Alagoas,Feminino,Novembro,10
+4055,2020,Alagoas,Feminino,Dezembro,11
+4056,2020,Sergipe,Feminino,Janeiro,2
+4057,2020,Sergipe,Feminino,Fevereiro,1
+4058,2020,Sergipe,Feminino,Março,1
+4059,2020,Sergipe,Feminino,Abril,2
+4060,2020,Sergipe,Feminino,Maio,2
+4061,2020,Sergipe,Feminino,Junho,1
+4062,2020,Sergipe,Feminino,Julho,0
+4063,2020,Sergipe,Feminino,Agosto,5
+4064,2020,Sergipe,Feminino,Setembro,1
+4065,2020,Sergipe,Feminino,Outubro,2
+4066,2020,Sergipe,Feminino,Novembro,1
+4067,2020,Sergipe,Feminino,Dezembro,2
+4068,2020,Bahia,Feminino,Janeiro,19
+4069,2020,Bahia,Feminino,Fevereiro,8
+4070,2020,Bahia,Feminino,Março,14
+4071,2020,Bahia,Feminino,Abril,4
+4072,2020,Bahia,Feminino,Maio,4
+4073,2020,Bahia,Feminino,Junho,3
+4074,2020,Bahia,Feminino,Julho,7
+4075,2020,Bahia,Feminino,Agosto,11
+4076,2020,Bahia,Feminino,Setembro,5
+4077,2020,Bahia,Feminino,Outubro,4
+4078,2020,Bahia,Feminino,Novembro,9
+4079,2020,Bahia,Feminino,Dezembro,14
+4080,2020,Minas Gerais,Feminino,Janeiro,26
+4081,2020,Minas Gerais,Feminino,Fevereiro,33
+4082,2020,Minas Gerais,Feminino,Março,18
+4083,2020,Minas Gerais,Feminino,Abril,6
+4084,2020,Minas Gerais,Feminino,Maio,15
+4085,2020,Minas Gerais,Feminino,Junho,11
+4086,2020,Minas Gerais,Feminino,Julho,23
+4087,2020,Minas Gerais,Feminino,Agosto,17
+4088,2020,Minas Gerais,Feminino,Setembro,29
+4089,2020,Minas Gerais,Feminino,Outubro,27
+4090,2020,Minas Gerais,Feminino,Novembro,36
+4091,2020,Minas Gerais,Feminino,Dezembro,47
+4092,2020,Espírito Santo,Feminino,Janeiro,6
+4093,2020,Espírito Santo,Feminino,Fevereiro,3
+4094,2020,Espírito Santo,Feminino,Março,5
+4095,2020,Espírito Santo,Feminino,Abril,1
+4096,2020,Espírito Santo,Feminino,Maio,3
+4097,2020,Espírito Santo,Feminino,Junho,2
+4098,2020,Espírito Santo,Feminino,Julho,6
+4099,2020,Espírito Santo,Feminino,Agosto,2
+4100,2020,Espírito Santo,Feminino,Setembro,8
+4101,2020,Espírito Santo,Feminino,Outubro,4
+4102,2020,Espírito Santo,Feminino,Novembro,9
+4103,2020,Espírito Santo,Feminino,Dezembro,9
+4104,2020,Rio de Janeiro,Feminino,Janeiro,34
+4105,2020,Rio de Janeiro,Feminino,Fevereiro,33
+4106,2020,Rio de Janeiro,Feminino,Março,33
+4107,2020,Rio de Janeiro,Feminino,Abril,5
+4108,2020,Rio de Janeiro,Feminino,Maio,15
+4109,2020,Rio de Janeiro,Feminino,Junho,16
+4110,2020,Rio de Janeiro,Feminino,Julho,17
+4111,2020,Rio de Janeiro,Feminino,Agosto,11
+4112,2020,Rio de Janeiro,Feminino,Setembro,31
+4113,2020,Rio de Janeiro,Feminino,Outubro,25
+4114,2020,Rio de Janeiro,Feminino,Novembro,32
+4115,2020,Rio de Janeiro,Feminino,Dezembro,35
+4116,2020,São Paulo,Feminino,Janeiro,149
+4117,2020,São Paulo,Feminino,Fevereiro,155
+4118,2020,São Paulo,Feminino,Março,131
+4119,2020,São Paulo,Feminino,Abril,81
+4120,2020,São Paulo,Feminino,Maio,63
+4121,2020,São Paulo,Feminino,Junho,94
+4122,2020,São Paulo,Feminino,Julho,95
+4123,2020,São Paulo,Feminino,Agosto,119
+4124,2020,São Paulo,Feminino,Setembro,137
+4125,2020,São Paulo,Feminino,Outubro,194
+4126,2020,São Paulo,Feminino,Novembro,186
+4127,2020,São Paulo,Feminino,Dezembro,198
+4128,2020,Paraná,Feminino,Janeiro,23
+4129,2020,Paraná,Feminino,Fevereiro,17
+4130,2020,Paraná,Feminino,Março,20
+4131,2020,Paraná,Feminino,Abril,4
+4132,2020,Paraná,Feminino,Maio,9
+4133,2020,Paraná,Feminino,Junho,10
+4134,2020,Paraná,Feminino,Julho,13
+4135,2020,Paraná,Feminino,Agosto,9
+4136,2020,Paraná,Feminino,Setembro,16
+4137,2020,Paraná,Feminino,Outubro,30
+4138,2020,Paraná,Feminino,Novembro,18
+4139,2020,Paraná,Feminino,Dezembro,32
+4140,2020,Santa Catarina,Feminino,Janeiro,5
+4141,2020,Santa Catarina,Feminino,Fevereiro,17
+4142,2020,Santa Catarina,Feminino,Março,8
+4143,2020,Santa Catarina,Feminino,Abril,6
+4144,2020,Santa Catarina,Feminino,Maio,2
+4145,2020,Santa Catarina,Feminino,Junho,12
+4146,2020,Santa Catarina,Feminino,Julho,7
+4147,2020,Santa Catarina,Feminino,Agosto,11
+4148,2020,Santa Catarina,Feminino,Setembro,19
+4149,2020,Santa Catarina,Feminino,Outubro,18
+4150,2020,Santa Catarina,Feminino,Novembro,16
+4151,2020,Santa Catarina,Feminino,Dezembro,24
+4152,2020,Rio Grande do Sul,Feminino,Janeiro,17
+4153,2020,Rio Grande do Sul,Feminino,Fevereiro,19
+4154,2020,Rio Grande do Sul,Feminino,Março,19
+4155,2020,Rio Grande do Sul,Feminino,Abril,4
+4156,2020,Rio Grande do Sul,Feminino,Maio,6
+4157,2020,Rio Grande do Sul,Feminino,Junho,10
+4158,2020,Rio Grande do Sul,Feminino,Julho,5
+4159,2020,Rio Grande do Sul,Feminino,Agosto,4
+4160,2020,Rio Grande do Sul,Feminino,Setembro,8
+4161,2020,Rio Grande do Sul,Feminino,Outubro,12
+4162,2020,Rio Grande do Sul,Feminino,Novembro,22
+4163,2020,Rio Grande do Sul,Feminino,Dezembro,25
+4164,2020,Mato Grosso do Sul,Feminino,Janeiro,9
+4165,2020,Mato Grosso do Sul,Feminino,Fevereiro,7
+4166,2020,Mato Grosso do Sul,Feminino,Março,5
+4167,2020,Mato Grosso do Sul,Feminino,Abril,3
+4168,2020,Mato Grosso do Sul,Feminino,Maio,1
+4169,2020,Mato Grosso do Sul,Feminino,Junho,3
+4170,2020,Mato Grosso do Sul,Feminino,Julho,3
+4171,2020,Mato Grosso do Sul,Feminino,Agosto,4
+4172,2020,Mato Grosso do Sul,Feminino,Setembro,4
+4173,2020,Mato Grosso do Sul,Feminino,Outubro,5
+4174,2020,Mato Grosso do Sul,Feminino,Novembro,10
+4175,2020,Mato Grosso do Sul,Feminino,Dezembro,5
+4176,2020,Mato Grosso,Feminino,Janeiro,3
+4177,2020,Mato Grosso,Feminino,Fevereiro,2
+4178,2020,Mato Grosso,Feminino,Março,2
+4179,2020,Mato Grosso,Feminino,Abril,0
+4180,2020,Mato Grosso,Feminino,Maio,0
+4181,2020,Mato Grosso,Feminino,Junho,2
+4182,2020,Mato Grosso,Feminino,Julho,1
+4183,2020,Mato Grosso,Feminino,Agosto,0
+4184,2020,Mato Grosso,Feminino,Setembro,2
+4185,2020,Mato Grosso,Feminino,Outubro,3
+4186,2020,Mato Grosso,Feminino,Novembro,3
+4187,2020,Mato Grosso,Feminino,Dezembro,4
+4188,2020,Goiás,Feminino,Janeiro,11
+4189,2020,Goiás,Feminino,Fevereiro,5
+4190,2020,Goiás,Feminino,Março,11
+4191,2020,Goiás,Feminino,Abril,3
+4192,2020,Goiás,Feminino,Maio,2
+4193,2020,Goiás,Feminino,Junho,7
+4194,2020,Goiás,Feminino,Julho,10
+4195,2020,Goiás,Feminino,Agosto,16
+4196,2020,Goiás,Feminino,Setembro,12
+4197,2020,Goiás,Feminino,Outubro,16
+4198,2020,Goiás,Feminino,Novembro,13
+4199,2020,Goiás,Feminino,Dezembro,25
+4200,2020,Distrito Federal,Feminino,Janeiro,10
+4201,2020,Distrito Federal,Feminino,Fevereiro,6
+4202,2020,Distrito Federal,Feminino,Março,5
+4203,2020,Distrito Federal,Feminino,Abril,1
+4204,2020,Distrito Federal,Feminino,Maio,7
+4205,2020,Distrito Federal,Feminino,Junho,8
+4206,2020,Distrito Federal,Feminino,Julho,10
+4207,2020,Distrito Federal,Feminino,Agosto,5
+4208,2020,Distrito Federal,Feminino,Setembro,7
+4209,2020,Distrito Federal,Feminino,Outubro,7
+4210,2020,Distrito Federal,Feminino,Novembro,16
+4211,2020,Distrito Federal,Feminino,Dezembro,11
+4212,2021,Rondônia,Feminino,Janeiro,4
+4213,2021,Rondônia,Feminino,Fevereiro,2
+4214,2021,Rondônia,Feminino,Março,4
+4215,2021,Rondônia,Feminino,Abril,2
+4216,2021,Rondônia,Feminino,Maio,0
+4217,2021,Rondônia,Feminino,Junho,2
+4218,2021,Rondônia,Feminino,Julho,1
+4219,2021,Rondônia,Feminino,Agosto,0
+4220,2021,Rondônia,Feminino,Setembro,5
+4221,2021,Rondônia,Feminino,Outubro,2
+4222,2021,Rondônia,Feminino,Novembro,6
+4223,2021,Rondônia,Feminino,Dezembro,3
+4224,2021,Acre,Feminino,Janeiro,0
+4225,2021,Acre,Feminino,Fevereiro,1
+4226,2021,Acre,Feminino,Março,0
+4227,2021,Acre,Feminino,Abril,0
+4228,2021,Acre,Feminino,Maio,2
+4229,2021,Acre,Feminino,Junho,0
+4230,2021,Acre,Feminino,Julho,0
+4231,2021,Acre,Feminino,Agosto,0
+4232,2021,Acre,Feminino,Setembro,0
+4233,2021,Acre,Feminino,Outubro,2
+4234,2021,Acre,Feminino,Novembro,1
+4235,2021,Acre,Feminino,Dezembro,1
+4236,2021,Amazonas,Feminino,Janeiro,4
+4237,2021,Amazonas,Feminino,Fevereiro,2
+4238,2021,Amazonas,Feminino,Março,3
+4239,2021,Amazonas,Feminino,Abril,4
+4240,2021,Amazonas,Feminino,Maio,1
+4241,2021,Amazonas,Feminino,Junho,2
+4242,2021,Amazonas,Feminino,Julho,3
+4243,2021,Amazonas,Feminino,Agosto,5
+4244,2021,Amazonas,Feminino,Setembro,5
+4245,2021,Amazonas,Feminino,Outubro,6
+4246,2021,Amazonas,Feminino,Novembro,5
+4247,2021,Amazonas,Feminino,Dezembro,6
+4248,2021,Roraima,Feminino,Janeiro,2
+4249,2021,Roraima,Feminino,Fevereiro,1
+4250,2021,Roraima,Feminino,Março,0
+4251,2021,Roraima,Feminino,Abril,1
+4252,2021,Roraima,Feminino,Maio,1
+4253,2021,Roraima,Feminino,Junho,1
+4254,2021,Roraima,Feminino,Julho,2
+4255,2021,Roraima,Feminino,Agosto,1
+4256,2021,Roraima,Feminino,Setembro,2
+4257,2021,Roraima,Feminino,Outubro,1
+4258,2021,Roraima,Feminino,Novembro,2
+4259,2021,Roraima,Feminino,Dezembro,3
+4260,2021,Pará,Feminino,Janeiro,4
+4261,2021,Pará,Feminino,Fevereiro,6
+4262,2021,Pará,Feminino,Março,8
+4263,2021,Pará,Feminino,Abril,4
+4264,2021,Pará,Feminino,Maio,4
+4265,2021,Pará,Feminino,Junho,6
+4266,2021,Pará,Feminino,Julho,5
+4267,2021,Pará,Feminino,Agosto,9
+4268,2021,Pará,Feminino,Setembro,11
+4269,2021,Pará,Feminino,Outubro,10
+4270,2021,Pará,Feminino,Novembro,11
+4271,2021,Pará,Feminino,Dezembro,13
+4272,2021,Amapá,Feminino,Janeiro,0
+4273,2021,Amapá,Feminino,Fevereiro,0
+4274,2021,Amapá,Feminino,Março,0
+4275,2021,Amapá,Feminino,Abril,1
+4276,2021,Amapá,Feminino,Maio,1
+4277,2021,Amapá,Feminino,Junho,0
+4278,2021,Amapá,Feminino,Julho,3
+4279,2021,Amapá,Feminino,Agosto,2
+4280,2021,Amapá,Feminino,Setembro,3
+4281,2021,Amapá,Feminino,Outubro,2
+4282,2021,Amapá,Feminino,Novembro,2
+4283,2021,Amapá,Feminino,Dezembro,0
+4284,2021,Tocantins,Feminino,Janeiro,1
+4285,2021,Tocantins,Feminino,Fevereiro,2
+4286,2021,Tocantins,Feminino,Março,0
+4287,2021,Tocantins,Feminino,Abril,0
+4288,2021,Tocantins,Feminino,Maio,1
+4289,2021,Tocantins,Feminino,Junho,1
+4290,2021,Tocantins,Feminino,Julho,0
+4291,2021,Tocantins,Feminino,Agosto,1
+4292,2021,Tocantins,Feminino,Setembro,1
+4293,2021,Tocantins,Feminino,Outubro,2
+4294,2021,Tocantins,Feminino,Novembro,3
+4295,2021,Tocantins,Feminino,Dezembro,0
+4296,2021,Maranhão,Feminino,Janeiro,2
+4297,2021,Maranhão,Feminino,Fevereiro,3
+4298,2021,Maranhão,Feminino,Março,0
+4299,2021,Maranhão,Feminino,Abril,2
+4300,2021,Maranhão,Feminino,Maio,3
+4301,2021,Maranhão,Feminino,Junho,4
+4302,2021,Maranhão,Feminino,Julho,2
+4303,2021,Maranhão,Feminino,Agosto,4
+4304,2021,Maranhão,Feminino,Setembro,5
+4305,2021,Maranhão,Feminino,Outubro,4
+4306,2021,Maranhão,Feminino,Novembro,2
+4307,2021,Maranhão,Feminino,Dezembro,8
+4308,2021,Piauí,Feminino,Janeiro,0
+4309,2021,Piauí,Feminino,Fevereiro,0
+4310,2021,Piauí,Feminino,Março,1
+4311,2021,Piauí,Feminino,Abril,3
+4312,2021,Piauí,Feminino,Maio,0
+4313,2021,Piauí,Feminino,Junho,0
+4314,2021,Piauí,Feminino,Julho,1
+4315,2021,Piauí,Feminino,Agosto,1
+4316,2021,Piauí,Feminino,Setembro,2
+4317,2021,Piauí,Feminino,Outubro,6
+4318,2021,Piauí,Feminino,Novembro,5
+4319,2021,Piauí,Feminino,Dezembro,4
+4320,2021,Ceará,Feminino,Janeiro,20
+4321,2021,Ceará,Feminino,Fevereiro,15
+4322,2021,Ceará,Feminino,Março,15
+4323,2021,Ceará,Feminino,Abril,16
+4324,2021,Ceará,Feminino,Maio,18
+4325,2021,Ceará,Feminino,Junho,20
+4326,2021,Ceará,Feminino,Julho,24
+4327,2021,Ceará,Feminino,Agosto,27
+4328,2021,Ceará,Feminino,Setembro,16
+4329,2021,Ceará,Feminino,Outubro,25
+4330,2021,Ceará,Feminino,Novembro,18
+4331,2021,Ceará,Feminino,Dezembro,36
+4332,2021,Rio Grande do Norte,Feminino,Janeiro,9
+4333,2021,Rio Grande do Norte,Feminino,Fevereiro,7
+4334,2021,Rio Grande do Norte,Feminino,Março,12
+4335,2021,Rio Grande do Norte,Feminino,Abril,6
+4336,2021,Rio Grande do Norte,Feminino,Maio,6
+4337,2021,Rio Grande do Norte,Feminino,Junho,7
+4338,2021,Rio Grande do Norte,Feminino,Julho,7
+4339,2021,Rio Grande do Norte,Feminino,Agosto,6
+4340,2021,Rio Grande do Norte,Feminino,Setembro,11
+4341,2021,Rio Grande do Norte,Feminino,Outubro,8
+4342,2021,Rio Grande do Norte,Feminino,Novembro,12
+4343,2021,Rio Grande do Norte,Feminino,Dezembro,10
+4344,2021,Paraíba,Feminino,Janeiro,7
+4345,2021,Paraíba,Feminino,Fevereiro,9
+4346,2021,Paraíba,Feminino,Março,8
+4347,2021,Paraíba,Feminino,Abril,3
+4348,2021,Paraíba,Feminino,Maio,7
+4349,2021,Paraíba,Feminino,Junho,8
+4350,2021,Paraíba,Feminino,Julho,7
+4351,2021,Paraíba,Feminino,Agosto,7
+4352,2021,Paraíba,Feminino,Setembro,5
+4353,2021,Paraíba,Feminino,Outubro,8
+4354,2021,Paraíba,Feminino,Novembro,11
+4355,2021,Paraíba,Feminino,Dezembro,10
+4356,2021,Pernambuco,Feminino,Janeiro,14
+4357,2021,Pernambuco,Feminino,Fevereiro,19
+4358,2021,Pernambuco,Feminino,Março,15
+4359,2021,Pernambuco,Feminino,Abril,12
+4360,2021,Pernambuco,Feminino,Maio,17
+4361,2021,Pernambuco,Feminino,Junho,26
+4362,2021,Pernambuco,Feminino,Julho,17
+4363,2021,Pernambuco,Feminino,Agosto,18
+4364,2021,Pernambuco,Feminino,Setembro,29
+4365,2021,Pernambuco,Feminino,Outubro,14
+4366,2021,Pernambuco,Feminino,Novembro,32
+4367,2021,Pernambuco,Feminino,Dezembro,31
+4368,2021,Alagoas,Feminino,Janeiro,2
+4369,2021,Alagoas,Feminino,Fevereiro,8
+4370,2021,Alagoas,Feminino,Março,2
+4371,2021,Alagoas,Feminino,Abril,2
+4372,2021,Alagoas,Feminino,Maio,1
+4373,2021,Alagoas,Feminino,Junho,4
+4374,2021,Alagoas,Feminino,Julho,1
+4375,2021,Alagoas,Feminino,Agosto,2
+4376,2021,Alagoas,Feminino,Setembro,42
+4377,2021,Alagoas,Feminino,Outubro,7
+4378,2021,Alagoas,Feminino,Novembro,2
+4379,2021,Alagoas,Feminino,Dezembro,21
+4380,2021,Sergipe,Feminino,Janeiro,0
+4381,2021,Sergipe,Feminino,Fevereiro,0
+4382,2021,Sergipe,Feminino,Março,3
+4383,2021,Sergipe,Feminino,Abril,0
+4384,2021,Sergipe,Feminino,Maio,3
+4385,2021,Sergipe,Feminino,Junho,4
+4386,2021,Sergipe,Feminino,Julho,5
+4387,2021,Sergipe,Feminino,Agosto,3
+4388,2021,Sergipe,Feminino,Setembro,1
+4389,2021,Sergipe,Feminino,Outubro,0
+4390,2021,Sergipe,Feminino,Novembro,3
+4391,2021,Sergipe,Feminino,Dezembro,0
+4392,2021,Bahia,Feminino,Janeiro,14
+4393,2021,Bahia,Feminino,Fevereiro,9
+4394,2021,Bahia,Feminino,Março,14
+4395,2021,Bahia,Feminino,Abril,10
+4396,2021,Bahia,Feminino,Maio,12
+4397,2021,Bahia,Feminino,Junho,13
+4398,2021,Bahia,Feminino,Julho,21
+4399,2021,Bahia,Feminino,Agosto,17
+4400,2021,Bahia,Feminino,Setembro,11
+4401,2021,Bahia,Feminino,Outubro,14
+4402,2021,Bahia,Feminino,Novembro,25
+4403,2021,Bahia,Feminino,Dezembro,25
+4404,2021,Minas Gerais,Feminino,Janeiro,38
+4405,2021,Minas Gerais,Feminino,Fevereiro,41
+4406,2021,Minas Gerais,Feminino,Março,37
+4407,2021,Minas Gerais,Feminino,Abril,27
+4408,2021,Minas Gerais,Feminino,Maio,31
+4409,2021,Minas Gerais,Feminino,Junho,36
+4410,2021,Minas Gerais,Feminino,Julho,48
+4411,2021,Minas Gerais,Feminino,Agosto,41
+4412,2021,Minas Gerais,Feminino,Setembro,48
+4413,2021,Minas Gerais,Feminino,Outubro,61
+4414,2021,Minas Gerais,Feminino,Novembro,49
+4415,2021,Minas Gerais,Feminino,Dezembro,59
+4416,2021,Espírito Santo,Feminino,Janeiro,3
+4417,2021,Espírito Santo,Feminino,Fevereiro,6
+4418,2021,Espírito Santo,Feminino,Março,6
+4419,2021,Espírito Santo,Feminino,Abril,7
+4420,2021,Espírito Santo,Feminino,Maio,9
+4421,2021,Espírito Santo,Feminino,Junho,2
+4422,2021,Espírito Santo,Feminino,Julho,8
+4423,2021,Espírito Santo,Feminino,Agosto,5
+4424,2021,Espírito Santo,Feminino,Setembro,8
+4425,2021,Espírito Santo,Feminino,Outubro,8
+4426,2021,Espírito Santo,Feminino,Novembro,10
+4427,2021,Espírito Santo,Feminino,Dezembro,9
+4428,2021,Rio de Janeiro,Feminino,Janeiro,36
+4429,2021,Rio de Janeiro,Feminino,Fevereiro,25
+4430,2021,Rio de Janeiro,Feminino,Março,27
+4431,2021,Rio de Janeiro,Feminino,Abril,38
+4432,2021,Rio de Janeiro,Feminino,Maio,38
+4433,2021,Rio de Janeiro,Feminino,Junho,37
+4434,2021,Rio de Janeiro,Feminino,Julho,33
+4435,2021,Rio de Janeiro,Feminino,Agosto,50
+4436,2021,Rio de Janeiro,Feminino,Setembro,49
+4437,2021,Rio de Janeiro,Feminino,Outubro,46
+4438,2021,Rio de Janeiro,Feminino,Novembro,35
+4439,2021,Rio de Janeiro,Feminino,Dezembro,53
+4440,2021,São Paulo,Feminino,Janeiro,153
+4441,2021,São Paulo,Feminino,Fevereiro,124
+4442,2021,São Paulo,Feminino,Março,156
+4443,2021,São Paulo,Feminino,Abril,128
+4444,2021,São Paulo,Feminino,Maio,135
+4445,2021,São Paulo,Feminino,Junho,156
+4446,2021,São Paulo,Feminino,Julho,165
+4447,2021,São Paulo,Feminino,Agosto,159
+4448,2021,São Paulo,Feminino,Setembro,204
+4449,2021,São Paulo,Feminino,Outubro,236
+4450,2021,São Paulo,Feminino,Novembro,246
+4451,2021,São Paulo,Feminino,Dezembro,207
+4452,2021,Paraná,Feminino,Janeiro,19
+4453,2021,Paraná,Feminino,Fevereiro,20
+4454,2021,Paraná,Feminino,Março,23
+4455,2021,Paraná,Feminino,Abril,14
+4456,2021,Paraná,Feminino,Maio,21
+4457,2021,Paraná,Feminino,Junho,13
+4458,2021,Paraná,Feminino,Julho,21
+4459,2021,Paraná,Feminino,Agosto,18
+4460,2021,Paraná,Feminino,Setembro,27
+4461,2021,Paraná,Feminino,Outubro,36
+4462,2021,Paraná,Feminino,Novembro,42
+4463,2021,Paraná,Feminino,Dezembro,55
+4464,2021,Santa Catarina,Feminino,Janeiro,17
+4465,2021,Santa Catarina,Feminino,Fevereiro,9
+4466,2021,Santa Catarina,Feminino,Março,15
+4467,2021,Santa Catarina,Feminino,Abril,18
+4468,2021,Santa Catarina,Feminino,Maio,13
+4469,2021,Santa Catarina,Feminino,Junho,18
+4470,2021,Santa Catarina,Feminino,Julho,17
+4471,2021,Santa Catarina,Feminino,Agosto,23
+4472,2021,Santa Catarina,Feminino,Setembro,24
+4473,2021,Santa Catarina,Feminino,Outubro,19
+4474,2021,Santa Catarina,Feminino,Novembro,18
+4475,2021,Santa Catarina,Feminino,Dezembro,33
+4476,2021,Rio Grande do Sul,Feminino,Janeiro,14
+4477,2021,Rio Grande do Sul,Feminino,Fevereiro,13
+4478,2021,Rio Grande do Sul,Feminino,Março,16
+4479,2021,Rio Grande do Sul,Feminino,Abril,13
+4480,2021,Rio Grande do Sul,Feminino,Maio,8
+4481,2021,Rio Grande do Sul,Feminino,Junho,17
+4482,2021,Rio Grande do Sul,Feminino,Julho,23
+4483,2021,Rio Grande do Sul,Feminino,Agosto,16
+4484,2021,Rio Grande do Sul,Feminino,Setembro,24
+4485,2021,Rio Grande do Sul,Feminino,Outubro,18
+4486,2021,Rio Grande do Sul,Feminino,Novembro,29
+4487,2021,Rio Grande do Sul,Feminino,Dezembro,21
+4488,2021,Mato Grosso do Sul,Feminino,Janeiro,2
+4489,2021,Mato Grosso do Sul,Feminino,Fevereiro,6
+4490,2021,Mato Grosso do Sul,Feminino,Março,4
+4491,2021,Mato Grosso do Sul,Feminino,Abril,9
+4492,2021,Mato Grosso do Sul,Feminino,Maio,7
+4493,2021,Mato Grosso do Sul,Feminino,Junho,6
+4494,2021,Mato Grosso do Sul,Feminino,Julho,7
+4495,2021,Mato Grosso do Sul,Feminino,Agosto,12
+4496,2021,Mato Grosso do Sul,Feminino,Setembro,8
+4497,2021,Mato Grosso do Sul,Feminino,Outubro,13
+4498,2021,Mato Grosso do Sul,Feminino,Novembro,7
+4499,2021,Mato Grosso do Sul,Feminino,Dezembro,13
+4500,2021,Mato Grosso,Feminino,Janeiro,7
+4501,2021,Mato Grosso,Feminino,Fevereiro,1
+4502,2021,Mato Grosso,Feminino,Março,6
+4503,2021,Mato Grosso,Feminino,Abril,5
+4504,2021,Mato Grosso,Feminino,Maio,7
+4505,2021,Mato Grosso,Feminino,Junho,7
+4506,2021,Mato Grosso,Feminino,Julho,3
+4507,2021,Mato Grosso,Feminino,Agosto,9
+4508,2021,Mato Grosso,Feminino,Setembro,5
+4509,2021,Mato Grosso,Feminino,Outubro,22
+4510,2021,Mato Grosso,Feminino,Novembro,12
+4511,2021,Mato Grosso,Feminino,Dezembro,7
+4512,2021,Goiás,Feminino,Janeiro,10
+4513,2021,Goiás,Feminino,Fevereiro,4
+4514,2021,Goiás,Feminino,Março,11
+4515,2021,Goiás,Feminino,Abril,11
+4516,2021,Goiás,Feminino,Maio,7
+4517,2021,Goiás,Feminino,Junho,13
+4518,2021,Goiás,Feminino,Julho,10
+4519,2021,Goiás,Feminino,Agosto,6
+4520,2021,Goiás,Feminino,Setembro,12
+4521,2021,Goiás,Feminino,Outubro,15
+4522,2021,Goiás,Feminino,Novembro,21
+4523,2021,Goiás,Feminino,Dezembro,13
+4524,2021,Distrito Federal,Feminino,Janeiro,9
+4525,2021,Distrito Federal,Feminino,Fevereiro,11
+4526,2021,Distrito Federal,Feminino,Março,13
+4527,2021,Distrito Federal,Feminino,Abril,10
+4528,2021,Distrito Federal,Feminino,Maio,10
+4529,2021,Distrito Federal,Feminino,Junho,11
+4530,2021,Distrito Federal,Feminino,Julho,10
+4531,2021,Distrito Federal,Feminino,Agosto,12
+4532,2021,Distrito Federal,Feminino,Setembro,13
+4533,2021,Distrito Federal,Feminino,Outubro,15
+4534,2021,Distrito Federal,Feminino,Novembro,20
+4535,2021,Distrito Federal,Feminino,Dezembro,6
