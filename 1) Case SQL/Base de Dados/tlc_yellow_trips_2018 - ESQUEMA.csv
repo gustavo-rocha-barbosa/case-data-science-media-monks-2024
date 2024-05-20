@@ -1,0 +1,18 @@
+Nome do Campo,Tipo,Descrição
+vendor_id,STRING,"Um código indicando o provedor TPEP que forneceu o registro. 1= Creative Mobile Technologies, LLC; 2= VeriFone Inc"
+pickup_datetime,DATETIME,A data e hora em que o taxímetro foi ativado.
+dropoff_datetime,DATETIME,A data e hora em que o taxímetro foi desativado.
+passenger_count,INTEGER,O número de passageiros no veículo. Este é um valor inserido pelo motorista.
+trip_distance,NUMERIC,"A distância percorrida na viagem em milhas, conforme relatado pelo taxímetro."
+rate_code,STRING,O código da tarifa final em vigor no final da viagem. 1= Tarifa padrão 2= JFK 3= Newark 4= Nassau ou Westchester 5= Tarifa negociada 6= Viagem em grupo
+store_and_fwd_flag,STRING,"Este indicador mostra se o registro da viagem foi armazenado na memória do veículo antes de ser enviado ao fornecedor, também conhecido como ""store and forward"", porque o veículo não tinha conexão com o servidor. Y= viagem armazenada e encaminhada N= viagem não armazenada e encaminhada"
+payment_type,STRING,Um código numérico que indica como o passageiro pagou pela viagem. 1= Cartão de crédito 2= Dinheiro 3= Sem cobrança 4= Disputa 5= Desconhecido 6= Viagem anulada
+fare_amount,NUMERIC,A tarifa calculada pelo taxímetro baseada no tempo e na distância.
+extra,NUMERIC,"Extras e sobretaxas diversas. Atualmente, isso inclui apenas as cobranças de $0.50 e $1 para horários de pico e noturnos."
+mta_tax,NUMERIC,Imposto MTA de $0.50 que é automaticamente acionado com base na tarifa do taxímetro em uso.
+tip_amount,NUMERIC,Valor da gorjeta – Este campo é automaticamente preenchido para gorjetas em cartões de crédito. Gorjetas em dinheiro não estão incluídas.
+tolls_amount,NUMERIC,Valor total de todos os pedágios pagos na viagem.
+imp_surcharge,NUMERIC,Sobretaxa de melhoria de $0.30 cobrada nas viagens no início da corrida. A sobretaxa de melhoria começou a ser cobrada em 2015.
+total_amount,NUMERIC,O valor total cobrado aos passageiros. Não inclui gorjetas em dinheiro.
+pickup_location_id,STRING,Zona de táxi TLC onde o taxímetro foi ativado.
+dropoff_location_id,STRING,Zona de táxi TLC onde o taxímetro foi desativado.
