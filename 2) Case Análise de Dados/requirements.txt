@@ -1,0 +1,6 @@
+pandas
+datetime
+os
+matplotlib
+statsmodels
+numpy #numpy trabalha em conjunto com o statsmodels no presente trabalho
