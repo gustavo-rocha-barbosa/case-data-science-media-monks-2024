@@ -1,6 +1,6 @@
-pandas
-datetime
-os
-matplotlib
-statsmodels
+pandas #DataFrame
+datetime #tratamento de dados de data
+os #leitura, dowload e upload de arquivos
+matplotlib #plot de gráficos (dataviz)
+statsmodels #regressão linear
 numpy #numpy trabalha em conjunto com o statsmodels no presente trabalho
