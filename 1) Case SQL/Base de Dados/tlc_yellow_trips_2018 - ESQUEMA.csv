@@ -1,18 +1,18 @@
-Nome do Campo,Tipo,Descrição
-vendor_id,STRING,"Um código indicando o provedor TPEP que forneceu o registro. 1= Creative Mobile Technologies, LLC; 2= VeriFone Inc"
-pickup_datetime,DATETIME,A data e hora em que o taxímetro foi ativado.
-dropoff_datetime,DATETIME,A data e hora em que o taxímetro foi desativado.
-passenger_count,INTEGER,O número de passageiros no veículo. Este é um valor inserido pelo motorista.
-trip_distance,NUMERIC,"A distância percorrida na viagem em milhas, conforme relatado pelo taxímetro."
-rate_code,STRING,O código da tarifa final em vigor no final da viagem. 1= Tarifa padrão 2= JFK 3= Newark 4= Nassau ou Westchester 5= Tarifa negociada 6= Viagem em grupo
-store_and_fwd_flag,STRING,"Este indicador mostra se o registro da viagem foi armazenado na memória do veículo antes de ser enviado ao fornecedor, também conhecido como ""store and forward"", porque o veículo não tinha conexão com o servidor. Y= viagem armazenada e encaminhada N= viagem não armazenada e encaminhada"
-payment_type,STRING,Um código numérico que indica como o passageiro pagou pela viagem. 1= Cartão de crédito 2= Dinheiro 3= Sem cobrança 4= Disputa 5= Desconhecido 6= Viagem anulada
-fare_amount,NUMERIC,A tarifa calculada pelo taxímetro baseada no tempo e na distância.
-extra,NUMERIC,"Extras e sobretaxas diversas. Atualmente, isso inclui apenas as cobranças de $0.50 e $1 para horários de pico e noturnos."
-mta_tax,NUMERIC,Imposto MTA de $0.50 que é automaticamente acionado com base na tarifa do taxímetro em uso.
-tip_amount,NUMERIC,Valor da gorjeta – Este campo é automaticamente preenchido para gorjetas em cartões de crédito. Gorjetas em dinheiro não estão incluídas.
-tolls_amount,NUMERIC,Valor total de todos os pedágios pagos na viagem.
-imp_surcharge,NUMERIC,Sobretaxa de melhoria de $0.30 cobrada nas viagens no início da corrida. A sobretaxa de melhoria começou a ser cobrada em 2015.
-total_amount,NUMERIC,O valor total cobrado aos passageiros. Não inclui gorjetas em dinheiro.
-pickup_location_id,STRING,Zona de táxi TLC onde o taxímetro foi ativado.
-dropoff_location_id,STRING,Zona de táxi TLC onde o taxímetro foi desativado.
+Nome do campo,Tipo,Descrição
+vendor_id,STRING,"A code indicating the TPEP provider that provided the record. 1= Creative Mobile Technologies, LLC; 2= VeriFone Inc"
+pickup_datetime,DATETIME,The date and time when the meter was engaged.
+dropoff_datetime,DATETIME,The date and time when the meter was disengaged.
+passenger_count,INTEGER,The number of passengers in the vehicle. This is a driver-entered value
+trip_distance,NUMERIC,The elapsed trip distance in miles reported by the taximeter.
+rate_code,STRING,The final rate code in effect at the end of the trip. 1= Standard rate 2=JFK 3=Newark 4=Nassau or Westchester 5=Negotiated fare 6=Group ride
+store_and_fwd_flag,STRING,"This flag indicates whether the trip record was held in vehicle memory before sending to the vendor, aka “store and forward,” because the vehicle did not have a connection to the server. Y= store and forward trip N= not a store and forward trip"
+payment_type,STRING,A numeric code signifying how the passenger paid for the trip. 1= Credit card 2= Cash 3= No charge 4= Dispute 5= Unknown 6= Voided trip
+fare_amount,NUMERIC,The time-and-distance fare calculated by the meter
+extra,NUMERIC,"Miscellaneous extras and surcharges. Currently, this only includes the $0.50 and $1 rush hour and overnight charges."
+mta_tax,NUMERIC,$0.50 MTA tax that is automatically triggered based on the metered rate in use
+tip_amount,NUMERIC,Tip amount – This field is automatically populated for credit card tips. Cash tips are not included
+tolls_amount,NUMERIC,Total amount of all tolls paid in trip.
+imp_surcharge,NUMERIC,$0.30 improvement surcharge assessed trips at the flag drop. The improvement surcharge began being levied in 2015.
+total_amount,NUMERIC,The total amount charged to passengers. Does not include cash tips
+pickup_location_id,STRING,TLC Taxi Zone in which the taximeter was engaged
+dropoff_location_id,STRING,TLC Taxi Zone in which the taximeter was disengaged
