@@ -1,2 +1,2 @@
 # case-data-science-media-monks-2024
-### Hello World!
+## Para acessar a problemática do case, abra o [PDF - Case]()  
