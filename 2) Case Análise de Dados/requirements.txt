@@ -4,4 +4,4 @@ os #leitura, dowload e upload de arquivos
 matplotlib #plot de gráficos (dataviz)
 statsmodels #regressão linear
 numpy #numpy trabalha em conjunto com o statsmodels no presente trabalho
-sklearn #biblioteca para regressão linear
+scikit-learn #biblioteca para regressão linear
