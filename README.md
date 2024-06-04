@@ -1,5 +1,5 @@
 # case-data-science-media-monks-2024
-## Para acessar a problemática do case, abra o [PDF - Case](https://github.com/gustavo-rocha-barbosa/case-data-science-media-monks-2024/tree/main/Case) [DS - PSEL Interno] Avaliação Técnica.pdf
+## Para acessar a problemática do case, abra a Pasta: [Case](https://github.com/gustavo-rocha-barbosa/case-data-science-media-monks-2024/tree/main/Case) e depois abra o arquivo: **["[DS - PSEL Interno] Avaliação Técnica.pdf"](https://github.com/gustavo-rocha-barbosa/case-data-science-media-monks-2024/blob/main/Case/%5BDS%20-%20PSEL%20Interno%5D%20Avalia%C3%A7%C3%A3o%20T%C3%A9cnica.pdf)**
 
 ### Nas pastas do projeto:
 
